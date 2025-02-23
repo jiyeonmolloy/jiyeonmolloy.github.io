@@ -69,8 +69,11 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome! I'm Ji 🥰 working as a Software Engineer!
+    Title: "Hello 🥰 I'm Ji"
+    Content: | 
+      I'm a Software Engineer 💌                                                     
+
+      ![alt text](/assets/images/eevee-on-computer-circle.png)
 
   socialIcons:
     - name: linkedin
