@@ -1,17 +1,17 @@
 ---
-title: "Portfolio"
-date: 2024-02-23T11:30:03+00:00
-weight: 1
+title: "Serverless Days"
+date: 2024-05-24T11:30:03+00:00
+# weight: 1
 # aliases: ["/first"]
-tags: ["portfolio"]
+tags: ["serverless", "conference"]
 author: "Ji Molloy"
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Ji's Portfolio"
-canonicalURL: "https://jiyeonmolloy.github.io/portfolio"
+description: "Ji's experience attending the Serverless Days Conference"
+canonicalURL: "https://jiyeonmolloy.github.io/serverless-days"
 disableHLJS: true # to disable highlightjs
 disableShare: true
 disableHLJS: false

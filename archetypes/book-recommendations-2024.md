@@ -1,17 +1,17 @@
 ---
-title: "Portfolio"
-date: 2024-02-23T11:30:03+00:00
-weight: 1
+title: "Book Recommendations for Software Engineers - 2024"
+date: 2024-06-06T11:30:03+00:00
+# weight: 1
 # aliases: ["/first"]
-tags: ["portfolio"]
+tags: ["book", "recommendations", "software", "engineers"]
 author: "Ji Molloy"
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Ji's Portfolio"
-canonicalURL: "https://jiyeonmolloy.github.io/portfolio"
+description: "Ji's Book Recommendations for Software Engineers in 2024"
+canonicalURL: "https://jiyeonmolloy.github.io/book-recommendations-2024"
 disableHLJS: true # to disable highlightjs
 disableShare: true
 disableHLJS: false
