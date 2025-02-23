@@ -11,7 +11,17 @@
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 16:08:33 +1300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portfolio</title>
+      <link>http://localhost:1313/portfolio/</link>
+      <pubDate>Sun, 23 Feb 2025 16:08:33 +1300</pubDate>
+      <guid>http://localhost:1313/portfolio/</guid>
+      <description>&lt;h2 id=&#34;devops-cop-&#34;&gt;DevOps CoP 🚀&lt;/h2&gt;
+&lt;p&gt;DevOps Community of Practice, organiser (2021 - Present) and speaker 🎙&lt;/p&gt;
+&lt;h2 id=&#34;xcite-&#34;&gt;XCITE ⚡&lt;/h2&gt;
+&lt;p&gt;Annual conference at Xero, organiser (2023) and speaker 🎤&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

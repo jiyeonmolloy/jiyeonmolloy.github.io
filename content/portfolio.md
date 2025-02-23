@@ -4,8 +4,8 @@ draft: false
 title: 'Portfolio'
 ---
 
-## DevOps CoP
-DevOps Community of Practice, organiser (2021 - Present) and speaker
+## DevOps CoP 🚀
+DevOps Community of Practice, organiser (2021 - Present) and speaker 🎙
 
-## XCITE
-Annual conference at Xero, organiser (2023) and speaker
+## XCITE ⚡
+Annual conference at Xero, organiser (2023) and speaker 🎤
