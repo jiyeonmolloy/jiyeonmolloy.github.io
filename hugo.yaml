@@ -70,7 +70,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hello 🥰 I'm Ji"
+    Title: "Hello! 안녕하세요! 🥰 I'm Ji"
     Content: | 
       I'm a Software Engineer 💌                                                     
 
@@ -82,7 +82,7 @@ params:
     - name: github
       url: "https://github.com/jiyeonmolloy"
     - name: email
-      url: "mailto://jiyeon.molloy@gmail.com"
+      url: "mailto:jiyeon.molloy@gmail.com"
 
   analytics:
     google:
