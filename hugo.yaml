@@ -80,6 +80,8 @@ params:
       url: "https://www.linkedin.com/in/jiyeonmolloy/"
     - name: github
       url: "https://github.com/jiyeonmolloy"
+    - name: email
+      url: "mailto://jiyeon.molloy@gmail.com"
 
   analytics:
     google:
