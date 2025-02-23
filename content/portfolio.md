@@ -1,8 +1,7 @@
 ---
-date: '2025-02-23T16:08:33+13:00'
+date: '2025-02-23T16:51:19+13:00'
 draft: false
 title: 'Portfolio'
-weight: 1
 ---
 
 ## DevOps CoP 🚀
