@@ -3,6 +3,7 @@ languageCode: en-us
 title: Ji Molloy
 theme: ["PaperMod"]
 
+enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -73,7 +74,7 @@ params:
     Content: | 
       I'm a Software Engineer 💌                                                     
 
-      ![alt text](/assets/images/eevee-on-computer-circle.png)
+      ![alt text](/assets/images/eevee-on-computer-circle.png#center)
 
   socialIcons:
     - name: linkedin
@@ -97,9 +98,9 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/jiyeonmolloy/jiyeonmolloy.github.io/content"
     Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    appendFilePath: false # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
