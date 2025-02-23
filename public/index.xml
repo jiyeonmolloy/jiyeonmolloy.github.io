@@ -11,7 +11,14 @@
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 15:34:38 +1300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Blog Post</title>
+      <link>http://localhost:1313/page/</link>
+      <pubDate>Sun, 23 Feb 2025 15:34:38 +1300</pubDate>
+      <guid>http://localhost:1313/page/</guid>
+      <description>&lt;h1 id=&#34;hello-hello&#34;&gt;Hello hello&lt;/h1&gt;</description>
+    </item>
   </channel>
 </rss>
