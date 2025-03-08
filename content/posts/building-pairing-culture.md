@@ -42,7 +42,7 @@ In [Jira](https://www.atlassian.com/software/jira): which is a tool for project 
 
 E.g. `<Jira Title> 🍐 Will`
 
-We're looking forward to Jira implementing either a dedicated field in the Details section or native support for multiple assignees, which would streamline the process of tracking and documenting pair programming sessions on tickets Jira
+We're looking forward to Jira implementing either a dedicated field in the Details section or native support for multiple assignees, which would streamline the process of tracking and documenting pair programming sessions on tickets!
 
 ![alt text](/assets/images/jira-assignee-details.png)
 
