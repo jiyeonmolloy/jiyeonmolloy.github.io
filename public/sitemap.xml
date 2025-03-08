@@ -29,16 +29,31 @@
     <loc>http://localhost:1313/tags/team-topologies/</loc>
     <lastmod>2025-02-14T17:11:43+13:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-09-12T17:43:30+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/certification/</loc>
+    <lastmod>2024-09-12T17:43:30+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/terraform-associate-003/</loc>
+    <lastmod>2024-09-12T17:43:30+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/software-engineers/</loc>
+    <lastmod>2024-09-12T17:43:30+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/solutions-architect/</loc>
+    <lastmod>2024-09-12T17:43:30+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/terraform/</loc>
+    <lastmod>2024-09-12T17:43:30+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tips/</loc>
+    <lastmod>2024-09-12T17:43:30+13:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/book-recommendations/</loc>
     <lastmod>2024-06-06T17:07:53+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/book-recommendations-2024/</loc>
-    <lastmod>2024-06-06T17:07:53+13:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-06-06T17:07:53+13:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/software-engineers/</loc>
     <lastmod>2024-06-06T17:07:53+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/conference/</loc>
@@ -56,16 +71,7 @@
     <loc>http://localhost:1313/categories/aws/</loc>
     <lastmod>2022-08-25T17:04:04+13:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/certification/</loc>
-    <lastmod>2022-08-25T17:04:04+13:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/aws-solutions-architect-saa-c02/</loc>
-    <lastmod>2022-08-25T17:04:04+13:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/solutions-architect/</loc>
-    <lastmod>2022-08-25T17:04:04+13:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/tips/</loc>
     <lastmod>2022-08-25T17:04:04+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>

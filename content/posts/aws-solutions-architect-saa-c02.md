@@ -2,7 +2,6 @@
 date: '2022-08-25T17:04:04+13:00'
 draft: false
 title: 'Getting AWS Solutions Architect Certified! 🚀'
-categories: ["AWS", "Architect" ]
 categories: ["aws", "certification", "solutions architect", "software engineers", "tips"]
 ---
 
