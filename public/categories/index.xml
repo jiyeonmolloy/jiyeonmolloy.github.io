@@ -48,5 +48,33 @@
       <guid>http://localhost:1313/categories/serverless/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Aws</title>
+      <link>http://localhost:1313/categories/aws/</link>
+      <pubDate>Thu, 25 Aug 2022 17:04:04 +1300</pubDate>
+      <guid>http://localhost:1313/categories/aws/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Certification</title>
+      <link>http://localhost:1313/categories/certification/</link>
+      <pubDate>Thu, 25 Aug 2022 17:04:04 +1300</pubDate>
+      <guid>http://localhost:1313/categories/certification/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Solutions Architect</title>
+      <link>http://localhost:1313/categories/solutions-architect/</link>
+      <pubDate>Thu, 25 Aug 2022 17:04:04 +1300</pubDate>
+      <guid>http://localhost:1313/categories/solutions-architect/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips</title>
+      <link>http://localhost:1313/categories/tips/</link>
+      <pubDate>Thu, 25 Aug 2022 17:04:04 +1300</pubDate>
+      <guid>http://localhost:1313/categories/tips/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

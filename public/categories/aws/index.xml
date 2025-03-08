@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Aws on Ji Molloy</title>
+    <link>http://localhost:1313/categories/aws/</link>
+    <description>Recent content in Aws on Ji Molloy</description>
+    <image>
+      <title>Ji Molloy</title>
+      <url>http://localhost:1313/assets/images/eevee-on-computer-circle.png</url>
+      <link>http://localhost:1313/assets/images/eevee-on-computer-circle.png</link>
+    </image>
+    <generator>Hugo -- 0.144.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Aug 2022 17:04:04 +1300</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting AWS Solutions Architect Certified! 🚀</title>
+      <link>http://localhost:1313/posts/aws-solutions-architect-saa-c02/</link>
+      <pubDate>Thu, 25 Aug 2022 17:04:04 +1300</pubDate>
+      <guid>http://localhost:1313/posts/aws-solutions-architect-saa-c02/</guid>
+      <description>&lt;h2 id=&#34;benefits-of-getting-aws-certified-&#34;&gt;Benefits of getting AWS Certified ✨&lt;/h2&gt;
+&lt;p&gt;Please note that the exam content has changed on 29th August 2022 (SAA-C03), so the content and resources I share in this post may be out-of-date! ☕&lt;/p&gt;
+&lt;p&gt;I prepared for the AWS Solutions Architect - Associate certification, which is about:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designing a solution by using appropriate AWS services and by following architectural principles based on requirements&lt;/li&gt;
+&lt;li&gt;Providing implementation guidance based on best practices to the organisation throughout the workload lifecycle&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I got exposure to the wider AWS services than the ones I use regularly in my day to day job 😎 also, I gained a deeper understanding around AWS services and how they interact and fit together. I really enjoyed understanding various use cases and coming up with solutions, and getting a taste of what a role of a Solutions Architect may be like 🌟!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
