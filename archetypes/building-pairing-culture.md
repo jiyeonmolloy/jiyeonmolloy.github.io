@@ -1,6 +1,6 @@
 ---
-title: "Getting Terraform Certified! 🌍"
-date: 2024-09-01T11:30:03+00:00
+title: "Building a strong pairing culture! 🎧"
+date: 2025-01-12T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
 author: "Ji Molloy"
@@ -9,8 +9,8 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Getting Terraform Certified"
-canonicalURL: "https://jiyeonmolloy.github.io/terraform-associate-003"
+description: "Leveling up together and building a strong pairing culture"
+canonicalURL: "https://jiyeonmolloy.github.io/building-pairing-culture"
 disableHLJS: true # to disable highlightjs
 disableShare: true
 disableHLJS: false
