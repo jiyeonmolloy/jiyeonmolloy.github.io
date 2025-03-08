@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Software Engineers on Ji Molloy</title>
+    <link>http://localhost:1313/categories/software-engineers/</link>
+    <description>Recent content in Software Engineers on Ji Molloy</description>
+    <image>
+      <title>Ji Molloy</title>
+      <url>http://localhost:1313/assets/images/eevee-on-computer-circle.png</url>
+      <link>http://localhost:1313/assets/images/eevee-on-computer-circle.png</link>
+    </image>
+    <generator>Hugo -- 0.144.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jun 2024 17:07:53 +1300</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/software-engineers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Recommendations for Sofware Engineers in 2024</title>
+      <link>http://localhost:1313/posts/book-recommendations-2024/</link>
+      <pubDate>Thu, 06 Jun 2024 17:07:53 +1300</pubDate>
+      <guid>http://localhost:1313/posts/book-recommendations-2024/</guid>
+      <description>&lt;h2 id=&#34;-recommended-books-for-software-engineers-&#34;&gt;📚 Recommended Books for Software Engineers 📚&lt;/h2&gt;
+&lt;p&gt;As a software engineer, continually enhancing your skills and knowledge is crucial. Reading books that provide insights into different aspects of software development, team dynamics, and coding best practices can significantly help contribute to your professional growth.&lt;/p&gt;
+&lt;p&gt;Here are three highly recommended books that every software engineer should read.&lt;/p&gt;
+&lt;h2 id=&#34;accelerate-the-science-of-lean-software-and-devops-building-and-scaling-high-performing-technology-organizations-&#34;&gt;&lt;a href=&#34;https://www.goodreads.com/book/show/35747076-accelerate&#34;&gt;Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations&lt;/a&gt; 🚀&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Nicole Forsgren, Jez Humble, Gene Kim&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Serverless Days 🥨</title>
+      <link>http://localhost:1313/posts/serverless-days/</link>
+      <pubDate>Fri, 24 May 2024 17:01:51 +1300</pubDate>
+      <guid>http://localhost:1313/posts/serverless-days/</guid>
+      <description>&lt;h2 id=&#34;serverless-days&#34;&gt;Serverless Days!&lt;/h2&gt;
+&lt;p&gt;Click &lt;a href=&#34;https://anz.serverlessdays.io/auckland/&#34;&gt;here&lt;/a&gt; to see the full agenda&lt;/p&gt;
+&lt;p&gt;I had the amazing opportunity to attend ServerLess Days. If you are working with serverless technology and would like to meet other active developers and technical leaders from across the Australia &amp;amp; New Zealand region, while hearing from some world-class speakers, I highly recommend attending this event!&lt;/p&gt;
+&lt;p&gt;Here is a quick recap of my learnings!!&lt;/p&gt;
+&lt;h3 id=&#34;think-architect-and-build-serverless-applications-as-set-pieces&#34;&gt;Think, Architect, and Build Serverless Applications as Set Pieces&lt;/h3&gt;
+&lt;h4 id=&#34;speaker-sheen-brisals&#34;&gt;Speaker: &lt;a href=&#34;https://anz.serverlessdays.io/speakers/sheen/&#34;&gt;Sheen Brisals&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Accumulated architecture HIDES complexity&lt;/li&gt;
+&lt;li&gt;Distributed architecture SHOWS the complexity&lt;/li&gt;
+&lt;li&gt;Problem Decomposition
+&lt;ul&gt;
+&lt;li&gt;Utilise serverless characteristics
+&lt;ul&gt;
+&lt;li&gt;Event-driven architecture&lt;/li&gt;
+&lt;li&gt;Using managed services&lt;/li&gt;
+&lt;li&gt;Infrastructure-as-code ♥&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Employ PROVEN patterns
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://martinfowler.com/bliki/DomainDrivenDesign.html&#34;&gt;Domain Driven Design&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Domains and sub-domains&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://martinfowler.com/bliki/BoundedContext.html&#34;&gt;Bounded context&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://teamtopologies.com/&#34;&gt;Team Topologies&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Team ownership and custodians&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Microservices
+&lt;ul&gt;
+&lt;li&gt;Independently releasable single-purpose services&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;SUSTAIN the architecture, application and processes 🌳
+&lt;ul&gt;
+&lt;li&gt;⬇ sustainability: Waterfall development&lt;/li&gt;
+&lt;li&gt;⬆ sustainability:
+&lt;ul&gt;
+&lt;li&gt;Serverless ways of thinking&lt;/li&gt;
+&lt;li&gt;Evolving architecture&lt;/li&gt;
+&lt;li&gt;Minimum Viable Product (MVP 🌟)&lt;/li&gt;
+&lt;li&gt;Modular, extendable and observable product&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Follow lean principles&lt;/li&gt;
+&lt;li&gt;Improve Value Stream&lt;/li&gt;
+&lt;li&gt;Agile &amp;amp; Pragmatic&lt;/li&gt;
+&lt;li&gt;Start SMALL and scale!&lt;/li&gt;
+&lt;li&gt;Evolve in ITERATIONS&lt;/li&gt;
+&lt;li&gt;Automate EVERYTHING 😎&lt;/li&gt;
+&lt;li&gt;DevOps Mindset&lt;/li&gt;
+&lt;li&gt;Refactor Continuously 💖&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Growing talent in the team 🌻
+&lt;ul&gt;
+&lt;li&gt;Enablement within the team 🌼&lt;/li&gt;
+&lt;li&gt;Celebrating wins&lt;/li&gt;
+&lt;li&gt;Instill ownership&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;whether-serverless-or-not-its-all-about-how-you-drive-your-project&#34;&gt;Whether Serverless or Not, It&amp;rsquo;s all about how you drive your project!&lt;/h3&gt;
+&lt;h4 id=&#34;speaker-nelly-sattari&#34;&gt;Speaker: &lt;a href=&#34;https://anz.serverlessdays.io/speakers/nelly/&#34;&gt;Nelly Sattari&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Keywords: Accountable, Agile, Healthy and Focused&lt;/li&gt;
+&lt;li&gt;The art of impossible
+&lt;ul&gt;
+&lt;li&gt;Coach - Helping individuals&lt;/li&gt;
+&lt;li&gt;Connector - Building a healthy team&lt;/li&gt;
+&lt;li&gt;Conductor - Driving projects&lt;/li&gt;
+&lt;li&gt;Compass - Setting the direction&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t forget to connect with stakeholders&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.atlassian.com/software/atlas&#34;&gt;Atlas&lt;/a&gt; Atlassian product that is a teamwork directory. For example, every Monday we can review how the team is doing!&lt;/li&gt;
+&lt;li&gt;Making it clear what everyone&amp;rsquo;s roles and responsibilities are&lt;/li&gt;
+&lt;li&gt;Building an Agile Team
+&lt;ul&gt;
+&lt;li&gt;Fixed: People, Team and Scope&lt;/li&gt;
+&lt;li&gt;Epic ▶ Milestone
+&lt;ul&gt;
+&lt;li&gt;Incremental delivery&lt;/li&gt;
+&lt;li&gt;Breakdown MVP&lt;/li&gt;
+&lt;li&gt;Carry out within 1 to 2 sprints&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Importance of Sprint Goals ⚽
+&lt;ul&gt;
+&lt;li&gt;Achieving Sprint Goals is MORE important than shipping all the tickets&lt;/li&gt;
+&lt;li&gt;Each milestone could be a goal?&lt;/li&gt;
+&lt;li&gt;Goal setting meeting to review if the team met their goals in the previous sprint
+&lt;ul&gt;
+&lt;li&gt;Teams can answer YES, PARTIALLY or NO&lt;/li&gt;
+&lt;li&gt;If the sprint goal hasn&amp;rsquo;t been met, have a meeting to identify why the goals were not met&lt;/li&gt;
+&lt;li&gt;Other Agile Rituals include Sprint Checkpoint and Capacity Planning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;💟 DATA DRIVEN LEADERS 💟
+&lt;ul&gt;
+&lt;li&gt;Identifying work that is carried over multiple sprints, what are the dependencies? Why was this work not completed within the sprint?&lt;/li&gt;
+&lt;li&gt;Measuring velocity&lt;/li&gt;
+&lt;li&gt;Measure everything, no &amp;ldquo;gut feelings&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Connection
+&lt;ul&gt;
+&lt;li&gt;Social events&lt;/li&gt;
+&lt;li&gt;Celebrating milestones&lt;/li&gt;
+&lt;li&gt;Recognition&lt;/li&gt;
+&lt;li&gt;Beware of burn-outs!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Collaboration
+&lt;ul&gt;
+&lt;li&gt;Providing training&lt;/li&gt;
+&lt;li&gt;Mentoring and pairing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Data-Driven Engineer who recognises importance of Agile rituals&lt;/li&gt;
+&lt;li&gt;More team members can cause overhead
+&lt;ul&gt;
+&lt;li&gt;Adding more team members doesn&amp;rsquo;t mean the team will have higher velocity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Developing self-healing / stateless / idempotent systems&lt;/li&gt;
+&lt;li&gt;Working on serverless and real time observability&lt;/li&gt;
+&lt;li&gt;Summary
+&lt;ul&gt;
+&lt;li&gt;Do the simple thing first&lt;/li&gt;
+&lt;li&gt;Small team with fast feedback loop - showcase often&lt;/li&gt;
+&lt;li&gt;Identify risk early, shift-left and spike&lt;/li&gt;
+&lt;li&gt;Continuously measure performance and stress test&lt;/li&gt;
+&lt;li&gt;Isolate context boundaries (lambdas)&lt;/li&gt;
+&lt;li&gt;Solution must prove itself correct&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;using-serverless-functions-for-real-time-observability&#34;&gt;Using serverless functions for real-time observability&lt;/h3&gt;
+&lt;h4 id=&#34;speaker-liz-fong-jones&#34;&gt;Speaker: &lt;a href=&#34;https://anz.serverlessdays.io/speakers/liz/&#34;&gt;Liz Fong-Jones&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Most realtime bulk workloads benefit
+&lt;ul&gt;
+&lt;li&gt;Move state from local machines onto object storage&lt;/li&gt;
+&lt;li&gt;Shard list of objects into work units&lt;/li&gt;
+&lt;li&gt;Parallelise object processing&lt;/li&gt;
+&lt;li&gt;Reduce results outside Lambda afterwards&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Beware the dragons! 🐉
+&lt;ul&gt;
+&lt;li&gt;Avoid latency-insensitive batch workloads (cost)&lt;/li&gt;
+&lt;li&gt;Avoid tiny workloads (set-up latency)&lt;/li&gt;
+&lt;li&gt;Check cloud provider limits, state your intentions (capacity planning)&lt;/li&gt;
+&lt;li&gt;Test cross-compilation including profiling to avoid performance issues with switching architectures&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

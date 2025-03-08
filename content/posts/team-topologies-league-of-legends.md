@@ -2,6 +2,7 @@
 date: '2025-02-14T17:11:43+13:00'
 draft: false
 title: 'How Team Topologies relates to League of Legends 😎'
+tags: ["team topologies", "game", "league of legends", "software engineers"]
 ---
 
 ![alt text](/assets/images/league-of-legends.jpg)

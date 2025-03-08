@@ -3,7 +3,6 @@ title: "How Team Topologies relates to League of Legends"
 date: 2025-02-14T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["team topologies", "game", "league of legends"]
 author: "Ji Molloy"
 showToc: true
 TocOpen: false

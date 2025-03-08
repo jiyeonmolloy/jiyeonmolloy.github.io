@@ -3,7 +3,6 @@ title: "Serverless Days"
 date: 2024-05-24T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["serverless", "conference"]
 author: "Ji Molloy"
 showToc: true
 TocOpen: false

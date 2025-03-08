@@ -3,7 +3,6 @@ title: "Book Recommendations for Software Engineers - 2024"
 date: 2024-06-06T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["book", "recommendations", "software", "engineers"]
 author: "Ji Molloy"
 showToc: true
 TocOpen: false

@@ -2,6 +2,7 @@
 date: '2024-05-24T17:01:51+13:00'
 draft: false
 title: 'Serverless Days 🥨'
+categories: ["serverless", "conference", "recap", "software engineers"]
 ---
 
 ## Serverless Days!

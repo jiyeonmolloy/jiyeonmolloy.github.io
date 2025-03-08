@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Book on Ji Molloy</title>
+    <link>http://localhost:1313/categories/book/</link>
+    <description>Recent content in Book on Ji Molloy</description>
+    <image>
+      <title>Ji Molloy</title>
+      <url>http://localhost:1313/assets/images/eevee-on-computer-circle.png</url>
+      <link>http://localhost:1313/assets/images/eevee-on-computer-circle.png</link>
+    </image>
+    <generator>Hugo -- 0.144.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jun 2024 17:07:53 +1300</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/book/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Recommendations for Sofware Engineers in 2024</title>
+      <link>http://localhost:1313/posts/book-recommendations-2024/</link>
+      <pubDate>Thu, 06 Jun 2024 17:07:53 +1300</pubDate>
+      <guid>http://localhost:1313/posts/book-recommendations-2024/</guid>
+      <description>&lt;h2 id=&#34;-recommended-books-for-software-engineers-&#34;&gt;📚 Recommended Books for Software Engineers 📚&lt;/h2&gt;
+&lt;p&gt;As a software engineer, continually enhancing your skills and knowledge is crucial. Reading books that provide insights into different aspects of software development, team dynamics, and coding best practices can significantly help contribute to your professional growth.&lt;/p&gt;
+&lt;p&gt;Here are three highly recommended books that every software engineer should read.&lt;/p&gt;
+&lt;h2 id=&#34;accelerate-the-science-of-lean-software-and-devops-building-and-scaling-high-performing-technology-organizations-&#34;&gt;&lt;a href=&#34;https://www.goodreads.com/book/show/35747076-accelerate&#34;&gt;Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations&lt;/a&gt; 🚀&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Nicole Forsgren, Jez Humble, Gene Kim&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
