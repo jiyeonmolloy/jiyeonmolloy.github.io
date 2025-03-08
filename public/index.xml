@@ -214,10 +214,19 @@
 &lt;li&gt;Avoid latency-insensitive batch workloads (cost)&lt;/li&gt;
 &lt;li&gt;Avoid tiny workloads (set-up latency)&lt;/li&gt;
 &lt;li&gt;Check cloud provider limits, state your intentions (capacity planning)&lt;/li&gt;
-&lt;li&gt;Test cross-compilation including profiling to avoid performance issues with switchign architectures&lt;/li&gt;
+&lt;li&gt;Test cross-compilation including profiling to avoid performance issues with switching architectures&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Contact Ji</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;🚀 &lt;a href=&#34;https://www.linkedin.com/in/jiyeonmolloy/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;🐇 &lt;a href=&#34;https://github.com/jiyeonmolloy&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;💌 &lt;a href=&#34;mailto:jiyeon.molloy@gmail.com&#34;&gt;E-mail&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

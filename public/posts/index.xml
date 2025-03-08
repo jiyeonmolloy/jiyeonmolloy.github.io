@@ -204,7 +204,7 @@
 &lt;li&gt;Avoid latency-insensitive batch workloads (cost)&lt;/li&gt;
 &lt;li&gt;Avoid tiny workloads (set-up latency)&lt;/li&gt;
 &lt;li&gt;Check cloud provider limits, state your intentions (capacity planning)&lt;/li&gt;
-&lt;li&gt;Test cross-compilation including profiling to avoid performance issues with switchign architectures&lt;/li&gt;
+&lt;li&gt;Test cross-compilation including profiling to avoid performance issues with switching architectures&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description>
