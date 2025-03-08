@@ -35,7 +35,7 @@ Once I passed all the practice exams, I scheduled the terraform certification!
 
 The only option was to do the exam online. Unfortunately, my first attempt was at the same time when Azure went down which crashed my exam just before I started Azure . Seems like the terraform exam portal is all hosted on Azure.
 
-After one week, I was able to re-schedule using a voucher from Terraform Terraform 
+After one week, I was able to re-schedule using a voucher from Terraform `s😉 
 
 It took about 20 minutes to check the surroundings of my computer where I was sitting the exam. I was asked to plug out various devices from the computer e.g. microphone . Also make sure your webcam cable is long enough to show under your desk. My cable was quite short, so I had to show the upside down version when showing under my desk.
 
