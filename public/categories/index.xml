@@ -11,20 +11,55 @@
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Sep 2024 17:43:30 +1300</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 20:38:04 +1300</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Certification</title>
-      <link>http://localhost:1313/categories/certification/</link>
-      <pubDate>Thu, 12 Sep 2024 17:43:30 +1300</pubDate>
-      <guid>http://localhost:1313/categories/certification/</guid>
+      <title>Culture</title>
+      <link>http://localhost:1313/categories/culture/</link>
+      <pubDate>Sat, 08 Mar 2025 20:38:04 +1300</pubDate>
+      <guid>http://localhost:1313/categories/culture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Level Up</title>
+      <link>http://localhost:1313/categories/level-up/</link>
+      <pubDate>Sat, 08 Mar 2025 20:38:04 +1300</pubDate>
+      <guid>http://localhost:1313/categories/level-up/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pairing</title>
+      <link>http://localhost:1313/categories/pairing/</link>
+      <pubDate>Sat, 08 Mar 2025 20:38:04 +1300</pubDate>
+      <guid>http://localhost:1313/categories/pairing/</guid>
       <description></description>
     </item>
     <item>
       <title>Software Engineers</title>
       <link>http://localhost:1313/categories/software-engineers/</link>
-      <pubDate>Thu, 12 Sep 2024 17:43:30 +1300</pubDate>
+      <pubDate>Sat, 08 Mar 2025 20:38:04 +1300</pubDate>
       <guid>http://localhost:1313/categories/software-engineers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Team</title>
+      <link>http://localhost:1313/categories/team/</link>
+      <pubDate>Sat, 08 Mar 2025 20:38:04 +1300</pubDate>
+      <guid>http://localhost:1313/categories/team/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips</title>
+      <link>http://localhost:1313/categories/tips/</link>
+      <pubDate>Sat, 08 Mar 2025 20:38:04 +1300</pubDate>
+      <guid>http://localhost:1313/categories/tips/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Certification</title>
+      <link>http://localhost:1313/categories/certification/</link>
+      <pubDate>Thu, 12 Sep 2024 17:43:30 +1300</pubDate>
+      <guid>http://localhost:1313/categories/certification/</guid>
       <description></description>
     </item>
     <item>
@@ -39,13 +74,6 @@
       <link>http://localhost:1313/categories/terraform/</link>
       <pubDate>Thu, 12 Sep 2024 17:43:30 +1300</pubDate>
       <guid>http://localhost:1313/categories/terraform/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tips</title>
-      <link>http://localhost:1313/categories/tips/</link>
-      <pubDate>Thu, 12 Sep 2024 17:43:30 +1300</pubDate>
-      <guid>http://localhost:1313/categories/tips/</guid>
       <description></description>
     </item>
     <item>

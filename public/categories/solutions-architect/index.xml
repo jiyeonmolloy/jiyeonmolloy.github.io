@@ -11,8 +11,27 @@
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Aug 2022 17:04:04 +1300</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 17:43:30 +1300</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/solutions-architect/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Terraform Certified! 🌍</title>
+      <link>http://localhost:1313/posts/terraform-associate-003/</link>
+      <pubDate>Thu, 12 Sep 2024 17:43:30 +1300</pubDate>
+      <guid>http://localhost:1313/posts/terraform-associate-003/</guid>
+      <description>&lt;h2 id=&#34;benefits-&#34;&gt;Benefits 🦘&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://developer.hashicorp.com/certifications/infrastructure-automation&#34;&gt;&lt;code&gt;Infrastructure Automation | HashiCorp Developer&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I prepared for the HashiCorp Certified: Terraform Associate certification, which is about:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fundamentals of Terraform: The certification covers core concepts and skills related to Terraform, including infrastructure as code (IaC), basic Terraform commands, and the ability to manage and deploy infrastructure using Terraform 📝&lt;/li&gt;
+&lt;li&gt;Practical Application: It focuses on practical knowledge, such as creating and managing Terraform configurations, understanding the Terraform workflow, and applying best practices for writing and organising Terraform code ⭐&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-i-prepared-books---6-weeks&#34;&gt;How I prepared books  (~ 6 weeks)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udemy.com/course/terraform-associate-practice-exam/?couponCode=ST17MT91224A&#34;&gt;HashiCorp Certified: Terraform Associate Practice Exam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.hashicorp.com/terraform/cloud-docs&#34;&gt;What is HCP Terraform? | Terraform | HashiCorp Developer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I created a weekly schedule to study one practice exam per week. There are 5 practice exams and one final exam available which is slightly different: Terraform Fill-In-The-Blank Questions.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Getting AWS Solutions Architect Certified! 🚀</title>
       <link>http://localhost:1313/posts/aws-solutions-architect-saa-c02/</link>

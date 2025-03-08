@@ -14,11 +14,38 @@
     <lastBuildDate>Sat, 08 Mar 2025 20:38:04 +1300</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/culture/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Building Pairing Culture</title>
+      <title>Level up together : Building a strong pairing culture 🥰</title>
       <link>http://localhost:1313/posts/building-pairing-culture/</link>
       <pubDate>Sat, 08 Mar 2025 20:38:04 +1300</pubDate>
       <guid>http://localhost:1313/posts/building-pairing-culture/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;how-to-promote-a-a-collaborative-culture-within-our-engineering-teams&#34;&gt;How to promote a a collaborative culture within our engineering teams&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/eevee-charizard-pairing.png&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;why-should-we-promote-a-pairing-culture-&#34;&gt;Why should we promote a pairing culture? 🌳&lt;/h3&gt;
+&lt;p&gt;Pairing offers numerous valuable benefits that help enhance team dynamics and professional growth 🌴:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Knowledge Exchange and Growth 💚
+&lt;ul&gt;
+&lt;li&gt;Mentoring and reverse-mentoring&lt;/li&gt;
+&lt;li&gt;Accelerated skill development 💹&lt;/li&gt;
+&lt;li&gt;Effective knowledge transfer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Team Development 💛
+&lt;ul&gt;
+&lt;li&gt;Enhanced communication skills&lt;/li&gt;
+&lt;li&gt;Stronger collaborative relationships&lt;/li&gt;
+&lt;li&gt;Faster onboarding of new members&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Organisational Benefits ☕
+&lt;ul&gt;
+&lt;li&gt;Elimination of knowledge silos&lt;/li&gt;
+&lt;li&gt;Continuous team up-skilling&lt;/li&gt;
+&lt;li&gt;Improved project outcomes through shared expertise&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As part of the PaaS team at Xero, when managing core CI/CD tooling, our team frequently encounters diverse customer requests 😎. While balancing these support responsibilities with our planned sprint work, we sometimes face challenging situations, including:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

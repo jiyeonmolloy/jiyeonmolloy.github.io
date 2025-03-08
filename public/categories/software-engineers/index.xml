@@ -11,8 +11,61 @@
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jun 2024 17:07:53 +1300</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 20:38:04 +1300</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/software-engineers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Level up together : Building a strong pairing culture 🥰</title>
+      <link>http://localhost:1313/posts/building-pairing-culture/</link>
+      <pubDate>Sat, 08 Mar 2025 20:38:04 +1300</pubDate>
+      <guid>http://localhost:1313/posts/building-pairing-culture/</guid>
+      <description>&lt;h2 id=&#34;how-to-promote-a-a-collaborative-culture-within-our-engineering-teams&#34;&gt;How to promote a a collaborative culture within our engineering teams&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/eevee-charizard-pairing.png&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;why-should-we-promote-a-pairing-culture-&#34;&gt;Why should we promote a pairing culture? 🌳&lt;/h3&gt;
+&lt;p&gt;Pairing offers numerous valuable benefits that help enhance team dynamics and professional growth 🌴:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Knowledge Exchange and Growth 💚
+&lt;ul&gt;
+&lt;li&gt;Mentoring and reverse-mentoring&lt;/li&gt;
+&lt;li&gt;Accelerated skill development 💹&lt;/li&gt;
+&lt;li&gt;Effective knowledge transfer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Team Development 💛
+&lt;ul&gt;
+&lt;li&gt;Enhanced communication skills&lt;/li&gt;
+&lt;li&gt;Stronger collaborative relationships&lt;/li&gt;
+&lt;li&gt;Faster onboarding of new members&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Organisational Benefits ☕
+&lt;ul&gt;
+&lt;li&gt;Elimination of knowledge silos&lt;/li&gt;
+&lt;li&gt;Continuous team up-skilling&lt;/li&gt;
+&lt;li&gt;Improved project outcomes through shared expertise&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As part of the PaaS team at Xero, when managing core CI/CD tooling, our team frequently encounters diverse customer requests 😎. While balancing these support responsibilities with our planned sprint work, we sometimes face challenging situations, including:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Getting Terraform Certified! 🌍</title>
+      <link>http://localhost:1313/posts/terraform-associate-003/</link>
+      <pubDate>Thu, 12 Sep 2024 17:43:30 +1300</pubDate>
+      <guid>http://localhost:1313/posts/terraform-associate-003/</guid>
+      <description>&lt;h2 id=&#34;benefits-&#34;&gt;Benefits 🦘&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://developer.hashicorp.com/certifications/infrastructure-automation&#34;&gt;&lt;code&gt;Infrastructure Automation | HashiCorp Developer&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I prepared for the HashiCorp Certified: Terraform Associate certification, which is about:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fundamentals of Terraform: The certification covers core concepts and skills related to Terraform, including infrastructure as code (IaC), basic Terraform commands, and the ability to manage and deploy infrastructure using Terraform 📝&lt;/li&gt;
+&lt;li&gt;Practical Application: It focuses on practical knowledge, such as creating and managing Terraform configurations, understanding the Terraform workflow, and applying best practices for writing and organising Terraform code ⭐&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-i-prepared-books---6-weeks&#34;&gt;How I prepared books  (~ 6 weeks)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udemy.com/course/terraform-associate-practice-exam/?couponCode=ST17MT91224A&#34;&gt;HashiCorp Certified: Terraform Associate Practice Exam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.hashicorp.com/terraform/cloud-docs&#34;&gt;What is HCP Terraform? | Terraform | HashiCorp Developer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I created a weekly schedule to study one practice exam per week. There are 5 practice exams and one final exam available which is slightly different: Terraform Fill-In-The-Blank Questions.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Book Recommendations for Sofware Engineers in 2024</title>
       <link>http://localhost:1313/posts/book-recommendations-2024/</link>
