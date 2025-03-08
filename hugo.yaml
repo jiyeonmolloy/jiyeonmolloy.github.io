@@ -125,9 +125,9 @@ menu:
       name: categories
       url: /categories/
       weight: 20
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - identifier: contact
+      name: contact
+      url: /contact/
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
