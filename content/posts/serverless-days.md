@@ -111,4 +111,4 @@ Here is a quick recap of my learnings!!
     - Avoid latency-insensitive batch workloads (cost)
     - Avoid tiny workloads (set-up latency)
     - Check cloud provider limits, state your intentions (capacity planning)
-    - Test cross-compilation including profiling to avoid performance issues with switchign architectures
+    - Test cross-compilation including profiling to avoid performance issues with switching architectures
