@@ -4,8 +4,6 @@ draft: true
 title: 'Level up together : Building a strong pairing culture 🥰'
 categories: ["pairing", "culture", "level up", "software engineers", "team", "tips"]
 ---
-## How to promote a a collaborative culture within our engineering teams
-
 ![alt text](/assets/images/eevee-charizard-pairing.png)
 
 ### Why should we promote a pairing culture? 🌳

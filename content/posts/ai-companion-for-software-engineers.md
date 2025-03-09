@@ -1,12 +1,9 @@
 ---
 date: '2025-03-09T19:59:50+13:00'
 draft: false
-title: 'How AI is Helping Software Engineers: A Helping Hand, Not the Driver 🚗'
+title: 'How AI is Helping Software Engineers : A Helping Hand, Not the Driver 🚗'
 categories: ["AI", "github", "copilot", "software engineers", "tips"]
 ---
-
-## How AI is Helping Software Engineers: A Helping Hand, Not the Driver 🚘
-
 ![alt text](/assets/images/eevee-working-with-github-copilot.png)
 
 The world of software engineering is constantly evolving, and so is the technology we use to build software. Artificial Intelligence tools, like [GitHub Copilot](https://github.com/features/copilot), have rapidly emerged as valuable assistants in the software development process. But it's essential to remember that AI is a tool and not the driver. It is the software engineer who remains in control, using AI as a helpful co-pilot rather than relying on it to lead and drive the way.
