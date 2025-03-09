@@ -10,7 +10,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "How different positions played in League of Legends relates to Team Topologies"
-canonicalURL: "https://jiyeonmolloy.github.io/team-topologies-league-of-legends"
+canonicalURL: "https://jimolloy.com/team-topologies-league-of-legends"
 disableHLJS: true # to disable highlightjs
 disableShare: true
 disableHLJS: false

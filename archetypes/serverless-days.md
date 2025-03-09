@@ -10,7 +10,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Ji's experience attending the Serverless Days Conference"
-canonicalURL: "https://jiyeonmolloy.github.io/serverless-days"
+canonicalURL: "https://jimolloy.com/serverless-days"
 disableHLJS: true # to disable highlightjs
 disableShare: true
 disableHLJS: false

@@ -10,7 +10,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Getting Terraform Certified"
-canonicalURL: "https://jiyeonmolloy.github.io/terraform-associate-003"
+canonicalURL: "https://jimolloy.com/terraform-associate-003"
 disableHLJS: true # to disable highlightjs
 disableShare: true
 disableHLJS: false

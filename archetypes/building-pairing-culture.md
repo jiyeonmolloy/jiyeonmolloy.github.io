@@ -10,7 +10,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Leveling up together and building a strong pairing culture"
-canonicalURL: "https://jiyeonmolloy.github.io/building-pairing-culture"
+canonicalURL: "https://jimolloy.com/building-pairing-culture"
 disableHLJS: true # to disable highlightjs
 disableShare: true
 disableHLJS: false

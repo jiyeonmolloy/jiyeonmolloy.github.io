@@ -10,7 +10,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Ji's Book Recommendations for Software Engineers in 2024"
-canonicalURL: "https://jiyeonmolloy.github.io/book-recommendations-2024"
+canonicalURL: "https://jimolloy.com/book-recommendations-2024"
 disableHLJS: true # to disable highlightjs
 disableShare: true
 disableHLJS: false

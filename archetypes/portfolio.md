@@ -11,7 +11,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Ji's Portfolio"
-canonicalURL: "https://jiyeonmolloy.github.io/portfolio"
+canonicalURL: "https://jimolloy.com/portfolio"
 disableHLJS: true # to disable highlightjs
 disableShare: true
 disableHLJS: false

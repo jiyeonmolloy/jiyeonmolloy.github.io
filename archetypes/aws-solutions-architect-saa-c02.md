@@ -10,7 +10,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Getting AWS "
-canonicalURL: "https://jiyeonmolloy.github.io/aws-solutions-architect-saa-c02"
+canonicalURL: "https://jimolloy.com/aws-solutions-architect-saa-c02"
 disableHLJS: true # to disable highlightjs
 disableShare: true
 disableHLJS: false
