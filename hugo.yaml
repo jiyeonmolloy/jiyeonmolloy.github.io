@@ -119,18 +119,26 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: home
+      name: home
+      url: /
+      weight: 10
     - identifier: portfolio
       name: portfolio
       url: /portfolio/
-      weight: 10
+      weight: 20
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 30
     - identifier: categories
       name: categories
       url: /categories/
-      weight: 20
+      weight: 40
     - identifier: contact
       name: contact
       url: /contact/
-      weight: 30
+      weight: 50
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

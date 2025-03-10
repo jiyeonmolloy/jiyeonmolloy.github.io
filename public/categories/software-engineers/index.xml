@@ -15,9 +15,9 @@
     <atom:link href="http://localhost:1313/categories/software-engineers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How AI is Helping Software Engineers : A Helping Hand, Not the Driver 🚗</title>
-      <link>http://localhost:1313/posts/ai-companion-for-software-engineers/</link>
+      <link>http://localhost:1313/posts/2025/ai-companion-for-software-engineers/</link>
       <pubDate>Sun, 09 Mar 2025 19:59:50 +1300</pubDate>
-      <guid>http://localhost:1313/posts/ai-companion-for-software-engineers/</guid>
+      <guid>http://localhost:1313/posts/2025/ai-companion-for-software-engineers/</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/eevee-working-with-github-copilot.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The world of software engineering is constantly evolving, and so is the technology we use to build software. Artificial Intelligence tools, like &lt;a href=&#34;https://github.com/features/copilot&#34;&gt;GitHub Copilot&lt;/a&gt;, have rapidly emerged as valuable assistants in the software development process. But it&amp;rsquo;s essential to remember that AI is a tool and not the driver. It is the software engineer who remains in control, using AI as a helpful co-pilot rather than relying on it to lead and drive the way.&lt;/p&gt;</description>
     </item>

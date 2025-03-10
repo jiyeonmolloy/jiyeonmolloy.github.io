@@ -15,17 +15,17 @@
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How AI is Helping Software Engineers : A Helping Hand, Not the Driver 🚗</title>
-      <link>http://localhost:1313/posts/ai-companion-for-software-engineers/</link>
+      <link>http://localhost:1313/posts/2025/ai-companion-for-software-engineers/</link>
       <pubDate>Sun, 09 Mar 2025 19:59:50 +1300</pubDate>
-      <guid>http://localhost:1313/posts/ai-companion-for-software-engineers/</guid>
+      <guid>http://localhost:1313/posts/2025/ai-companion-for-software-engineers/</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/eevee-working-with-github-copilot.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The world of software engineering is constantly evolving, and so is the technology we use to build software. Artificial Intelligence tools, like &lt;a href=&#34;https://github.com/features/copilot&#34;&gt;GitHub Copilot&lt;/a&gt;, have rapidly emerged as valuable assistants in the software development process. But it&amp;rsquo;s essential to remember that AI is a tool and not the driver. It is the software engineer who remains in control, using AI as a helpful co-pilot rather than relying on it to lead and drive the way.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Level up together : Building a strong pairing culture 🥰</title>
-      <link>http://localhost:1313/posts/building-pairing-culture/</link>
+      <link>http://localhost:1313/posts/2025/building-pairing-culture/</link>
       <pubDate>Sat, 08 Mar 2025 20:38:04 +1300</pubDate>
-      <guid>http://localhost:1313/posts/building-pairing-culture/</guid>
+      <guid>http://localhost:1313/posts/2025/building-pairing-culture/</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/eevee-charizard-pairing.png&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;why-should-we-promote-a-pairing-culture-&#34;&gt;Why should we promote a pairing culture? 🌳&lt;/h3&gt;
 &lt;p&gt;Pairing offers numerous valuable benefits that help enhance team dynamics and professional growth 🌴:&lt;/p&gt;
@@ -56,9 +56,9 @@
     </item>
     <item>
       <title>How Team Topologies relates to League of Legends 😎</title>
-      <link>http://localhost:1313/posts/team-topologies-league-of-legends/</link>
+      <link>http://localhost:1313/posts/2025/team-topologies-league-of-legends/</link>
       <pubDate>Fri, 14 Feb 2025 17:11:43 +1300</pubDate>
-      <guid>http://localhost:1313/posts/team-topologies-league-of-legends/</guid>
+      <guid>http://localhost:1313/posts/2025/team-topologies-league-of-legends/</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/league-of-legends.jpg&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;how-team-topologies-relates-to-the-different-positions-played-in-league-of-legends&#34;&gt;How Team Topologies Relates to the Different Positions Played in League of Legends&lt;/h2&gt;
 &lt;p&gt;In both software development and competitive gaming, effective team structure and collaboration are critical to achieving success. Whether you are managing a sofware engineering team or playing a game of League of Legends (LoL), how you organise your team and define roles impacts the overall performance and outcome.&lt;/p&gt;
@@ -66,9 +66,9 @@
     </item>
     <item>
       <title>Getting Terraform Certified! 🌍</title>
-      <link>http://localhost:1313/posts/terraform-associate-003/</link>
+      <link>http://localhost:1313/posts/2024/terraform-associate-003/</link>
       <pubDate>Thu, 12 Sep 2024 17:43:30 +1300</pubDate>
-      <guid>http://localhost:1313/posts/terraform-associate-003/</guid>
+      <guid>http://localhost:1313/posts/2024/terraform-associate-003/</guid>
       <description>&lt;h2 id=&#34;benefits-&#34;&gt;Benefits 🦘&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://developer.hashicorp.com/certifications/infrastructure-automation&#34;&gt;&lt;code&gt;Infrastructure Automation | HashiCorp Developer&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I prepared for the HashiCorp Certified: Terraform Associate certification, which is about:&lt;/p&gt;
@@ -85,9 +85,9 @@
     </item>
     <item>
       <title>Book Recommendations for Sofware Engineers in 2024</title>
-      <link>http://localhost:1313/posts/book-recommendations-2024/</link>
+      <link>http://localhost:1313/posts/2024/book-recommendations-2024/</link>
       <pubDate>Thu, 06 Jun 2024 17:07:53 +1300</pubDate>
-      <guid>http://localhost:1313/posts/book-recommendations-2024/</guid>
+      <guid>http://localhost:1313/posts/2024/book-recommendations-2024/</guid>
       <description>&lt;h2 id=&#34;-recommended-books-for-software-engineers-&#34;&gt;📚 Recommended Books for Software Engineers 📚&lt;/h2&gt;
 &lt;p&gt;As a software engineer, continually enhancing your skills and knowledge is crucial. Reading books that provide insights into different aspects of software development, team dynamics, and coding best practices can significantly help contribute to your professional growth.&lt;/p&gt;
 &lt;p&gt;Here are three highly recommended books that every software engineer should read.&lt;/p&gt;
@@ -96,9 +96,9 @@
     </item>
     <item>
       <title>Serverless Days 🥨</title>
-      <link>http://localhost:1313/posts/serverless-days/</link>
+      <link>http://localhost:1313/posts/2024/serverless-days/</link>
       <pubDate>Fri, 24 May 2024 17:01:51 +1300</pubDate>
-      <guid>http://localhost:1313/posts/serverless-days/</guid>
+      <guid>http://localhost:1313/posts/2024/serverless-days/</guid>
       <description>&lt;h2 id=&#34;serverless-days&#34;&gt;Serverless Days!&lt;/h2&gt;
 &lt;p&gt;Click &lt;a href=&#34;https://anz.serverlessdays.io/auckland/&#34;&gt;here&lt;/a&gt; to see the full agenda&lt;/p&gt;
 &lt;p&gt;I had the amazing opportunity to attend ServerLess Days. If you are working with serverless technology and would like to meet other active developers and technical leaders from across the Australia &amp;amp; New Zealand region, while hearing from some world-class speakers, I highly recommend attending this event!&lt;/p&gt;
@@ -271,9 +271,9 @@
     </item>
     <item>
       <title>Getting AWS Solutions Architect Certified! 🚀</title>
-      <link>http://localhost:1313/posts/aws-solutions-architect-saa-c02/</link>
+      <link>http://localhost:1313/posts/2022/aws-solutions-architect-saa-c02/</link>
       <pubDate>Thu, 25 Aug 2022 17:04:04 +1300</pubDate>
-      <guid>http://localhost:1313/posts/aws-solutions-architect-saa-c02/</guid>
+      <guid>http://localhost:1313/posts/2022/aws-solutions-architect-saa-c02/</guid>
       <description>&lt;h2 id=&#34;benefits-of-getting-aws-certified-&#34;&gt;Benefits of getting AWS Certified ✨&lt;/h2&gt;
 &lt;p&gt;Please note that the exam content has changed on 29th August 2022 (SAA-C03), so the content and resources I share in this post may be out-of-date! ☕&lt;/p&gt;
 &lt;p&gt;I prepared for the AWS Solutions Architect - Associate certification, which is about:&lt;/p&gt;
