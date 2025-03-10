@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DevOps on Ji Molloy</title>
+    <link>http://localhost:1313/tags/devops/</link>
+    <description>Recent content in DevOps on Ji Molloy</description>
+    <image>
+      <title>Ji Molloy</title>
+      <url>http://localhost:1313/assets/images/eevee-on-computer-circle.png</url>
+      <link>http://localhost:1313/assets/images/eevee-on-computer-circle.png</link>
+    </image>
+    <generator>Hugo -- 0.144.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Mar 2025 21:16:51 +1300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DevOps Fundamentals Bread Maker Analogy</title>
+      <link>http://localhost:1313/posts/2025/devops-fundamentals-bread-maker-analogy/</link>
+      <pubDate>Mon, 10 Mar 2025 21:16:51 +1300</pubDate>
+      <guid>http://localhost:1313/posts/2025/devops-fundamentals-bread-maker-analogy/</guid>
+      <description>&lt;h1 id=&#34;devops-3-fundamentals-the-bread-maker-analogy-&#34;&gt;DevOps 3 Fundamentals: The Bread Maker Analogy 🍞⚙️&lt;/h1&gt;
+&lt;p&gt;DevOps is like a bread maker — it takes a variety of inputs, processes them, and produces a final product with minimal manual intervention. Just like how you add ingredients to a bread maker (flour, yeast, sugar, etc.), DevOps involves feeding in code, infrastructure, and automation to produce a continuous flow of delivery. Let’s break down the &lt;strong&gt;3 fundamentals of DevOps&lt;/strong&gt; and explore some best practices using the bread maker analogy!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

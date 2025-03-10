@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/bread/</loc>
+    <lastmod>2025-03-10T21:16:51+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/devops/</loc>
+    <lastmod>2025-03-10T21:16:51+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/devops-fundamentals-bread-maker-analogy/</loc>
+    <lastmod>2025-03-10T21:16:51+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-03-10T21:16:51+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-03-10T21:16:51+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/software-engineers/</loc>
+    <lastmod>2025-03-10T21:16:51+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-03-10T21:16:51+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tips/</loc>
+    <lastmod>2025-03-10T21:16:51+13:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/ai/</loc>
     <lastmod>2025-03-09T19:59:50+13:00</lastmod>
   </url><url>
@@ -15,12 +39,6 @@
     <lastmod>2025-03-09T19:59:50+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025/ai-companion-for-software-engineers/</loc>
-    <lastmod>2025-03-09T19:59:50+13:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-03-09T19:59:50+13:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-03-09T19:59:50+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/software-engineers/</loc>
@@ -54,12 +72,6 @@
     <lastmod>2025-02-14T17:11:43+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/league-of-legends/</loc>
-    <lastmod>2025-02-14T17:11:43+13:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/software-engineers/</loc>
-    <lastmod>2025-02-14T17:11:43+13:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-02-14T17:11:43+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/team-topologies/</loc>
