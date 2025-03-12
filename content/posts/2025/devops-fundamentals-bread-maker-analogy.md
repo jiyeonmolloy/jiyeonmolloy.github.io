@@ -2,7 +2,7 @@
 date: '2025-03-10T21:16:51+13:00'
 draft: false
 title: 'DevOps Fundamentals! Bread Maker Analogy 🍞'
-tags: ["DevOps", "bread", "tips", "software engineers"]
+categories: ["DevOps", "bread", "tips", "software engineers"]
 ---
 
 ![alt text](/assets/images/eevee-using-devops-breadmaker.png)
