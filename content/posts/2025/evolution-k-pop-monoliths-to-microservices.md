@@ -1,8 +1,8 @@
 ---
 date: '2025-03-12T19:09:22+13:00'
 draft: false
-title: 'Evolution of K-POP Groups: From Monoliths to Microservices 🎤🌟'
-categories: ["K-pop", "Monolith", "Microservices", "Blackpink", "tips", "software engineers"]
+title: 'Evolution of K-POP Groups : From Monoliths to Microservices 🎤🌟'
+categories: ["k-pop", "monolith", "microservices", "blackpink", "tips", "software engineers"]
 ---
 
 ![alt text](/assets/images/eevee-kpop-member-monolith-to-microservices.png)

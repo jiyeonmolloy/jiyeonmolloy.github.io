@@ -15,9 +15,9 @@
     <atom:link href="http://localhost:1313/categories/terraform/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Terraform Certified! 🌍</title>
-      <link>http://localhost:1313/posts/terraform-associate-003/</link>
+      <link>http://localhost:1313/posts/2024/terraform-associate-003/</link>
       <pubDate>Thu, 12 Sep 2024 17:43:30 +1300</pubDate>
-      <guid>http://localhost:1313/posts/terraform-associate-003/</guid>
+      <guid>http://localhost:1313/posts/2024/terraform-associate-003/</guid>
       <description>&lt;h2 id=&#34;benefits-&#34;&gt;Benefits 🦘&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://developer.hashicorp.com/certifications/infrastructure-automation&#34;&gt;&lt;code&gt;Infrastructure Automation | HashiCorp Developer&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I prepared for the HashiCorp Certified: Terraform Associate certification, which is about:&lt;/p&gt;

@@ -2,7 +2,7 @@
 date: '2025-03-09T19:59:50+13:00'
 draft: false
 title: 'How AI is Helping Software Engineers : A Helping Hand, Not the Driver 🚗'
-categories: ["AI", "github", "copilot", "software engineers", "tips"]
+categories: ["ai", "github", "copilot", "software engineers", "tips"]
 ---
 ![alt text](/assets/images/eevee-working-with-github-copilot.png)
 

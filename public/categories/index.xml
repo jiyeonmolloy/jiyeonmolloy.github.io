@@ -11,10 +11,94 @@
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Mar 2025 19:59:50 +1300</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 16:54:40 +1300</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AI</title>
+      <title>League of Legends</title>
+      <link>http://localhost:1313/categories/league-of-legends/</link>
+      <pubDate>Sat, 15 Mar 2025 16:54:40 +1300</pubDate>
+      <guid>http://localhost:1313/categories/league-of-legends/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software Engineers</title>
+      <link>http://localhost:1313/categories/software-engineers/</link>
+      <pubDate>Sat, 15 Mar 2025 16:54:40 +1300</pubDate>
+      <guid>http://localhost:1313/categories/software-engineers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>T1</title>
+      <link>http://localhost:1313/categories/t1/</link>
+      <pubDate>Sat, 15 Mar 2025 16:54:40 +1300</pubDate>
+      <guid>http://localhost:1313/categories/t1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Team Development</title>
+      <link>http://localhost:1313/categories/team-development/</link>
+      <pubDate>Sat, 15 Mar 2025 16:54:40 +1300</pubDate>
+      <guid>http://localhost:1313/categories/team-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips</title>
+      <link>http://localhost:1313/categories/tips/</link>
+      <pubDate>Sat, 15 Mar 2025 16:54:40 +1300</pubDate>
+      <guid>http://localhost:1313/categories/tips/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tuckman</title>
+      <link>http://localhost:1313/categories/tuckman/</link>
+      <pubDate>Sat, 15 Mar 2025 16:54:40 +1300</pubDate>
+      <guid>http://localhost:1313/categories/tuckman/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blackpink</title>
+      <link>http://localhost:1313/categories/blackpink/</link>
+      <pubDate>Wed, 12 Mar 2025 19:09:22 +1300</pubDate>
+      <guid>http://localhost:1313/categories/blackpink/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>K-Pop</title>
+      <link>http://localhost:1313/categories/k-pop/</link>
+      <pubDate>Wed, 12 Mar 2025 19:09:22 +1300</pubDate>
+      <guid>http://localhost:1313/categories/k-pop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microservices</title>
+      <link>http://localhost:1313/categories/microservices/</link>
+      <pubDate>Wed, 12 Mar 2025 19:09:22 +1300</pubDate>
+      <guid>http://localhost:1313/categories/microservices/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Monolith</title>
+      <link>http://localhost:1313/categories/monolith/</link>
+      <pubDate>Wed, 12 Mar 2025 19:09:22 +1300</pubDate>
+      <guid>http://localhost:1313/categories/monolith/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bread</title>
+      <link>http://localhost:1313/categories/bread/</link>
+      <pubDate>Mon, 10 Mar 2025 21:16:51 +1300</pubDate>
+      <guid>http://localhost:1313/categories/bread/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DevOps</title>
+      <link>http://localhost:1313/categories/devops/</link>
+      <pubDate>Mon, 10 Mar 2025 21:16:51 +1300</pubDate>
+      <guid>http://localhost:1313/categories/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ai</title>
       <link>http://localhost:1313/categories/ai/</link>
       <pubDate>Sun, 09 Mar 2025 19:59:50 +1300</pubDate>
       <guid>http://localhost:1313/categories/ai/</guid>
@@ -32,20 +116,6 @@
       <link>http://localhost:1313/categories/github/</link>
       <pubDate>Sun, 09 Mar 2025 19:59:50 +1300</pubDate>
       <guid>http://localhost:1313/categories/github/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Software Engineers</title>
-      <link>http://localhost:1313/categories/software-engineers/</link>
-      <pubDate>Sun, 09 Mar 2025 19:59:50 +1300</pubDate>
-      <guid>http://localhost:1313/categories/software-engineers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tips</title>
-      <link>http://localhost:1313/categories/tips/</link>
-      <pubDate>Sun, 09 Mar 2025 19:59:50 +1300</pubDate>
-      <guid>http://localhost:1313/categories/tips/</guid>
       <description></description>
     </item>
     <item>
@@ -74,6 +144,20 @@
       <link>http://localhost:1313/categories/team/</link>
       <pubDate>Sat, 08 Mar 2025 20:38:04 +1300</pubDate>
       <guid>http://localhost:1313/categories/team/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Game</title>
+      <link>http://localhost:1313/categories/game/</link>
+      <pubDate>Fri, 14 Feb 2025 17:11:43 +1300</pubDate>
+      <guid>http://localhost:1313/categories/game/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Team Topologies</title>
+      <link>http://localhost:1313/categories/team-topologies/</link>
+      <pubDate>Fri, 14 Feb 2025 17:11:43 +1300</pubDate>
+      <guid>http://localhost:1313/categories/team-topologies/</guid>
       <description></description>
     </item>
     <item>

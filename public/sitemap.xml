@@ -2,34 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/bread/</loc>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-03-15T16:54:40+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-03-15T16:54:40+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/league-of-legends/</loc>
+    <lastmod>2025-03-15T16:54:40+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-03-15T16:54:40+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/software-engineers/</loc>
+    <lastmod>2025-03-15T16:54:40+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/t1/</loc>
+    <lastmod>2025-03-15T16:54:40+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/team-development/</loc>
+    <lastmod>2025-03-15T16:54:40+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tips/</loc>
+    <lastmod>2025-03-15T16:54:40+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tuckman/</loc>
+    <lastmod>2025-03-15T16:54:40+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/tuckmans-stages-of-t1-team-evolution/</loc>
+    <lastmod>2025-03-15T16:54:40+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/blackpink/</loc>
+    <lastmod>2025-03-12T19:09:22+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/evolution-k-pop-monoliths-to-microservices/</loc>
+    <lastmod>2025-03-12T19:09:22+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/k-pop/</loc>
+    <lastmod>2025-03-12T19:09:22+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/microservices/</loc>
+    <lastmod>2025-03-12T19:09:22+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/monolith/</loc>
+    <lastmod>2025-03-12T19:09:22+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/bread/</loc>
     <lastmod>2025-03-10T21:16:51+13:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/devops/</loc>
+    <loc>http://localhost:1313/categories/devops/</loc>
     <lastmod>2025-03-10T21:16:51+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025/devops-fundamentals-bread-maker-analogy/</loc>
     <lastmod>2025-03-10T21:16:51+13:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-03-10T21:16:51+13:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-03-10T21:16:51+13:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/software-engineers/</loc>
-    <lastmod>2025-03-10T21:16:51+13:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-03-10T21:16:51+13:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tips/</loc>
-    <lastmod>2025-03-10T21:16:51+13:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/ai/</loc>
-    <lastmod>2025-03-09T19:59:50+13:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-03-09T19:59:50+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/copilot/</loc>
@@ -39,12 +66,6 @@
     <lastmod>2025-03-09T19:59:50+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025/ai-companion-for-software-engineers/</loc>
-    <lastmod>2025-03-09T19:59:50+13:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/software-engineers/</loc>
-    <lastmod>2025-03-09T19:59:50+13:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/tips/</loc>
     <lastmod>2025-03-09T19:59:50+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/culture/</loc>
@@ -65,16 +86,13 @@
     <loc>http://localhost:1313/portfolio/</loc>
     <lastmod>2025-02-23T16:51:19+13:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/game/</loc>
+    <loc>http://localhost:1313/categories/game/</loc>
     <lastmod>2025-02-14T17:11:43+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025/team-topologies-league-of-legends/</loc>
     <lastmod>2025-02-14T17:11:43+13:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/league-of-legends/</loc>
-    <lastmod>2025-02-14T17:11:43+13:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/team-topologies/</loc>
+    <loc>http://localhost:1313/categories/team-topologies/</loc>
     <lastmod>2025-02-14T17:11:43+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/certification/</loc>
@@ -114,5 +132,7 @@
     <lastmod>2022-08-25T17:04:04+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

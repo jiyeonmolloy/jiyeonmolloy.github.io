@@ -15,9 +15,9 @@
     <atom:link href="http://localhost:1313/categories/aws/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting AWS Solutions Architect Certified! 🚀</title>
-      <link>http://localhost:1313/posts/aws-solutions-architect-saa-c02/</link>
+      <link>http://localhost:1313/posts/2022/aws-solutions-architect-saa-c02/</link>
       <pubDate>Thu, 25 Aug 2022 17:04:04 +1300</pubDate>
-      <guid>http://localhost:1313/posts/aws-solutions-architect-saa-c02/</guid>
+      <guid>http://localhost:1313/posts/2022/aws-solutions-architect-saa-c02/</guid>
       <description>&lt;h2 id=&#34;benefits-of-getting-aws-certified-&#34;&gt;Benefits of getting AWS Certified ✨&lt;/h2&gt;
 &lt;p&gt;Please note that the exam content has changed on 29th August 2022 (SAA-C03), so the content and resources I share in this post may be out-of-date! ☕&lt;/p&gt;
 &lt;p&gt;I prepared for the AWS Solutions Architect - Associate certification, which is about:&lt;/p&gt;
