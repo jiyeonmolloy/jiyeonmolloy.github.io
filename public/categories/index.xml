@@ -11,20 +11,62 @@
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Mar 2025 16:54:40 +1300</lastBuildDate>
+    <lastBuildDate>Sun, 16 Mar 2025 15:12:03 +1300</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>League of Legends</title>
-      <link>http://localhost:1313/categories/league-of-legends/</link>
-      <pubDate>Sat, 15 Mar 2025 16:54:40 +1300</pubDate>
-      <guid>http://localhost:1313/categories/league-of-legends/</guid>
+      <title>Apple Tv</title>
+      <link>http://localhost:1313/categories/apple-tv/</link>
+      <pubDate>Sun, 16 Mar 2025 15:12:03 +1300</pubDate>
+      <guid>http://localhost:1313/categories/apple-tv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Containers</title>
+      <link>http://localhost:1313/categories/containers/</link>
+      <pubDate>Sun, 16 Mar 2025 15:12:03 +1300</pubDate>
+      <guid>http://localhost:1313/categories/containers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Severance</title>
+      <link>http://localhost:1313/categories/severance/</link>
+      <pubDate>Sun, 16 Mar 2025 15:12:03 +1300</pubDate>
+      <guid>http://localhost:1313/categories/severance/</guid>
       <description></description>
     </item>
     <item>
       <title>Software Engineers</title>
       <link>http://localhost:1313/categories/software-engineers/</link>
-      <pubDate>Sat, 15 Mar 2025 16:54:40 +1300</pubDate>
+      <pubDate>Sun, 16 Mar 2025 15:12:03 +1300</pubDate>
       <guid>http://localhost:1313/categories/software-engineers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips</title>
+      <link>http://localhost:1313/categories/tips/</link>
+      <pubDate>Sun, 16 Mar 2025 15:12:03 +1300</pubDate>
+      <guid>http://localhost:1313/categories/tips/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Virtualisation</title>
+      <link>http://localhost:1313/categories/virtualisation/</link>
+      <pubDate>Sun, 16 Mar 2025 15:12:03 +1300</pubDate>
+      <guid>http://localhost:1313/categories/virtualisation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VM</title>
+      <link>http://localhost:1313/categories/vm/</link>
+      <pubDate>Sun, 16 Mar 2025 15:12:03 +1300</pubDate>
+      <guid>http://localhost:1313/categories/vm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>League of Legends</title>
+      <link>http://localhost:1313/categories/league-of-legends/</link>
+      <pubDate>Sat, 15 Mar 2025 16:54:40 +1300</pubDate>
+      <guid>http://localhost:1313/categories/league-of-legends/</guid>
       <description></description>
     </item>
     <item>
@@ -39,13 +81,6 @@
       <link>http://localhost:1313/categories/team-development/</link>
       <pubDate>Sat, 15 Mar 2025 16:54:40 +1300</pubDate>
       <guid>http://localhost:1313/categories/team-development/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tips</title>
-      <link>http://localhost:1313/categories/tips/</link>
-      <pubDate>Sat, 15 Mar 2025 16:54:40 +1300</pubDate>
-      <guid>http://localhost:1313/categories/tips/</guid>
       <description></description>
     </item>
     <item>

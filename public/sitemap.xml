@@ -2,28 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/apple-tv/</loc>
+    <lastmod>2025-03-16T15:12:03+13:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-03-15T16:54:40+13:00</lastmod>
+    <lastmod>2025-03-16T15:12:03+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/containers/</loc>
+    <lastmod>2025-03-16T15:12:03+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-03-15T16:54:40+13:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/league-of-legends/</loc>
-    <lastmod>2025-03-15T16:54:40+13:00</lastmod>
+    <lastmod>2025-03-16T15:12:03+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-03-15T16:54:40+13:00</lastmod>
+    <lastmod>2025-03-16T15:12:03+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/severance/</loc>
+    <lastmod>2025-03-16T15:12:03+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/software-engineers/</loc>
+    <lastmod>2025-03-16T15:12:03+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/severance-tv-show-virtual-machines/</loc>
+    <lastmod>2025-03-16T15:12:03+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tips/</loc>
+    <lastmod>2025-03-16T15:12:03+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/virtualisation/</loc>
+    <lastmod>2025-03-16T15:12:03+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/vm/</loc>
+    <lastmod>2025-03-16T15:12:03+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/league-of-legends/</loc>
     <lastmod>2025-03-15T16:54:40+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/t1/</loc>
     <lastmod>2025-03-15T16:54:40+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/team-development/</loc>
-    <lastmod>2025-03-15T16:54:40+13:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/tips/</loc>
     <lastmod>2025-03-15T16:54:40+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/tuckman/</loc>

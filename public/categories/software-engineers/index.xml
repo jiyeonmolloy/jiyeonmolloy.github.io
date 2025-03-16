@@ -11,10 +11,19 @@
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Mar 2025 16:54:40 +1300</lastBuildDate>
+    <lastBuildDate>Sun, 16 Mar 2025 15:12:03 +1300</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/software-engineers/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tuckman’s Stages of Software Engineering Team Development: Lessons from T1 🏆🎮</title>
+      <title>The Dark Side of Partitioning: Comparing Severance TV Show to Virtualisation 🧠💻</title>
+      <link>http://localhost:1313/posts/2025/severance-tv-show-virtual-machines/</link>
+      <pubDate>Sun, 16 Mar 2025 15:12:03 +1300</pubDate>
+      <guid>http://localhost:1313/posts/2025/severance-tv-show-virtual-machines/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/eevee-pro-gamer-in-lol-t1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;If you’ve ever watched &lt;a href=&#34;https://www.imdb.com/title/tt11280740/&#34;&gt;Severance on Apple TV&lt;/a&gt;, you know that it’s a very interesting and addictive show that explores the concept of &amp;ldquo;severance&amp;rdquo; — a procedure that separates your work-life memories from your personal memories 🧑‍💼💼&lt;/p&gt;
+&lt;p&gt;But have you ever thought about how Severance could be compared to virtualisation techniques? 🤔 Let&amp;rsquo;s do an interesting comparison between the human mind and computer systems together, using concepts like partitioning and virtualisation 🚀&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tuckman’s Stages of Software Engineering Team Development : Lessons from T1 🏆🎮</title>
       <link>http://localhost:1313/posts/2025/tuckmans-stages-of-t1-team-evolution/</link>
       <pubDate>Sat, 15 Mar 2025 16:54:40 +1300</pubDate>
       <guid>http://localhost:1313/posts/2025/tuckmans-stages-of-t1-team-evolution/</guid>

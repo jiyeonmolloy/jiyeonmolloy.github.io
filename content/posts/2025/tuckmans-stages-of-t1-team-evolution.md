@@ -1,7 +1,7 @@
 ---
 date: '2025-03-15T16:54:40+13:00'
 draft: false
-title: 'Tuckman’s Stages of Software Engineering Team Development: Lessons from T1 🏆🎮'
+title: 'Tuckman’s Stages of Software Engineering Team Development : Lessons from T1 🏆🎮'
 categories: ["tuckman", "team development", "league of legends", "t1", "tips", "software engineers"]
 ---
 
