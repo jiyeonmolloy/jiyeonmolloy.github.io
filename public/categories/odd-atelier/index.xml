@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>K-Pop on Ji Molloy</title>
-    <link>http://localhost:1313/categories/k-pop/</link>
-    <description>Recent content in K-Pop on Ji Molloy</description>
+    <title>Odd Atelier on Ji Molloy</title>
+    <link>http://localhost:1313/categories/odd-atelier/</link>
+    <description>Recent content in Odd Atelier on Ji Molloy</description>
     <image>
       <title>Ji Molloy</title>
       <url>http://localhost:1313/assets/images/eevee-on-computer-circle.png</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Mar 2025 15:48:27 +1300</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/k-pop/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/odd-atelier/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Make It Yours! 🎵 Personalising the Lyrics to Like Jennie 🎤</title>
       <link>http://localhost:1313/posts/2025/like_jennie/</link>
@@ -40,15 +40,6 @@
   &lt;input type=&#34;text&#34; id=&#34;username&#34; name=&#34;username&#34; style=&#34;padding: 10px; width: 100%; max-width: 400px; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 4px;&#34;&gt;
 &lt;p&gt;&lt;label for=&#34;jobVerb&#34; style=&#34;display: block; margin-bottom: 10px;&#34;&gt;Enter a verb that best explains your job (e.g. code, consult, sing):&lt;/label&gt;
 &lt;input type=&#34;text&#34; id=&#34;jobVerb&#34; name=&#34;jobVerb&#34; style=&#34;padding: 10px; width: 100%; max-width: 400px; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 4px;&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Evolution of K-POP Groups : From Monoliths to Microservices 🎤🌟</title>
-      <link>http://localhost:1313/posts/2025/evolution-k-pop-monoliths-to-microservices/</link>
-      <pubDate>Wed, 12 Mar 2025 19:09:22 +1300</pubDate>
-      <guid>http://localhost:1313/posts/2025/evolution-k-pop-monoliths-to-microservices/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/eevee-kpop-member-monolith-to-microservices.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;K-pop has evolved dramatically over the years, with new generations of idols pushing the boundaries of what we know about the industry. If we take a step back, we can notice an interesting parallel between the growth of K-pop groups and the way we develop software 😄!&lt;/p&gt;
-&lt;p&gt;From the early days of K-pop groups like SES and Girls Generation to the global groups of BLACKPINK and BTS, K-pop groups have undergone a major transformation. This journey can be compared to the shift from monolithic systems to microservices in the tech world! 🤖💻&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

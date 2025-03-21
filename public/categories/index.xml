@@ -11,8 +11,57 @@
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Mar 2025 15:12:03 +1300</lastBuildDate>
+    <lastBuildDate>Fri, 21 Mar 2025 15:48:27 +1300</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Album</title>
+      <link>http://localhost:1313/categories/album/</link>
+      <pubDate>Fri, 21 Mar 2025 15:48:27 +1300</pubDate>
+      <guid>http://localhost:1313/categories/album/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blackpink</title>
+      <link>http://localhost:1313/categories/blackpink/</link>
+      <pubDate>Fri, 21 Mar 2025 15:48:27 +1300</pubDate>
+      <guid>http://localhost:1313/categories/blackpink/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Github</title>
+      <link>http://localhost:1313/categories/github/</link>
+      <pubDate>Fri, 21 Mar 2025 15:48:27 +1300</pubDate>
+      <guid>http://localhost:1313/categories/github/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jennie</title>
+      <link>http://localhost:1313/categories/jennie/</link>
+      <pubDate>Fri, 21 Mar 2025 15:48:27 +1300</pubDate>
+      <guid>http://localhost:1313/categories/jennie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>K-Pop</title>
+      <link>http://localhost:1313/categories/k-pop/</link>
+      <pubDate>Fri, 21 Mar 2025 15:48:27 +1300</pubDate>
+      <guid>http://localhost:1313/categories/k-pop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Odd Atelier</title>
+      <link>http://localhost:1313/categories/odd-atelier/</link>
+      <pubDate>Fri, 21 Mar 2025 15:48:27 +1300</pubDate>
+      <guid>http://localhost:1313/categories/odd-atelier/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ruby</title>
+      <link>http://localhost:1313/categories/ruby/</link>
+      <pubDate>Fri, 21 Mar 2025 15:48:27 +1300</pubDate>
+      <guid>http://localhost:1313/categories/ruby/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Apple Tv</title>
       <link>http://localhost:1313/categories/apple-tv/</link>
@@ -56,10 +105,10 @@
       <description></description>
     </item>
     <item>
-      <title>VM</title>
-      <link>http://localhost:1313/categories/vm/</link>
+      <title>VMs</title>
+      <link>http://localhost:1313/categories/vms/</link>
       <pubDate>Sun, 16 Mar 2025 15:12:03 +1300</pubDate>
-      <guid>http://localhost:1313/categories/vm/</guid>
+      <guid>http://localhost:1313/categories/vms/</guid>
       <description></description>
     </item>
     <item>
@@ -88,20 +137,6 @@
       <link>http://localhost:1313/categories/tuckman/</link>
       <pubDate>Sat, 15 Mar 2025 16:54:40 +1300</pubDate>
       <guid>http://localhost:1313/categories/tuckman/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Blackpink</title>
-      <link>http://localhost:1313/categories/blackpink/</link>
-      <pubDate>Wed, 12 Mar 2025 19:09:22 +1300</pubDate>
-      <guid>http://localhost:1313/categories/blackpink/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>K-Pop</title>
-      <link>http://localhost:1313/categories/k-pop/</link>
-      <pubDate>Wed, 12 Mar 2025 19:09:22 +1300</pubDate>
-      <guid>http://localhost:1313/categories/k-pop/</guid>
       <description></description>
     </item>
     <item>
@@ -144,13 +179,6 @@
       <link>http://localhost:1313/categories/copilot/</link>
       <pubDate>Sun, 09 Mar 2025 19:59:50 +1300</pubDate>
       <guid>http://localhost:1313/categories/copilot/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Github</title>
-      <link>http://localhost:1313/categories/github/</link>
-      <pubDate>Sun, 09 Mar 2025 19:59:50 +1300</pubDate>
-      <guid>http://localhost:1313/categories/github/</guid>
       <description></description>
     </item>
     <item>

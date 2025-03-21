@@ -2,19 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/album/</loc>
+    <lastmod>2025-03-21T15:48:27+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/blackpink/</loc>
+    <lastmod>2025-03-21T15:48:27+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-03-21T15:48:27+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/github/</loc>
+    <lastmod>2025-03-21T15:48:27+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/jennie/</loc>
+    <lastmod>2025-03-21T15:48:27+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-03-21T15:48:27+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/k-pop/</loc>
+    <lastmod>2025-03-21T15:48:27+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/like_jennie/</loc>
+    <lastmod>2025-03-21T15:48:27+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/odd-atelier/</loc>
+    <lastmod>2025-03-21T15:48:27+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-03-21T15:48:27+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/ruby/</loc>
+    <lastmod>2025-03-21T15:48:27+13:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/apple-tv/</loc>
     <lastmod>2025-03-16T15:12:03+13:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/posts/2025/severance-tv-show-virtual-machines/</loc>
     <lastmod>2025-03-16T15:12:03+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/containers/</loc>
-    <lastmod>2025-03-16T15:12:03+13:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-03-16T15:12:03+13:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-03-16T15:12:03+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/severance/</loc>
@@ -23,16 +50,13 @@
     <loc>http://localhost:1313/categories/software-engineers/</loc>
     <lastmod>2025-03-16T15:12:03+13:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/severance-tv-show-virtual-machines/</loc>
-    <lastmod>2025-03-16T15:12:03+13:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/tips/</loc>
     <lastmod>2025-03-16T15:12:03+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/virtualisation/</loc>
     <lastmod>2025-03-16T15:12:03+13:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/vm/</loc>
+    <loc>http://localhost:1313/categories/vms/</loc>
     <lastmod>2025-03-16T15:12:03+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/league-of-legends/</loc>
@@ -50,13 +74,7 @@
     <loc>http://localhost:1313/posts/2025/tuckmans-stages-of-t1-team-evolution/</loc>
     <lastmod>2025-03-15T16:54:40+13:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/blackpink/</loc>
-    <lastmod>2025-03-12T19:09:22+13:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/2025/evolution-k-pop-monoliths-to-microservices/</loc>
-    <lastmod>2025-03-12T19:09:22+13:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/k-pop/</loc>
     <lastmod>2025-03-12T19:09:22+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/microservices/</loc>
@@ -78,9 +96,6 @@
     <lastmod>2025-03-09T19:59:50+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/copilot/</loc>
-    <lastmod>2025-03-09T19:59:50+13:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/github/</loc>
     <lastmod>2025-03-09T19:59:50+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025/ai-companion-for-software-engineers/</loc>

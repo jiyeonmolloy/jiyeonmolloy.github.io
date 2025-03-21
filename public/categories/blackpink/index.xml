@@ -11,8 +11,36 @@
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Mar 2025 19:09:22 +1300</lastBuildDate>
+    <lastBuildDate>Fri, 21 Mar 2025 15:48:27 +1300</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/blackpink/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Make It Yours! 🎵 Personalising the Lyrics to Like Jennie 🎤</title>
+      <link>http://localhost:1313/posts/2025/like_jennie/</link>
+      <pubDate>Fri, 21 Mar 2025 15:48:27 +1300</pubDate>
+      <guid>http://localhost:1313/posts/2025/like_jennie/</guid>
+      <description>&lt;h2 id=&#34;like-jennie-personalisation&#34;&gt;Like Jennie Personalisation&lt;/h2&gt;
+&lt;p&gt;In this video Jennie explains XYZ&lt;/p&gt;
+&lt;p&gt;You can also achieve the same functionality by ABC&lt;/p&gt;
+&lt;p&gt;Enter text in the boxes below and click &lt;code&gt;SUBMIT&lt;/code&gt; button!&lt;/p&gt;
+&lt;p&gt;The text you enter will update the lyrics to the song Like Jennie and it will appear after you hit the &lt;code&gt;SUBMIT&lt;/code&gt; button 😎!&lt;/p&gt;
+&lt;p&gt;All the fields are required 😉&lt;/p&gt;
+&lt;style&gt;
+  input[type=&#34;text&#34;] {
+    color: black;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    input[type=&#34;text&#34;] {
+      color: white;
+    }
+  }
+&lt;/style&gt;
+&lt;form id=&#34;textForm&#34; style=&#34;margin-bottom: 20px;&#34;&gt;
+  &lt;label for=&#34;username&#34; style=&#34;display: block; margin-bottom: 10px;&#34;&gt;Enter your first name:&lt;/label&gt;
+  &lt;input type=&#34;text&#34; id=&#34;username&#34; name=&#34;username&#34; style=&#34;padding: 10px; width: 100%; max-width: 400px; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 4px;&#34;&gt;
+&lt;p&gt;&lt;label for=&#34;jobVerb&#34; style=&#34;display: block; margin-bottom: 10px;&#34;&gt;Enter a verb that best explains your job (e.g. code, consult, sing):&lt;/label&gt;
+&lt;input type=&#34;text&#34; id=&#34;jobVerb&#34; name=&#34;jobVerb&#34; style=&#34;padding: 10px; width: 100%; max-width: 400px; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 4px;&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Evolution of K-POP Groups : From Monoliths to Microservices 🎤🌟</title>
       <link>http://localhost:1313/posts/2025/evolution-k-pop-monoliths-to-microservices/</link>
