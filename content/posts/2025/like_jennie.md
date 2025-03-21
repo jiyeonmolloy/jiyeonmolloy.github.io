@@ -11,7 +11,7 @@ Jennie is a member of the K-pop group [BLACKPINK](https://ygfamily.com/ko/artist
 
 `Like Jennie` is a song in the new album Ruby!
 
-![alt text](/assets/images/like_jennie_like_someone.png)
+![alt text](/assets/images/like_jennie_like_someone.PNG)
 
 In this [YouTube video](https://youtu.be/Dz77zxY3NJE?t=1146), Jennie explains the meaning behind the song [Like Jennie](https://genius.com/Jennie-like-jennie-lyrics) - and how it can be personalised for anyone 😁!
 
