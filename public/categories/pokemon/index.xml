@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pokemon on Ji Molloy</title>
+    <link>http://localhost:1313/categories/pokemon/</link>
+    <description>Recent content in Pokemon on Ji Molloy</description>
+    <image>
+      <title>Ji Molloy</title>
+      <url>http://localhost:1313/assets/images/eevee-on-computer-circle.png</url>
+      <link>http://localhost:1313/assets/images/eevee-on-computer-circle.png</link>
+    </image>
+    <generator>Hugo -- 0.144.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Mar 2025 20:19:56 +1300</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/pokemon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>⏳📦 Time &amp; Space Complexity Explained with Pokémon! 🎮🐉</title>
+      <link>http://localhost:1313/posts/2025/time_space_complexity_with_pokemon/</link>
+      <pubDate>Sun, 30 Mar 2025 20:19:56 +1300</pubDate>
+      <guid>http://localhost:1313/posts/2025/time_space_complexity_with_pokemon/</guid>
+      <description>&lt;h1 id=&#34;-time--space-complexity-explained-with-pokémon-&#34;&gt;⏳📦 Time &amp;amp; Space Complexity Explained with Pokémon! 🎮🐉&lt;/h1&gt;
+&lt;p&gt;When writing code, we often want to know &lt;em&gt;how fast&lt;/em&gt; it runs ⏩ and &lt;em&gt;how much memory&lt;/em&gt; it uses 💾. This is where &lt;strong&gt;time complexity&lt;/strong&gt; and &lt;strong&gt;space complexity&lt;/strong&gt; come in! Let&amp;rsquo;s break these down using Pokémon-themed examples, so you can catch &amp;rsquo;em all 🎯—both in battle and in algorithm mastery! 🔥&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-big-o-notation---the-trainers-guide-&#34;&gt;⚡ Big O Notation - The Trainer’s Guide 📖&lt;/h2&gt;
+&lt;p&gt;Big O notation helps us understand how an algorithm scales as the input size grows. Think of it as training a Pokémon: some level up quickly ⚡, while others take forever ⏳!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
