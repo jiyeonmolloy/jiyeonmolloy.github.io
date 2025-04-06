@@ -18,11 +18,10 @@
       <link>http://localhost:1313/posts/2025/time_space_complexity_with_pokemon/</link>
       <pubDate>Sun, 30 Mar 2025 20:19:56 +1300</pubDate>
       <guid>http://localhost:1313/posts/2025/time_space_complexity_with_pokemon/</guid>
-      <description>&lt;h1 id=&#34;-time--space-complexity-explained-with-pokémon-&#34;&gt;⏳📦 Time &amp;amp; Space Complexity Explained with Pokémon! 🎮🐉&lt;/h1&gt;
-&lt;p&gt;When writing code, we often want to know &lt;em&gt;how fast&lt;/em&gt; it runs ⏩ and &lt;em&gt;how much memory&lt;/em&gt; it uses 💾. This is where &lt;strong&gt;time complexity&lt;/strong&gt; and &lt;strong&gt;space complexity&lt;/strong&gt; come in! Let&amp;rsquo;s break these down using Pokémon-themed examples, so you can catch &amp;rsquo;em all 🎯—both in battle and in algorithm mastery! 🔥&lt;/p&gt;
-&lt;hr&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/eevee-and-charizard-space-time.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;When writing code, we often want to know &lt;em&gt;how fast&lt;/em&gt; it runs ⏩ and &lt;em&gt;how much memory&lt;/em&gt; it uses 💾. This is where &lt;strong&gt;time complexity&lt;/strong&gt; and &lt;strong&gt;space complexity&lt;/strong&gt; comes in! Let&amp;rsquo;s break these down using Pokémon themed examples! 🔥&lt;/p&gt;
 &lt;h2 id=&#34;-big-o-notation---the-trainers-guide-&#34;&gt;⚡ Big O Notation - The Trainer’s Guide 📖&lt;/h2&gt;
-&lt;p&gt;Big O notation helps us understand how an algorithm scales as the input size grows. Think of it as training a Pokémon: some level up quickly ⚡, while others take forever ⏳!&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/&#34;&gt;Big O notation&lt;/a&gt; helps us understand how an algorithm scales as the input size grows. Think of it as training a Pokémon: some level up quickly ⚡, while others take longer ⏳!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

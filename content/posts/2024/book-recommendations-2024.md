@@ -1,7 +1,7 @@
 ---
 date: '2024-06-06T17:07:53+13:00'
 draft: false
-title: 'Book Recommendations for Sofware Engineers in 2024'
+title: 'Book Recommendations for Software Engineers in 2024'
 categories: ["book recommendations", "software engineers"]
 ---
 

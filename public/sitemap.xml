@@ -2,22 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-04-06T16:16:34+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/continuous-delivery/</loc>
+    <lastmod>2025-04-06T16:16:34+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/continuous-deployment/</loc>
+    <lastmod>2025-04-06T16:16:34+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/modern-software-delivery/</loc>
+    <lastmod>2025-04-06T16:16:34+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/deployment/</loc>
+    <lastmod>2025-04-06T16:16:34+12:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-03-30T20:19:56+13:00</lastmod>
+    <lastmod>2025-04-06T16:16:34+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-03-30T20:19:56+13:00</lastmod>
+    <lastmod>2025-04-06T16:16:34+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/release/</loc>
+    <lastmod>2025-04-06T16:16:34+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/software-delivery/</loc>
+    <lastmod>2025-04-06T16:16:34+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/software-engineers/</loc>
+    <lastmod>2025-04-06T16:16:34+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tdd/</loc>
+    <lastmod>2025-04-06T16:16:34+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tips/</loc>
+    <lastmod>2025-04-06T16:16:34+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/trunk-based-development/</loc>
+    <lastmod>2025-04-06T16:16:34+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025/time_space_complexity_with_pokemon/</loc>
+    <lastmod>2025-03-30T20:19:56+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/game/</loc>
+    <lastmod>2025-03-30T20:19:56+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/pokemon/</loc>
+    <lastmod>2025-03-30T20:19:56+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/space-complexity/</loc>
+    <lastmod>2025-03-30T20:19:56+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/time-complexity/</loc>
     <lastmod>2025-03-30T20:19:56+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/album/</loc>
     <lastmod>2025-03-21T15:48:27+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/blackpink/</loc>
-    <lastmod>2025-03-21T15:48:27+13:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-03-21T15:48:27+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/github/</loc>
@@ -48,12 +90,6 @@
     <lastmod>2025-03-16T15:12:03+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/severance/</loc>
-    <lastmod>2025-03-16T15:12:03+13:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/software-engineers/</loc>
-    <lastmod>2025-03-16T15:12:03+13:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/tips/</loc>
     <lastmod>2025-03-16T15:12:03+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/virtualisation/</loc>
@@ -121,9 +157,6 @@
   </url><url>
     <loc>http://localhost:1313/portfolio/</loc>
     <lastmod>2025-02-23T16:51:19+13:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/game/</loc>
-    <lastmod>2025-02-14T17:11:43+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025/team-topologies-league-of-legends/</loc>
     <lastmod>2025-02-14T17:11:43+13:00</lastmod>

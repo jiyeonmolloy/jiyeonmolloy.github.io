@@ -11,14 +11,24 @@
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Mar 2025 20:19:56 +1300</lastBuildDate>
+    <lastBuildDate>Sun, 06 Apr 2025 16:16:34 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Time_space_complexity_with_pokemon</title>
+      <title>Demystifying Modern Software Delivery: Trunk-Based Development, CI/CD, and Releases</title>
+      <link>http://localhost:1313/posts/2025/modern-software-delivery/</link>
+      <pubDate>Sun, 06 Apr 2025 16:16:34 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2025/modern-software-delivery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>⏳📦 Time &amp; Space Complexity Explained with Pokémon! 🎮🐉</title>
       <link>http://localhost:1313/posts/2025/time_space_complexity_with_pokemon/</link>
       <pubDate>Sun, 30 Mar 2025 20:19:56 +1300</pubDate>
       <guid>http://localhost:1313/posts/2025/time_space_complexity_with_pokemon/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/eevee-and-charizard-space-time.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;When writing code, we often want to know &lt;em&gt;how fast&lt;/em&gt; it runs ⏩ and &lt;em&gt;how much memory&lt;/em&gt; it uses 💾. This is where &lt;strong&gt;time complexity&lt;/strong&gt; and &lt;strong&gt;space complexity&lt;/strong&gt; comes in! Let&amp;rsquo;s break these down using Pokémon themed examples! 🔥&lt;/p&gt;
+&lt;h2 id=&#34;-big-o-notation---the-trainers-guide-&#34;&gt;⚡ Big O Notation - The Trainer’s Guide 📖&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/&#34;&gt;Big O notation&lt;/a&gt; helps us understand how an algorithm scales as the input size grows. Think of it as training a Pokémon: some level up quickly ⚡, while others take longer ⏳!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Make It Yours! 🎵 Personalising the Lyrics to Like Jennie 🎤</title>
@@ -139,7 +149,7 @@
 &lt;p&gt;I created a weekly schedule to study one practice exam per week. There are 5 practice exams and one final exam available which is slightly different: Terraform Fill-In-The-Blank Questions.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Book Recommendations for Sofware Engineers in 2024</title>
+      <title>Book Recommendations for Software Engineers in 2024</title>
       <link>http://localhost:1313/posts/2024/book-recommendations-2024/</link>
       <pubDate>Thu, 06 Jun 2024 17:07:53 +1300</pubDate>
       <guid>http://localhost:1313/posts/2024/book-recommendations-2024/</guid>
