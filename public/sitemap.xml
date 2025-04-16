@@ -2,218 +2,218 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jimolloy.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-04-16T20:46:16+12:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/cloud/</loc>
+    <loc>http://localhost:1313/categories/cloud/</loc>
     <lastmod>2025-04-16T20:46:16+12:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/conference/</loc>
+    <loc>http://localhost:1313/categories/conference/</loc>
     <lastmod>2025-04-16T20:46:16+12:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/google/</loc>
+    <loc>http://localhost:1313/categories/google/</loc>
     <lastmod>2025-04-16T20:46:16+12:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/google-cloud-next/</loc>
+    <loc>http://localhost:1313/categories/google-cloud-next/</loc>
     <lastmod>2025-04-16T20:46:16+12:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-04-16T20:46:16+12:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-04-16T20:46:16+12:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/software-engineers/</loc>
+    <loc>http://localhost:1313/categories/software-engineers/</loc>
     <lastmod>2025-04-16T20:46:16+12:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/tips/</loc>
+    <loc>http://localhost:1313/categories/tips/</loc>
     <lastmod>2025-04-16T20:46:16+12:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/posts/2025/google-cloud-next-0/</loc>
+    <loc>http://localhost:1313/posts/2025/google-cloud-next-0/</loc>
     <lastmod>2025-04-16T20:46:16+12:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/continuous-delivery/</loc>
+    <loc>http://localhost:1313/categories/continuous-delivery/</loc>
     <lastmod>2025-04-06T16:16:34+12:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/continuous-deployment/</loc>
+    <loc>http://localhost:1313/categories/continuous-deployment/</loc>
     <lastmod>2025-04-06T16:16:34+12:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/posts/2025/modern-software-delivery/</loc>
+    <loc>http://localhost:1313/posts/2025/modern-software-delivery/</loc>
     <lastmod>2025-04-06T16:16:34+12:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/deployment/</loc>
+    <loc>http://localhost:1313/categories/deployment/</loc>
     <lastmod>2025-04-06T16:16:34+12:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/release/</loc>
+    <loc>http://localhost:1313/categories/release/</loc>
     <lastmod>2025-04-06T16:16:34+12:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/software-delivery/</loc>
+    <loc>http://localhost:1313/categories/software-delivery/</loc>
     <lastmod>2025-04-06T16:16:34+12:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/tdd/</loc>
+    <loc>http://localhost:1313/categories/tdd/</loc>
     <lastmod>2025-04-06T16:16:34+12:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/trunk-based-development/</loc>
+    <loc>http://localhost:1313/categories/trunk-based-development/</loc>
     <lastmod>2025-04-06T16:16:34+12:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/posts/2025/time_space_complexity_with_pokemon/</loc>
+    <loc>http://localhost:1313/posts/2025/time_space_complexity_with_pokemon/</loc>
     <lastmod>2025-03-30T20:19:56+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/game/</loc>
+    <loc>http://localhost:1313/categories/game/</loc>
     <lastmod>2025-03-30T20:19:56+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/pokemon/</loc>
+    <loc>http://localhost:1313/categories/pokemon/</loc>
     <lastmod>2025-03-30T20:19:56+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/space-complexity/</loc>
+    <loc>http://localhost:1313/categories/space-complexity/</loc>
     <lastmod>2025-03-30T20:19:56+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/time-complexity/</loc>
+    <loc>http://localhost:1313/categories/time-complexity/</loc>
     <lastmod>2025-03-30T20:19:56+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/album/</loc>
+    <loc>http://localhost:1313/categories/album/</loc>
     <lastmod>2025-03-21T15:48:27+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/blackpink/</loc>
+    <loc>http://localhost:1313/categories/blackpink/</loc>
     <lastmod>2025-03-21T15:48:27+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/github/</loc>
+    <loc>http://localhost:1313/categories/github/</loc>
     <lastmod>2025-03-21T15:48:27+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/jennie/</loc>
+    <loc>http://localhost:1313/categories/jennie/</loc>
     <lastmod>2025-03-21T15:48:27+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/k-pop/</loc>
+    <loc>http://localhost:1313/categories/k-pop/</loc>
     <lastmod>2025-03-21T15:48:27+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/posts/2025/like_jennie/</loc>
+    <loc>http://localhost:1313/posts/2025/like_jennie/</loc>
     <lastmod>2025-03-21T15:48:27+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/odd-atelier/</loc>
+    <loc>http://localhost:1313/categories/odd-atelier/</loc>
     <lastmod>2025-03-21T15:48:27+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/ruby/</loc>
+    <loc>http://localhost:1313/categories/ruby/</loc>
     <lastmod>2025-03-21T15:48:27+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/apple-tv/</loc>
+    <loc>http://localhost:1313/categories/apple-tv/</loc>
     <lastmod>2025-03-16T15:12:03+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/posts/2025/severance-tv-show-virtual-machines/</loc>
+    <loc>http://localhost:1313/posts/2025/severance-tv-show-virtual-machines/</loc>
     <lastmod>2025-03-16T15:12:03+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/containers/</loc>
+    <loc>http://localhost:1313/categories/containers/</loc>
     <lastmod>2025-03-16T15:12:03+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/severance/</loc>
+    <loc>http://localhost:1313/categories/severance/</loc>
     <lastmod>2025-03-16T15:12:03+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/virtualisation/</loc>
+    <loc>http://localhost:1313/categories/virtualisation/</loc>
     <lastmod>2025-03-16T15:12:03+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/vms/</loc>
+    <loc>http://localhost:1313/categories/vms/</loc>
     <lastmod>2025-03-16T15:12:03+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/league-of-legends/</loc>
+    <loc>http://localhost:1313/categories/league-of-legends/</loc>
     <lastmod>2025-03-15T16:54:40+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/t1/</loc>
+    <loc>http://localhost:1313/categories/t1/</loc>
     <lastmod>2025-03-15T16:54:40+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/team-development/</loc>
+    <loc>http://localhost:1313/categories/team-development/</loc>
     <lastmod>2025-03-15T16:54:40+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/tuckman/</loc>
+    <loc>http://localhost:1313/categories/tuckman/</loc>
     <lastmod>2025-03-15T16:54:40+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/posts/2025/tuckmans-stages-of-t1-team-evolution/</loc>
+    <loc>http://localhost:1313/posts/2025/tuckmans-stages-of-t1-team-evolution/</loc>
     <lastmod>2025-03-15T16:54:40+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/posts/2025/evolution-k-pop-monoliths-to-microservices/</loc>
+    <loc>http://localhost:1313/posts/2025/evolution-k-pop-monoliths-to-microservices/</loc>
     <lastmod>2025-03-12T19:09:22+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/microservices/</loc>
+    <loc>http://localhost:1313/categories/microservices/</loc>
     <lastmod>2025-03-12T19:09:22+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/monolith/</loc>
+    <loc>http://localhost:1313/categories/monolith/</loc>
     <lastmod>2025-03-12T19:09:22+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/bread/</loc>
+    <loc>http://localhost:1313/categories/bread/</loc>
     <lastmod>2025-03-10T21:16:51+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/devops/</loc>
+    <loc>http://localhost:1313/categories/devops/</loc>
     <lastmod>2025-03-10T21:16:51+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/posts/2025/devops-fundamentals-bread-maker-analogy/</loc>
+    <loc>http://localhost:1313/posts/2025/devops-fundamentals-bread-maker-analogy/</loc>
     <lastmod>2025-03-10T21:16:51+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/ai/</loc>
+    <loc>http://localhost:1313/categories/ai/</loc>
     <lastmod>2025-03-09T19:59:50+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/copilot/</loc>
+    <loc>http://localhost:1313/categories/copilot/</loc>
     <lastmod>2025-03-09T19:59:50+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/posts/2025/ai-companion-for-software-engineers/</loc>
+    <loc>http://localhost:1313/posts/2025/ai-companion-for-software-engineers/</loc>
     <lastmod>2025-03-09T19:59:50+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/culture/</loc>
+    <loc>http://localhost:1313/categories/culture/</loc>
     <lastmod>2025-03-08T20:38:04+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/level-up/</loc>
+    <loc>http://localhost:1313/categories/level-up/</loc>
     <lastmod>2025-03-08T20:38:04+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/posts/2025/building-pairing-culture/</loc>
+    <loc>http://localhost:1313/posts/2025/building-pairing-culture/</loc>
     <lastmod>2025-03-08T20:38:04+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/pairing/</loc>
+    <loc>http://localhost:1313/categories/pairing/</loc>
     <lastmod>2025-03-08T20:38:04+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/team/</loc>
+    <loc>http://localhost:1313/categories/team/</loc>
     <lastmod>2025-03-08T20:38:04+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/portfolio/</loc>
+    <loc>http://localhost:1313/portfolio/</loc>
     <lastmod>2025-02-23T16:51:19+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/posts/2025/team-topologies-league-of-legends/</loc>
+    <loc>http://localhost:1313/posts/2025/team-topologies-league-of-legends/</loc>
     <lastmod>2025-02-14T17:11:43+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/team-topologies/</loc>
+    <loc>http://localhost:1313/categories/team-topologies/</loc>
     <lastmod>2025-02-14T17:11:43+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/certification/</loc>
+    <loc>http://localhost:1313/categories/certification/</loc>
     <lastmod>2024-09-12T17:43:30+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/posts/2024/terraform-associate-003/</loc>
+    <loc>http://localhost:1313/posts/2024/terraform-associate-003/</loc>
     <lastmod>2024-09-12T17:43:30+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/solutions-architect/</loc>
+    <loc>http://localhost:1313/categories/solutions-architect/</loc>
     <lastmod>2024-09-12T17:43:30+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/terraform/</loc>
+    <loc>http://localhost:1313/categories/terraform/</loc>
     <lastmod>2024-09-12T17:43:30+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/book-recommendations/</loc>
+    <loc>http://localhost:1313/categories/book-recommendations/</loc>
     <lastmod>2024-06-06T17:07:53+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/posts/2024/book-recommendations-2024/</loc>
+    <loc>http://localhost:1313/posts/2024/book-recommendations-2024/</loc>
     <lastmod>2024-06-06T17:07:53+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/recap/</loc>
+    <loc>http://localhost:1313/categories/recap/</loc>
     <lastmod>2024-05-24T17:01:51+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/serverless/</loc>
+    <loc>http://localhost:1313/categories/serverless/</loc>
     <lastmod>2024-05-24T17:01:51+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/posts/2024/serverless-days/</loc>
+    <loc>http://localhost:1313/posts/2024/serverless-days/</loc>
     <lastmod>2024-05-24T17:01:51+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/categories/aws/</loc>
+    <loc>http://localhost:1313/categories/aws/</loc>
     <lastmod>2022-08-25T17:04:04+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/posts/2022/aws-solutions-architect-saa-c02/</loc>
+    <loc>http://localhost:1313/posts/2022/aws-solutions-architect-saa-c02/</loc>
     <lastmod>2022-08-25T17:04:04+13:00</lastmod>
   </url><url>
-    <loc>https://jimolloy.com/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>https://jimolloy.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

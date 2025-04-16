@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ji Molloy</title>
-    <link>https://jimolloy.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Ji Molloy</description>
     <image>
       <title>Ji Molloy</title>
-      <url>https://jimolloy.com/assets/images/eevee-on-computer-circle.png</url>
-      <link>https://jimolloy.com/assets/images/eevee-on-computer-circle.png</link>
+      <url>http://localhost:1313/assets/images/eevee-on-computer-circle.png</url>
+      <link>http://localhost:1313/assets/images/eevee-on-computer-circle.png</link>
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Apr 2025 20:46:16 +1200</lastBuildDate>
-    <atom:link href="https://jimolloy.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🌩️ What I Wish I Knew Before Attending Google Cloud Next 2025 🌩️</title>
-      <link>https://jimolloy.com/posts/2025/google-cloud-next-0/</link>
+      <link>http://localhost:1313/posts/2025/google-cloud-next-0/</link>
       <pubDate>Wed, 16 Apr 2025 20:46:16 +1200</pubDate>
-      <guid>https://jimolloy.com/posts/2025/google-cloud-next-0/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;https://jimolloy.com/assets/images/google-cloud-next-25-opening.jpg&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/posts/2025/google-cloud-next-0/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/google-cloud-next-25-opening.jpg&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;survival-tips-for-a-techie-adventure-in-las-vegas-&#34;&gt;Survival tips for a techie adventure in Las Vegas 🏜️💻&lt;/h2&gt;
 &lt;p&gt;Heya! ☁️ I had an amazing opportunity to attend &lt;a href=&#34;https://cloud.withgoogle.com/next/25/&#34;&gt;Google Cloud Next 2025&lt;/a&gt; in Las Vegas! 😮‍💨
 If you&amp;rsquo;re planning to attend a similar conference in the future, here are some things I really wish I had known beforehand — and this is just the beginning! 🎉
@@ -26,10 +26,10 @@ I’ll be sharing more blog posts soon with deeper dives into Google Cloud Next 
     </item>
     <item>
       <title>Demystifying Modern Software Delivery: Trunk-Based Development, CI/CD, and Releases 🚀👨🏻‍🚀</title>
-      <link>https://jimolloy.com/posts/2025/modern-software-delivery/</link>
+      <link>http://localhost:1313/posts/2025/modern-software-delivery/</link>
       <pubDate>Sun, 06 Apr 2025 16:16:34 +1200</pubDate>
-      <guid>https://jimolloy.com/posts/2025/modern-software-delivery/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;https://jimolloy.com/assets/images/tbd-eevee-charizard.png&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/posts/2025/modern-software-delivery/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/tbd-eevee-charizard.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Software delivery has changed a lot over the years! What’s the difference between &lt;strong&gt;continuous delivery&lt;/strong&gt; and &lt;strong&gt;continuous deployment&lt;/strong&gt;? 🤔&lt;/p&gt;
 &lt;p&gt;And is a feature &lt;code&gt;live&lt;/code&gt; just because it’s deployed? 🤨&lt;/p&gt;
 &lt;p&gt;Let’s look into this together with some modern DevOps 🚀&lt;/p&gt;
@@ -47,76 +47,76 @@ I’ll be sharing more blog posts soon with deeper dives into Google Cloud Next 
     </item>
     <item>
       <title>⏳📦 Time &amp; Space Complexity Explained with Pokémon! 🎮🐉</title>
-      <link>https://jimolloy.com/posts/2025/time_space_complexity_with_pokemon/</link>
+      <link>http://localhost:1313/posts/2025/time_space_complexity_with_pokemon/</link>
       <pubDate>Sun, 30 Mar 2025 20:19:56 +1300</pubDate>
-      <guid>https://jimolloy.com/posts/2025/time_space_complexity_with_pokemon/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;https://jimolloy.com/assets/images/eevee-and-charizard-space-time.png&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/posts/2025/time_space_complexity_with_pokemon/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/eevee-and-charizard-space-time.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;When writing code, we often want to know &lt;em&gt;how fast&lt;/em&gt; it runs ⏩ and &lt;em&gt;how much memory&lt;/em&gt; it uses 💾. This is where &lt;strong&gt;time complexity&lt;/strong&gt; and &lt;strong&gt;space complexity&lt;/strong&gt; comes in! Let&amp;rsquo;s break these down using Pokémon themed examples! 🔥&lt;/p&gt;
 &lt;h2 id=&#34;-big-o-notation---the-trainers-guide-&#34;&gt;⚡ Big O Notation - The Trainer’s Guide 📖&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/&#34;&gt;Big O notation&lt;/a&gt; helps us understand how an algorithm scales as the input size grows. Think of it as training a Pokémon: some level up quickly ⚡, while others take longer ⏳!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Make It Yours! 🎵 Personalising the Lyrics to Like Jennie 🎤</title>
-      <link>https://jimolloy.com/posts/2025/like_jennie/</link>
+      <link>http://localhost:1313/posts/2025/like_jennie/</link>
       <pubDate>Fri, 21 Mar 2025 15:48:27 +1300</pubDate>
-      <guid>https://jimolloy.com/posts/2025/like_jennie/</guid>
+      <guid>http://localhost:1313/posts/2025/like_jennie/</guid>
       <description>&lt;h2 id=&#34;interactive-personalisations-to-the-lyrics-of-like-jennie-&#34;&gt;Interactive Personalisations to the Lyrics of Like Jennie! 🤗&lt;/h2&gt;
 &lt;p&gt;Jennie is a member of the K-pop group &lt;a href=&#34;https://ygfamily.com/ko/artists/blackpink/profile&#34;&gt;BLACKPINK&lt;/a&gt; who recently released her solo album &lt;a href=&#34;https://en.wikipedia.org/wiki/Ruby_(Jennie_album)&#34;&gt;Ruby&lt;/a&gt; 🎧🎵&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;Like Jennie&lt;/code&gt; is a song in the new album Ruby!&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;https://jimolloy.com/assets/images/like_jennie_like_someone.PNG&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/like_jennie_like_someone.PNG&#34;&gt;&lt;/p&gt;
 &lt;p&gt;In this &lt;a href=&#34;https://youtu.be/Dz77zxY3NJE?t=1146&#34;&gt;YouTube video&lt;/a&gt;, Jennie explains the meaning behind the song &lt;a href=&#34;https://genius.com/Jennie-like-jennie-lyrics&#34;&gt;Like Jennie&lt;/a&gt; - and how it can be personalised for anyone 😁!&lt;/p&gt;
 &lt;p&gt;This post is to help anyone personalise the song &lt;code&gt;Like Jennie&lt;/code&gt;!&lt;/p&gt;
 &lt;p&gt;Enter text in the boxes below and click &lt;code&gt;SUBMIT&lt;/code&gt; button!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Comparing Severance TV Show to Virtualisation Techniques 🧠💻</title>
-      <link>https://jimolloy.com/posts/2025/severance-tv-show-virtual-machines/</link>
+      <link>http://localhost:1313/posts/2025/severance-tv-show-virtual-machines/</link>
       <pubDate>Sun, 16 Mar 2025 15:12:03 +1300</pubDate>
-      <guid>https://jimolloy.com/posts/2025/severance-tv-show-virtual-machines/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;https://jimolloy.com/assets/images/eevee-in-severance-tv-show.png&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/posts/2025/severance-tv-show-virtual-machines/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/eevee-in-severance-tv-show.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;If you’ve ever watched &lt;a href=&#34;https://www.imdb.com/title/tt11280740/&#34;&gt;Severance on Apple TV&lt;/a&gt;, you know that it’s a very interesting and addictive show that explores the concept of &amp;ldquo;severance&amp;rdquo; — a procedure that separates your work-life memories from your personal memories 🧑‍💼💼&lt;/p&gt;
 &lt;p&gt;But have you ever thought about how Severance could be compared to virtualisation techniques? 🤔 Let&amp;rsquo;s do an interesting comparison between the human mind and computer systems together, using concepts like partitioning and virtualisation 🚀&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tuckman’s Stages of Software Engineering Team Development : Lessons from T1 🏆🎮</title>
-      <link>https://jimolloy.com/posts/2025/tuckmans-stages-of-t1-team-evolution/</link>
+      <link>http://localhost:1313/posts/2025/tuckmans-stages-of-t1-team-evolution/</link>
       <pubDate>Sat, 15 Mar 2025 16:54:40 +1300</pubDate>
-      <guid>https://jimolloy.com/posts/2025/tuckmans-stages-of-t1-team-evolution/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;https://jimolloy.com/assets/images/eevee-pro-gamer-in-lol-t1.png&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/posts/2025/tuckmans-stages-of-t1-team-evolution/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/eevee-pro-gamer-in-lol-t1.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Building a strong and cohesive team is not easy, whether it&amp;rsquo;s in software engineering or e-sports! Let&amp;rsquo;s talk about &lt;a href=&#34;https://hr.mit.edu/learning-topics/teams/articles/stages-development&#34;&gt;Tuckman’s Stages of Team Development&lt;/a&gt;, using the famous &lt;a href=&#34;https://www.t1.gg/teams/leagueoflegends&#34;&gt;T1 League of Legends team&lt;/a&gt; as an example. This e-sports team has gone through all the ups and downs of team development, and their journey is a great lesson for us in the tech world.&lt;/p&gt;
 &lt;p&gt;Let’s break it down and see how T1 went from the Forming stage to the Performing stage—and why keeping your team together, upskilling, and believing in internal promotion is key to success! 🚀&lt;/p&gt;</description>
     </item>
     <item>
       <title>Evolution of K-POP Groups : From Monoliths to Microservices 🎤🌟</title>
-      <link>https://jimolloy.com/posts/2025/evolution-k-pop-monoliths-to-microservices/</link>
+      <link>http://localhost:1313/posts/2025/evolution-k-pop-monoliths-to-microservices/</link>
       <pubDate>Wed, 12 Mar 2025 19:09:22 +1300</pubDate>
-      <guid>https://jimolloy.com/posts/2025/evolution-k-pop-monoliths-to-microservices/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;https://jimolloy.com/assets/images/eevee-kpop-member-monolith-to-microservices.png&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/posts/2025/evolution-k-pop-monoliths-to-microservices/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/eevee-kpop-member-monolith-to-microservices.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;K-pop has evolved dramatically over the years, with new generations of idols pushing the boundaries of what we know about the industry. If we take a step back, we can notice an interesting parallel between the growth of K-pop groups and the way we develop software 😄!&lt;/p&gt;
 &lt;p&gt;From the early days of K-pop groups like SES and Girls Generation to the global groups of BLACKPINK and BTS, K-pop groups have undergone a major transformation. This journey can be compared to the shift from monolithic systems to microservices in the tech world! 🤖💻&lt;/p&gt;</description>
     </item>
     <item>
       <title>DevOps Fundamentals! Bread Maker Analogy 🍞</title>
-      <link>https://jimolloy.com/posts/2025/devops-fundamentals-bread-maker-analogy/</link>
+      <link>http://localhost:1313/posts/2025/devops-fundamentals-bread-maker-analogy/</link>
       <pubDate>Mon, 10 Mar 2025 21:16:51 +1300</pubDate>
-      <guid>https://jimolloy.com/posts/2025/devops-fundamentals-bread-maker-analogy/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;https://jimolloy.com/assets/images/eevee-using-devops-breadmaker.png&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/posts/2025/devops-fundamentals-bread-maker-analogy/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/eevee-using-devops-breadmaker.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;DevOps is like a bread maker 🍞🐱‍🏍 it takes a variety of inputs, processes them, and produces a final product with minimal manual intervention. Just like how you add ingredients to a bread maker (flour, yeast, sugar, etc. 🍰), DevOps involves providing code, infrastructure, and automation to produce a continuous flow of delivery. Let’s break down the &lt;strong&gt;3 fundamentals of DevOps&lt;/strong&gt; and explore some best practices using the bread maker analogy!&lt;/p&gt;</description>
     </item>
     <item>
       <title>How AI is Helping Software Engineers : A Helping Hand, Not the Driver 🚗</title>
-      <link>https://jimolloy.com/posts/2025/ai-companion-for-software-engineers/</link>
+      <link>http://localhost:1313/posts/2025/ai-companion-for-software-engineers/</link>
       <pubDate>Sun, 09 Mar 2025 19:59:50 +1300</pubDate>
-      <guid>https://jimolloy.com/posts/2025/ai-companion-for-software-engineers/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;https://jimolloy.com/assets/images/eevee-working-with-github-copilot.png&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/posts/2025/ai-companion-for-software-engineers/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/eevee-working-with-github-copilot.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The world of software engineering is constantly evolving, and so is the technology we use to build software. Artificial Intelligence tools, like &lt;a href=&#34;https://github.com/features/copilot&#34;&gt;GitHub Copilot&lt;/a&gt;, have rapidly emerged as valuable assistants in the software development process. But it&amp;rsquo;s essential to remember that AI is a tool and not the driver. It is the software engineer who remains in control, using AI as a helpful co-pilot rather than relying on it to lead and drive the way.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Level up together : Building a strong pairing culture 🥰</title>
-      <link>https://jimolloy.com/posts/2025/building-pairing-culture/</link>
+      <link>http://localhost:1313/posts/2025/building-pairing-culture/</link>
       <pubDate>Sat, 08 Mar 2025 20:38:04 +1300</pubDate>
-      <guid>https://jimolloy.com/posts/2025/building-pairing-culture/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;https://jimolloy.com/assets/images/eevee-charizard-pairing.png&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/posts/2025/building-pairing-culture/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/eevee-charizard-pairing.png&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;why-should-we-promote-a-pairing-culture-&#34;&gt;Why should we promote a pairing culture? 🌳&lt;/h3&gt;
 &lt;p&gt;Pairing offers numerous valuable benefits that help enhance team dynamics and professional growth 🌴:&lt;/p&gt;
 &lt;ul&gt;
@@ -146,9 +146,9 @@ I’ll be sharing more blog posts soon with deeper dives into Google Cloud Next 
     </item>
     <item>
       <title>Portfolio</title>
-      <link>https://jimolloy.com/portfolio/</link>
+      <link>http://localhost:1313/portfolio/</link>
       <pubDate>Sun, 23 Feb 2025 16:51:19 +1300</pubDate>
-      <guid>https://jimolloy.com/portfolio/</guid>
+      <guid>http://localhost:1313/portfolio/</guid>
       <description>&lt;h2 id=&#34;devops-cop-&#34;&gt;DevOps CoP 🚀&lt;/h2&gt;
 &lt;p&gt;DevOps Community of Practice, organiser &lt;em&gt;&lt;strong&gt;(2021 - Present)&lt;/strong&gt;&lt;/em&gt; and speaker 🎙&lt;/p&gt;
 &lt;h2 id=&#34;xcite-&#34;&gt;XCITE ⚡&lt;/h2&gt;
@@ -156,19 +156,19 @@ I’ll be sharing more blog posts soon with deeper dives into Google Cloud Next 
     </item>
     <item>
       <title>How Team Topologies relates to League of Legends 😎</title>
-      <link>https://jimolloy.com/posts/2025/team-topologies-league-of-legends/</link>
+      <link>http://localhost:1313/posts/2025/team-topologies-league-of-legends/</link>
       <pubDate>Fri, 14 Feb 2025 17:11:43 +1300</pubDate>
-      <guid>https://jimolloy.com/posts/2025/team-topologies-league-of-legends/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;https://jimolloy.com/assets/images/league-of-legends.jpg&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/posts/2025/team-topologies-league-of-legends/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/league-of-legends.jpg&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;how-team-topologies-relates-to-the-different-positions-played-in-league-of-legends&#34;&gt;How Team Topologies Relates to the Different Positions Played in League of Legends&lt;/h2&gt;
 &lt;p&gt;In both software development and competitive gaming, effective team structure and collaboration are critical to achieving success. Whether you are managing a sofware engineering team or playing a game of League of Legends (LoL), how you organise your team and define roles impacts the overall performance and outcome.&lt;/p&gt;
 &lt;p&gt;In this blog, I&amp;rsquo;m going to draw an interesting comparison between &lt;a href=&#34;https://teamtopologies.com/&#34;&gt;Team Topologies&lt;/a&gt;: a framework used to define and optimise team structures in modern software engineering, and the positions in League of Legends. While one is about creating scalable and efficient software, and the other is about winning a fast-paced game, the principles of collaboration, specialised roles, and strategic alignment remain the same. If you haven&amp;rsquo;t read the book: Team Topologies yet, please checkout my previous blog post on book recommendations where it has more information about this blog and why you should read it!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Getting Terraform Certified! 🌍</title>
-      <link>https://jimolloy.com/posts/2024/terraform-associate-003/</link>
+      <link>http://localhost:1313/posts/2024/terraform-associate-003/</link>
       <pubDate>Thu, 12 Sep 2024 17:43:30 +1300</pubDate>
-      <guid>https://jimolloy.com/posts/2024/terraform-associate-003/</guid>
+      <guid>http://localhost:1313/posts/2024/terraform-associate-003/</guid>
       <description>&lt;h2 id=&#34;benefits-&#34;&gt;Benefits 🦘&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://developer.hashicorp.com/certifications/infrastructure-automation&#34;&gt;&lt;code&gt;Infrastructure Automation | HashiCorp Developer&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I prepared for the HashiCorp Certified: Terraform Associate certification, which is about:&lt;/p&gt;
@@ -185,9 +185,9 @@ I’ll be sharing more blog posts soon with deeper dives into Google Cloud Next 
     </item>
     <item>
       <title>Book Recommendations for Software Engineers in 2024</title>
-      <link>https://jimolloy.com/posts/2024/book-recommendations-2024/</link>
+      <link>http://localhost:1313/posts/2024/book-recommendations-2024/</link>
       <pubDate>Thu, 06 Jun 2024 17:07:53 +1300</pubDate>
-      <guid>https://jimolloy.com/posts/2024/book-recommendations-2024/</guid>
+      <guid>http://localhost:1313/posts/2024/book-recommendations-2024/</guid>
       <description>&lt;h2 id=&#34;-recommended-books-for-software-engineers-&#34;&gt;📚 Recommended Books for Software Engineers 📚&lt;/h2&gt;
 &lt;p&gt;As a software engineer, continually enhancing your skills and knowledge is crucial. Reading books that provide insights into different aspects of software development, team dynamics, and coding best practices can significantly help contribute to your professional growth.&lt;/p&gt;
 &lt;p&gt;Here are three highly recommended books that every software engineer should read.&lt;/p&gt;
@@ -196,9 +196,9 @@ I’ll be sharing more blog posts soon with deeper dives into Google Cloud Next 
     </item>
     <item>
       <title>Serverless Days 🥨</title>
-      <link>https://jimolloy.com/posts/2024/serverless-days/</link>
+      <link>http://localhost:1313/posts/2024/serverless-days/</link>
       <pubDate>Fri, 24 May 2024 17:01:51 +1300</pubDate>
-      <guid>https://jimolloy.com/posts/2024/serverless-days/</guid>
+      <guid>http://localhost:1313/posts/2024/serverless-days/</guid>
       <description>&lt;h2 id=&#34;serverless-days&#34;&gt;Serverless Days!&lt;/h2&gt;
 &lt;p&gt;Click &lt;a href=&#34;https://anz.serverlessdays.io/auckland/&#34;&gt;here&lt;/a&gt; to see the full agenda&lt;/p&gt;
 &lt;p&gt;I had the amazing opportunity to attend ServerLess Days. If you are working with serverless technology and would like to meet other active developers and technical leaders from across the Australia &amp;amp; New Zealand region, while hearing from some world-class speakers, I highly recommend attending this event!&lt;/p&gt;
@@ -371,9 +371,9 @@ I’ll be sharing more blog posts soon with deeper dives into Google Cloud Next 
     </item>
     <item>
       <title>Getting AWS Solutions Architect Certified! 🚀</title>
-      <link>https://jimolloy.com/posts/2022/aws-solutions-architect-saa-c02/</link>
+      <link>http://localhost:1313/posts/2022/aws-solutions-architect-saa-c02/</link>
       <pubDate>Thu, 25 Aug 2022 17:04:04 +1300</pubDate>
-      <guid>https://jimolloy.com/posts/2022/aws-solutions-architect-saa-c02/</guid>
+      <guid>http://localhost:1313/posts/2022/aws-solutions-architect-saa-c02/</guid>
       <description>&lt;h2 id=&#34;benefits-of-getting-aws-certified-&#34;&gt;Benefits of getting AWS Certified ✨&lt;/h2&gt;
 &lt;p&gt;Please note that the exam content has changed on 29th August 2022 (SAA-C03), so the content and resources I share in this post may be out-of-date! ☕&lt;/p&gt;
 &lt;p&gt;I prepared for the AWS Solutions Architect - Associate certification, which is about:&lt;/p&gt;
@@ -385,9 +385,9 @@ I’ll be sharing more blog posts soon with deeper dives into Google Cloud Next 
     </item>
     <item>
       <title>Contact Ji</title>
-      <link>https://jimolloy.com/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jimolloy.com/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;p&gt;🚀 &lt;a href=&#34;https://www.linkedin.com/in/jiyeonmolloy/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;🐇 &lt;a href=&#34;https://github.com/jiyeonmolloy&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;💌 &lt;a href=&#34;mailto:jiyeon.molloy@gmail.com&#34;&gt;E-mail&lt;/a&gt;&lt;/p&gt;</description>

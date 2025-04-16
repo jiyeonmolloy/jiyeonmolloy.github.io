@@ -2,372 +2,372 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Ji Molloy</title>
-    <link>https://jimolloy.com/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Ji Molloy</description>
     <image>
       <title>Ji Molloy</title>
-      <url>https://jimolloy.com/assets/images/eevee-on-computer-circle.png</url>
-      <link>https://jimolloy.com/assets/images/eevee-on-computer-circle.png</link>
+      <url>http://localhost:1313/assets/images/eevee-on-computer-circle.png</url>
+      <link>http://localhost:1313/assets/images/eevee-on-computer-circle.png</link>
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Apr 2025 20:46:16 +1200</lastBuildDate>
-    <atom:link href="https://jimolloy.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cloud</title>
-      <link>https://jimolloy.com/categories/cloud/</link>
+      <link>http://localhost:1313/categories/cloud/</link>
       <pubDate>Wed, 16 Apr 2025 20:46:16 +1200</pubDate>
-      <guid>https://jimolloy.com/categories/cloud/</guid>
+      <guid>http://localhost:1313/categories/cloud/</guid>
       <description></description>
     </item>
     <item>
       <title>Conference</title>
-      <link>https://jimolloy.com/categories/conference/</link>
+      <link>http://localhost:1313/categories/conference/</link>
       <pubDate>Wed, 16 Apr 2025 20:46:16 +1200</pubDate>
-      <guid>https://jimolloy.com/categories/conference/</guid>
+      <guid>http://localhost:1313/categories/conference/</guid>
       <description></description>
     </item>
     <item>
       <title>Google</title>
-      <link>https://jimolloy.com/categories/google/</link>
+      <link>http://localhost:1313/categories/google/</link>
       <pubDate>Wed, 16 Apr 2025 20:46:16 +1200</pubDate>
-      <guid>https://jimolloy.com/categories/google/</guid>
+      <guid>http://localhost:1313/categories/google/</guid>
       <description></description>
     </item>
     <item>
       <title>Google Cloud Next</title>
-      <link>https://jimolloy.com/categories/google-cloud-next/</link>
+      <link>http://localhost:1313/categories/google-cloud-next/</link>
       <pubDate>Wed, 16 Apr 2025 20:46:16 +1200</pubDate>
-      <guid>https://jimolloy.com/categories/google-cloud-next/</guid>
+      <guid>http://localhost:1313/categories/google-cloud-next/</guid>
       <description></description>
     </item>
     <item>
       <title>Software Engineers</title>
-      <link>https://jimolloy.com/categories/software-engineers/</link>
+      <link>http://localhost:1313/categories/software-engineers/</link>
       <pubDate>Wed, 16 Apr 2025 20:46:16 +1200</pubDate>
-      <guid>https://jimolloy.com/categories/software-engineers/</guid>
+      <guid>http://localhost:1313/categories/software-engineers/</guid>
       <description></description>
     </item>
     <item>
       <title>Tips</title>
-      <link>https://jimolloy.com/categories/tips/</link>
+      <link>http://localhost:1313/categories/tips/</link>
       <pubDate>Wed, 16 Apr 2025 20:46:16 +1200</pubDate>
-      <guid>https://jimolloy.com/categories/tips/</guid>
+      <guid>http://localhost:1313/categories/tips/</guid>
       <description></description>
     </item>
     <item>
       <title>Continuous Delivery</title>
-      <link>https://jimolloy.com/categories/continuous-delivery/</link>
+      <link>http://localhost:1313/categories/continuous-delivery/</link>
       <pubDate>Sun, 06 Apr 2025 16:16:34 +1200</pubDate>
-      <guid>https://jimolloy.com/categories/continuous-delivery/</guid>
+      <guid>http://localhost:1313/categories/continuous-delivery/</guid>
       <description></description>
     </item>
     <item>
       <title>Continuous Deployment</title>
-      <link>https://jimolloy.com/categories/continuous-deployment/</link>
+      <link>http://localhost:1313/categories/continuous-deployment/</link>
       <pubDate>Sun, 06 Apr 2025 16:16:34 +1200</pubDate>
-      <guid>https://jimolloy.com/categories/continuous-deployment/</guid>
+      <guid>http://localhost:1313/categories/continuous-deployment/</guid>
       <description></description>
     </item>
     <item>
       <title>Deployment</title>
-      <link>https://jimolloy.com/categories/deployment/</link>
+      <link>http://localhost:1313/categories/deployment/</link>
       <pubDate>Sun, 06 Apr 2025 16:16:34 +1200</pubDate>
-      <guid>https://jimolloy.com/categories/deployment/</guid>
+      <guid>http://localhost:1313/categories/deployment/</guid>
       <description></description>
     </item>
     <item>
       <title>Release</title>
-      <link>https://jimolloy.com/categories/release/</link>
+      <link>http://localhost:1313/categories/release/</link>
       <pubDate>Sun, 06 Apr 2025 16:16:34 +1200</pubDate>
-      <guid>https://jimolloy.com/categories/release/</guid>
+      <guid>http://localhost:1313/categories/release/</guid>
       <description></description>
     </item>
     <item>
       <title>Software Delivery</title>
-      <link>https://jimolloy.com/categories/software-delivery/</link>
+      <link>http://localhost:1313/categories/software-delivery/</link>
       <pubDate>Sun, 06 Apr 2025 16:16:34 +1200</pubDate>
-      <guid>https://jimolloy.com/categories/software-delivery/</guid>
+      <guid>http://localhost:1313/categories/software-delivery/</guid>
       <description></description>
     </item>
     <item>
       <title>Tdd</title>
-      <link>https://jimolloy.com/categories/tdd/</link>
+      <link>http://localhost:1313/categories/tdd/</link>
       <pubDate>Sun, 06 Apr 2025 16:16:34 +1200</pubDate>
-      <guid>https://jimolloy.com/categories/tdd/</guid>
+      <guid>http://localhost:1313/categories/tdd/</guid>
       <description></description>
     </item>
     <item>
       <title>Trunk-Based Development</title>
-      <link>https://jimolloy.com/categories/trunk-based-development/</link>
+      <link>http://localhost:1313/categories/trunk-based-development/</link>
       <pubDate>Sun, 06 Apr 2025 16:16:34 +1200</pubDate>
-      <guid>https://jimolloy.com/categories/trunk-based-development/</guid>
+      <guid>http://localhost:1313/categories/trunk-based-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Game</title>
-      <link>https://jimolloy.com/categories/game/</link>
+      <link>http://localhost:1313/categories/game/</link>
       <pubDate>Sun, 30 Mar 2025 20:19:56 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/game/</guid>
+      <guid>http://localhost:1313/categories/game/</guid>
       <description></description>
     </item>
     <item>
       <title>Pokemon</title>
-      <link>https://jimolloy.com/categories/pokemon/</link>
+      <link>http://localhost:1313/categories/pokemon/</link>
       <pubDate>Sun, 30 Mar 2025 20:19:56 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/pokemon/</guid>
+      <guid>http://localhost:1313/categories/pokemon/</guid>
       <description></description>
     </item>
     <item>
       <title>Space Complexity</title>
-      <link>https://jimolloy.com/categories/space-complexity/</link>
+      <link>http://localhost:1313/categories/space-complexity/</link>
       <pubDate>Sun, 30 Mar 2025 20:19:56 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/space-complexity/</guid>
+      <guid>http://localhost:1313/categories/space-complexity/</guid>
       <description></description>
     </item>
     <item>
       <title>Time Complexity</title>
-      <link>https://jimolloy.com/categories/time-complexity/</link>
+      <link>http://localhost:1313/categories/time-complexity/</link>
       <pubDate>Sun, 30 Mar 2025 20:19:56 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/time-complexity/</guid>
+      <guid>http://localhost:1313/categories/time-complexity/</guid>
       <description></description>
     </item>
     <item>
       <title>Album</title>
-      <link>https://jimolloy.com/categories/album/</link>
+      <link>http://localhost:1313/categories/album/</link>
       <pubDate>Fri, 21 Mar 2025 15:48:27 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/album/</guid>
+      <guid>http://localhost:1313/categories/album/</guid>
       <description></description>
     </item>
     <item>
       <title>Blackpink</title>
-      <link>https://jimolloy.com/categories/blackpink/</link>
+      <link>http://localhost:1313/categories/blackpink/</link>
       <pubDate>Fri, 21 Mar 2025 15:48:27 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/blackpink/</guid>
+      <guid>http://localhost:1313/categories/blackpink/</guid>
       <description></description>
     </item>
     <item>
       <title>Github</title>
-      <link>https://jimolloy.com/categories/github/</link>
+      <link>http://localhost:1313/categories/github/</link>
       <pubDate>Fri, 21 Mar 2025 15:48:27 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/github/</guid>
+      <guid>http://localhost:1313/categories/github/</guid>
       <description></description>
     </item>
     <item>
       <title>Jennie</title>
-      <link>https://jimolloy.com/categories/jennie/</link>
+      <link>http://localhost:1313/categories/jennie/</link>
       <pubDate>Fri, 21 Mar 2025 15:48:27 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/jennie/</guid>
+      <guid>http://localhost:1313/categories/jennie/</guid>
       <description></description>
     </item>
     <item>
       <title>K-Pop</title>
-      <link>https://jimolloy.com/categories/k-pop/</link>
+      <link>http://localhost:1313/categories/k-pop/</link>
       <pubDate>Fri, 21 Mar 2025 15:48:27 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/k-pop/</guid>
+      <guid>http://localhost:1313/categories/k-pop/</guid>
       <description></description>
     </item>
     <item>
       <title>Odd Atelier</title>
-      <link>https://jimolloy.com/categories/odd-atelier/</link>
+      <link>http://localhost:1313/categories/odd-atelier/</link>
       <pubDate>Fri, 21 Mar 2025 15:48:27 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/odd-atelier/</guid>
+      <guid>http://localhost:1313/categories/odd-atelier/</guid>
       <description></description>
     </item>
     <item>
       <title>Ruby</title>
-      <link>https://jimolloy.com/categories/ruby/</link>
+      <link>http://localhost:1313/categories/ruby/</link>
       <pubDate>Fri, 21 Mar 2025 15:48:27 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/ruby/</guid>
+      <guid>http://localhost:1313/categories/ruby/</guid>
       <description></description>
     </item>
     <item>
       <title>Apple Tv</title>
-      <link>https://jimolloy.com/categories/apple-tv/</link>
+      <link>http://localhost:1313/categories/apple-tv/</link>
       <pubDate>Sun, 16 Mar 2025 15:12:03 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/apple-tv/</guid>
+      <guid>http://localhost:1313/categories/apple-tv/</guid>
       <description></description>
     </item>
     <item>
       <title>Containers</title>
-      <link>https://jimolloy.com/categories/containers/</link>
+      <link>http://localhost:1313/categories/containers/</link>
       <pubDate>Sun, 16 Mar 2025 15:12:03 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/containers/</guid>
+      <guid>http://localhost:1313/categories/containers/</guid>
       <description></description>
     </item>
     <item>
       <title>Severance</title>
-      <link>https://jimolloy.com/categories/severance/</link>
+      <link>http://localhost:1313/categories/severance/</link>
       <pubDate>Sun, 16 Mar 2025 15:12:03 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/severance/</guid>
+      <guid>http://localhost:1313/categories/severance/</guid>
       <description></description>
     </item>
     <item>
       <title>Virtualisation</title>
-      <link>https://jimolloy.com/categories/virtualisation/</link>
+      <link>http://localhost:1313/categories/virtualisation/</link>
       <pubDate>Sun, 16 Mar 2025 15:12:03 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/virtualisation/</guid>
+      <guid>http://localhost:1313/categories/virtualisation/</guid>
       <description></description>
     </item>
     <item>
       <title>VMs</title>
-      <link>https://jimolloy.com/categories/vms/</link>
+      <link>http://localhost:1313/categories/vms/</link>
       <pubDate>Sun, 16 Mar 2025 15:12:03 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/vms/</guid>
+      <guid>http://localhost:1313/categories/vms/</guid>
       <description></description>
     </item>
     <item>
       <title>League of Legends</title>
-      <link>https://jimolloy.com/categories/league-of-legends/</link>
+      <link>http://localhost:1313/categories/league-of-legends/</link>
       <pubDate>Sat, 15 Mar 2025 16:54:40 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/league-of-legends/</guid>
+      <guid>http://localhost:1313/categories/league-of-legends/</guid>
       <description></description>
     </item>
     <item>
       <title>T1</title>
-      <link>https://jimolloy.com/categories/t1/</link>
+      <link>http://localhost:1313/categories/t1/</link>
       <pubDate>Sat, 15 Mar 2025 16:54:40 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/t1/</guid>
+      <guid>http://localhost:1313/categories/t1/</guid>
       <description></description>
     </item>
     <item>
       <title>Team Development</title>
-      <link>https://jimolloy.com/categories/team-development/</link>
+      <link>http://localhost:1313/categories/team-development/</link>
       <pubDate>Sat, 15 Mar 2025 16:54:40 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/team-development/</guid>
+      <guid>http://localhost:1313/categories/team-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Tuckman</title>
-      <link>https://jimolloy.com/categories/tuckman/</link>
+      <link>http://localhost:1313/categories/tuckman/</link>
       <pubDate>Sat, 15 Mar 2025 16:54:40 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/tuckman/</guid>
+      <guid>http://localhost:1313/categories/tuckman/</guid>
       <description></description>
     </item>
     <item>
       <title>Microservices</title>
-      <link>https://jimolloy.com/categories/microservices/</link>
+      <link>http://localhost:1313/categories/microservices/</link>
       <pubDate>Wed, 12 Mar 2025 19:09:22 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/microservices/</guid>
+      <guid>http://localhost:1313/categories/microservices/</guid>
       <description></description>
     </item>
     <item>
       <title>Monolith</title>
-      <link>https://jimolloy.com/categories/monolith/</link>
+      <link>http://localhost:1313/categories/monolith/</link>
       <pubDate>Wed, 12 Mar 2025 19:09:22 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/monolith/</guid>
+      <guid>http://localhost:1313/categories/monolith/</guid>
       <description></description>
     </item>
     <item>
       <title>Bread</title>
-      <link>https://jimolloy.com/categories/bread/</link>
+      <link>http://localhost:1313/categories/bread/</link>
       <pubDate>Mon, 10 Mar 2025 21:16:51 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/bread/</guid>
+      <guid>http://localhost:1313/categories/bread/</guid>
       <description></description>
     </item>
     <item>
       <title>DevOps</title>
-      <link>https://jimolloy.com/categories/devops/</link>
+      <link>http://localhost:1313/categories/devops/</link>
       <pubDate>Mon, 10 Mar 2025 21:16:51 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/devops/</guid>
+      <guid>http://localhost:1313/categories/devops/</guid>
       <description></description>
     </item>
     <item>
       <title>Ai</title>
-      <link>https://jimolloy.com/categories/ai/</link>
+      <link>http://localhost:1313/categories/ai/</link>
       <pubDate>Sun, 09 Mar 2025 19:59:50 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/ai/</guid>
+      <guid>http://localhost:1313/categories/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Copilot</title>
-      <link>https://jimolloy.com/categories/copilot/</link>
+      <link>http://localhost:1313/categories/copilot/</link>
       <pubDate>Sun, 09 Mar 2025 19:59:50 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/copilot/</guid>
+      <guid>http://localhost:1313/categories/copilot/</guid>
       <description></description>
     </item>
     <item>
       <title>Culture</title>
-      <link>https://jimolloy.com/categories/culture/</link>
+      <link>http://localhost:1313/categories/culture/</link>
       <pubDate>Sat, 08 Mar 2025 20:38:04 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/culture/</guid>
+      <guid>http://localhost:1313/categories/culture/</guid>
       <description></description>
     </item>
     <item>
       <title>Level Up</title>
-      <link>https://jimolloy.com/categories/level-up/</link>
+      <link>http://localhost:1313/categories/level-up/</link>
       <pubDate>Sat, 08 Mar 2025 20:38:04 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/level-up/</guid>
+      <guid>http://localhost:1313/categories/level-up/</guid>
       <description></description>
     </item>
     <item>
       <title>Pairing</title>
-      <link>https://jimolloy.com/categories/pairing/</link>
+      <link>http://localhost:1313/categories/pairing/</link>
       <pubDate>Sat, 08 Mar 2025 20:38:04 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/pairing/</guid>
+      <guid>http://localhost:1313/categories/pairing/</guid>
       <description></description>
     </item>
     <item>
       <title>Team</title>
-      <link>https://jimolloy.com/categories/team/</link>
+      <link>http://localhost:1313/categories/team/</link>
       <pubDate>Sat, 08 Mar 2025 20:38:04 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/team/</guid>
+      <guid>http://localhost:1313/categories/team/</guid>
       <description></description>
     </item>
     <item>
       <title>Team Topologies</title>
-      <link>https://jimolloy.com/categories/team-topologies/</link>
+      <link>http://localhost:1313/categories/team-topologies/</link>
       <pubDate>Fri, 14 Feb 2025 17:11:43 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/team-topologies/</guid>
+      <guid>http://localhost:1313/categories/team-topologies/</guid>
       <description></description>
     </item>
     <item>
       <title>Certification</title>
-      <link>https://jimolloy.com/categories/certification/</link>
+      <link>http://localhost:1313/categories/certification/</link>
       <pubDate>Thu, 12 Sep 2024 17:43:30 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/certification/</guid>
+      <guid>http://localhost:1313/categories/certification/</guid>
       <description></description>
     </item>
     <item>
       <title>Solutions Architect</title>
-      <link>https://jimolloy.com/categories/solutions-architect/</link>
+      <link>http://localhost:1313/categories/solutions-architect/</link>
       <pubDate>Thu, 12 Sep 2024 17:43:30 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/solutions-architect/</guid>
+      <guid>http://localhost:1313/categories/solutions-architect/</guid>
       <description></description>
     </item>
     <item>
       <title>Terraform</title>
-      <link>https://jimolloy.com/categories/terraform/</link>
+      <link>http://localhost:1313/categories/terraform/</link>
       <pubDate>Thu, 12 Sep 2024 17:43:30 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/terraform/</guid>
+      <guid>http://localhost:1313/categories/terraform/</guid>
       <description></description>
     </item>
     <item>
       <title>Book Recommendations</title>
-      <link>https://jimolloy.com/categories/book-recommendations/</link>
+      <link>http://localhost:1313/categories/book-recommendations/</link>
       <pubDate>Thu, 06 Jun 2024 17:07:53 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/book-recommendations/</guid>
+      <guid>http://localhost:1313/categories/book-recommendations/</guid>
       <description></description>
     </item>
     <item>
       <title>Recap</title>
-      <link>https://jimolloy.com/categories/recap/</link>
+      <link>http://localhost:1313/categories/recap/</link>
       <pubDate>Fri, 24 May 2024 17:01:51 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/recap/</guid>
+      <guid>http://localhost:1313/categories/recap/</guid>
       <description></description>
     </item>
     <item>
       <title>Serverless</title>
-      <link>https://jimolloy.com/categories/serverless/</link>
+      <link>http://localhost:1313/categories/serverless/</link>
       <pubDate>Fri, 24 May 2024 17:01:51 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/serverless/</guid>
+      <guid>http://localhost:1313/categories/serverless/</guid>
       <description></description>
     </item>
     <item>
       <title>Aws</title>
-      <link>https://jimolloy.com/categories/aws/</link>
+      <link>http://localhost:1313/categories/aws/</link>
       <pubDate>Thu, 25 Aug 2022 17:04:04 +1300</pubDate>
-      <guid>https://jimolloy.com/categories/aws/</guid>
+      <guid>http://localhost:1313/categories/aws/</guid>
       <description></description>
     </item>
   </channel>
