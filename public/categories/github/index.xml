@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Github on Ji Molloy</title>
-    <link>http://localhost:1313/categories/github/</link>
+    <link>https://jimolloy.com/categories/github/</link>
     <description>Recent content in Github on Ji Molloy</description>
     <image>
       <title>Ji Molloy</title>
-      <url>http://localhost:1313/assets/images/eevee-on-computer-circle.png</url>
-      <link>http://localhost:1313/assets/images/eevee-on-computer-circle.png</link>
+      <url>https://jimolloy.com/assets/images/eevee-on-computer-circle.png</url>
+      <link>https://jimolloy.com/assets/images/eevee-on-computer-circle.png</link>
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Mar 2025 15:48:27 +1300</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/github/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jimolloy.com/categories/github/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Make It Yours! 🎵 Personalising the Lyrics to Like Jennie 🎤</title>
-      <link>http://localhost:1313/posts/2025/like_jennie/</link>
+      <link>https://jimolloy.com/posts/2025/like_jennie/</link>
       <pubDate>Fri, 21 Mar 2025 15:48:27 +1300</pubDate>
-      <guid>http://localhost:1313/posts/2025/like_jennie/</guid>
+      <guid>https://jimolloy.com/posts/2025/like_jennie/</guid>
       <description>&lt;h2 id=&#34;interactive-personalisations-to-the-lyrics-of-like-jennie-&#34;&gt;Interactive Personalisations to the Lyrics of Like Jennie! 🤗&lt;/h2&gt;
 &lt;p&gt;Jennie is a member of the K-pop group &lt;a href=&#34;https://ygfamily.com/ko/artists/blackpink/profile&#34;&gt;BLACKPINK&lt;/a&gt; who recently released her solo album &lt;a href=&#34;https://en.wikipedia.org/wiki/Ruby_(Jennie_album)&#34;&gt;Ruby&lt;/a&gt; 🎧🎵&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;Like Jennie&lt;/code&gt; is a song in the new album Ruby!&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/like_jennie_like_someone.PNG&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;https://jimolloy.com/assets/images/like_jennie_like_someone.PNG&#34;&gt;&lt;/p&gt;
 &lt;p&gt;In this &lt;a href=&#34;https://youtu.be/Dz77zxY3NJE?t=1146&#34;&gt;YouTube video&lt;/a&gt;, Jennie explains the meaning behind the song &lt;a href=&#34;https://genius.com/Jennie-like-jennie-lyrics&#34;&gt;Like Jennie&lt;/a&gt; - and how it can be personalised for anyone 😁!&lt;/p&gt;
 &lt;p&gt;This post is to help anyone personalise the song &lt;code&gt;Like Jennie&lt;/code&gt;!&lt;/p&gt;
 &lt;p&gt;Enter text in the boxes below and click &lt;code&gt;SUBMIT&lt;/code&gt; button!&lt;/p&gt;</description>
     </item>
     <item>
       <title>How AI is Helping Software Engineers : A Helping Hand, Not the Driver 🚗</title>
-      <link>http://localhost:1313/posts/2025/ai-companion-for-software-engineers/</link>
+      <link>https://jimolloy.com/posts/2025/ai-companion-for-software-engineers/</link>
       <pubDate>Sun, 09 Mar 2025 19:59:50 +1300</pubDate>
-      <guid>http://localhost:1313/posts/2025/ai-companion-for-software-engineers/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/eevee-working-with-github-copilot.png&#34;&gt;&lt;/p&gt;
+      <guid>https://jimolloy.com/posts/2025/ai-companion-for-software-engineers/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;https://jimolloy.com/assets/images/eevee-working-with-github-copilot.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The world of software engineering is constantly evolving, and so is the technology we use to build software. Artificial Intelligence tools, like &lt;a href=&#34;https://github.com/features/copilot&#34;&gt;GitHub Copilot&lt;/a&gt;, have rapidly emerged as valuable assistants in the software development process. But it&amp;rsquo;s essential to remember that AI is a tool and not the driver. It is the software engineer who remains in control, using AI as a helpful co-pilot rather than relying on it to lead and drive the way.&lt;/p&gt;</description>
     </item>
   </channel>

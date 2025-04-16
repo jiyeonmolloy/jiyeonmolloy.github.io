@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Solutions Architect on Ji Molloy</title>
-    <link>http://localhost:1313/categories/solutions-architect/</link>
+    <link>https://jimolloy.com/categories/solutions-architect/</link>
     <description>Recent content in Solutions Architect on Ji Molloy</description>
     <image>
       <title>Ji Molloy</title>
-      <url>http://localhost:1313/assets/images/eevee-on-computer-circle.png</url>
-      <link>http://localhost:1313/assets/images/eevee-on-computer-circle.png</link>
+      <url>https://jimolloy.com/assets/images/eevee-on-computer-circle.png</url>
+      <link>https://jimolloy.com/assets/images/eevee-on-computer-circle.png</link>
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Sep 2024 17:43:30 +1300</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/solutions-architect/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jimolloy.com/categories/solutions-architect/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Terraform Certified! 🌍</title>
-      <link>http://localhost:1313/posts/2024/terraform-associate-003/</link>
+      <link>https://jimolloy.com/posts/2024/terraform-associate-003/</link>
       <pubDate>Thu, 12 Sep 2024 17:43:30 +1300</pubDate>
-      <guid>http://localhost:1313/posts/2024/terraform-associate-003/</guid>
+      <guid>https://jimolloy.com/posts/2024/terraform-associate-003/</guid>
       <description>&lt;h2 id=&#34;benefits-&#34;&gt;Benefits 🦘&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://developer.hashicorp.com/certifications/infrastructure-automation&#34;&gt;&lt;code&gt;Infrastructure Automation | HashiCorp Developer&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I prepared for the HashiCorp Certified: Terraform Associate certification, which is about:&lt;/p&gt;
@@ -34,9 +34,9 @@
     </item>
     <item>
       <title>Getting AWS Solutions Architect Certified! 🚀</title>
-      <link>http://localhost:1313/posts/2022/aws-solutions-architect-saa-c02/</link>
+      <link>https://jimolloy.com/posts/2022/aws-solutions-architect-saa-c02/</link>
       <pubDate>Thu, 25 Aug 2022 17:04:04 +1300</pubDate>
-      <guid>http://localhost:1313/posts/2022/aws-solutions-architect-saa-c02/</guid>
+      <guid>https://jimolloy.com/posts/2022/aws-solutions-architect-saa-c02/</guid>
       <description>&lt;h2 id=&#34;benefits-of-getting-aws-certified-&#34;&gt;Benefits of getting AWS Certified ✨&lt;/h2&gt;
 &lt;p&gt;Please note that the exam content has changed on 29th August 2022 (SAA-C03), so the content and resources I share in this post may be out-of-date! ☕&lt;/p&gt;
 &lt;p&gt;I prepared for the AWS Solutions Architect - Associate certification, which is about:&lt;/p&gt;

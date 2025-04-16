@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blackpink on Ji Molloy</title>
-    <link>http://localhost:1313/categories/blackpink/</link>
+    <link>https://jimolloy.com/categories/blackpink/</link>
     <description>Recent content in Blackpink on Ji Molloy</description>
     <image>
       <title>Ji Molloy</title>
-      <url>http://localhost:1313/assets/images/eevee-on-computer-circle.png</url>
-      <link>http://localhost:1313/assets/images/eevee-on-computer-circle.png</link>
+      <url>https://jimolloy.com/assets/images/eevee-on-computer-circle.png</url>
+      <link>https://jimolloy.com/assets/images/eevee-on-computer-circle.png</link>
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Mar 2025 15:48:27 +1300</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/blackpink/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jimolloy.com/categories/blackpink/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Make It Yours! 🎵 Personalising the Lyrics to Like Jennie 🎤</title>
-      <link>http://localhost:1313/posts/2025/like_jennie/</link>
+      <link>https://jimolloy.com/posts/2025/like_jennie/</link>
       <pubDate>Fri, 21 Mar 2025 15:48:27 +1300</pubDate>
-      <guid>http://localhost:1313/posts/2025/like_jennie/</guid>
+      <guid>https://jimolloy.com/posts/2025/like_jennie/</guid>
       <description>&lt;h2 id=&#34;interactive-personalisations-to-the-lyrics-of-like-jennie-&#34;&gt;Interactive Personalisations to the Lyrics of Like Jennie! 🤗&lt;/h2&gt;
 &lt;p&gt;Jennie is a member of the K-pop group &lt;a href=&#34;https://ygfamily.com/ko/artists/blackpink/profile&#34;&gt;BLACKPINK&lt;/a&gt; who recently released her solo album &lt;a href=&#34;https://en.wikipedia.org/wiki/Ruby_(Jennie_album)&#34;&gt;Ruby&lt;/a&gt; 🎧🎵&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;Like Jennie&lt;/code&gt; is a song in the new album Ruby!&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/like_jennie_like_someone.PNG&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;https://jimolloy.com/assets/images/like_jennie_like_someone.PNG&#34;&gt;&lt;/p&gt;
 &lt;p&gt;In this &lt;a href=&#34;https://youtu.be/Dz77zxY3NJE?t=1146&#34;&gt;YouTube video&lt;/a&gt;, Jennie explains the meaning behind the song &lt;a href=&#34;https://genius.com/Jennie-like-jennie-lyrics&#34;&gt;Like Jennie&lt;/a&gt; - and how it can be personalised for anyone 😁!&lt;/p&gt;
 &lt;p&gt;This post is to help anyone personalise the song &lt;code&gt;Like Jennie&lt;/code&gt;!&lt;/p&gt;
 &lt;p&gt;Enter text in the boxes below and click &lt;code&gt;SUBMIT&lt;/code&gt; button!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Evolution of K-POP Groups : From Monoliths to Microservices 🎤🌟</title>
-      <link>http://localhost:1313/posts/2025/evolution-k-pop-monoliths-to-microservices/</link>
+      <link>https://jimolloy.com/posts/2025/evolution-k-pop-monoliths-to-microservices/</link>
       <pubDate>Wed, 12 Mar 2025 19:09:22 +1300</pubDate>
-      <guid>http://localhost:1313/posts/2025/evolution-k-pop-monoliths-to-microservices/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/eevee-kpop-member-monolith-to-microservices.png&#34;&gt;&lt;/p&gt;
+      <guid>https://jimolloy.com/posts/2025/evolution-k-pop-monoliths-to-microservices/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;https://jimolloy.com/assets/images/eevee-kpop-member-monolith-to-microservices.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;K-pop has evolved dramatically over the years, with new generations of idols pushing the boundaries of what we know about the industry. If we take a step back, we can notice an interesting parallel between the growth of K-pop groups and the way we develop software 😄!&lt;/p&gt;
 &lt;p&gt;From the early days of K-pop groups like SES and Girls Generation to the global groups of BLACKPINK and BTS, K-pop groups have undergone a major transformation. This journey can be compared to the shift from monolithic systems to microservices in the tech world! 🤖💻&lt;/p&gt;</description>
     </item>

@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Ji Molloy</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://jimolloy.com/tags/</link>
     <description>Recent content in Tags on Ji Molloy</description>
     <image>
       <title>Ji Molloy</title>
-      <url>http://localhost:1313/assets/images/eevee-on-computer-circle.png</url>
-      <link>http://localhost:1313/assets/images/eevee-on-computer-circle.png</link>
+      <url>https://jimolloy.com/assets/images/eevee-on-computer-circle.png</url>
+      <link>https://jimolloy.com/assets/images/eevee-on-computer-circle.png</link>
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jimolloy.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Serverless on Ji Molloy</title>
-    <link>http://localhost:1313/categories/serverless/</link>
+    <link>https://jimolloy.com/categories/serverless/</link>
     <description>Recent content in Serverless on Ji Molloy</description>
     <image>
       <title>Ji Molloy</title>
-      <url>http://localhost:1313/assets/images/eevee-on-computer-circle.png</url>
-      <link>http://localhost:1313/assets/images/eevee-on-computer-circle.png</link>
+      <url>https://jimolloy.com/assets/images/eevee-on-computer-circle.png</url>
+      <link>https://jimolloy.com/assets/images/eevee-on-computer-circle.png</link>
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 May 2024 17:01:51 +1300</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/serverless/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jimolloy.com/categories/serverless/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Serverless Days 🥨</title>
-      <link>http://localhost:1313/posts/2024/serverless-days/</link>
+      <link>https://jimolloy.com/posts/2024/serverless-days/</link>
       <pubDate>Fri, 24 May 2024 17:01:51 +1300</pubDate>
-      <guid>http://localhost:1313/posts/2024/serverless-days/</guid>
+      <guid>https://jimolloy.com/posts/2024/serverless-days/</guid>
       <description>&lt;h2 id=&#34;serverless-days&#34;&gt;Serverless Days!&lt;/h2&gt;
 &lt;p&gt;Click &lt;a href=&#34;https://anz.serverlessdays.io/auckland/&#34;&gt;here&lt;/a&gt; to see the full agenda&lt;/p&gt;
 &lt;p&gt;I had the amazing opportunity to attend ServerLess Days. If you are working with serverless technology and would like to meet other active developers and technical leaders from across the Australia &amp;amp; New Zealand region, while hearing from some world-class speakers, I highly recommend attending this event!&lt;/p&gt;
