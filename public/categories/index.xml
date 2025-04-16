@@ -11,8 +11,50 @@
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Apr 2025 16:16:34 +1200</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 20:46:16 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud</title>
+      <link>http://localhost:1313/categories/cloud/</link>
+      <pubDate>Wed, 16 Apr 2025 20:46:16 +1200</pubDate>
+      <guid>http://localhost:1313/categories/cloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conference</title>
+      <link>http://localhost:1313/categories/conference/</link>
+      <pubDate>Wed, 16 Apr 2025 20:46:16 +1200</pubDate>
+      <guid>http://localhost:1313/categories/conference/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google</title>
+      <link>http://localhost:1313/categories/google/</link>
+      <pubDate>Wed, 16 Apr 2025 20:46:16 +1200</pubDate>
+      <guid>http://localhost:1313/categories/google/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google Cloud Next</title>
+      <link>http://localhost:1313/categories/google-cloud-next/</link>
+      <pubDate>Wed, 16 Apr 2025 20:46:16 +1200</pubDate>
+      <guid>http://localhost:1313/categories/google-cloud-next/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software Engineers</title>
+      <link>http://localhost:1313/categories/software-engineers/</link>
+      <pubDate>Wed, 16 Apr 2025 20:46:16 +1200</pubDate>
+      <guid>http://localhost:1313/categories/software-engineers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips</title>
+      <link>http://localhost:1313/categories/tips/</link>
+      <pubDate>Wed, 16 Apr 2025 20:46:16 +1200</pubDate>
+      <guid>http://localhost:1313/categories/tips/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Continuous Delivery</title>
       <link>http://localhost:1313/categories/continuous-delivery/</link>
@@ -49,24 +91,10 @@
       <description></description>
     </item>
     <item>
-      <title>Software Engineers</title>
-      <link>http://localhost:1313/categories/software-engineers/</link>
-      <pubDate>Sun, 06 Apr 2025 16:16:34 +1200</pubDate>
-      <guid>http://localhost:1313/categories/software-engineers/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Tdd</title>
       <link>http://localhost:1313/categories/tdd/</link>
       <pubDate>Sun, 06 Apr 2025 16:16:34 +1200</pubDate>
       <guid>http://localhost:1313/categories/tdd/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tips</title>
-      <link>http://localhost:1313/categories/tips/</link>
-      <pubDate>Sun, 06 Apr 2025 16:16:34 +1200</pubDate>
-      <guid>http://localhost:1313/categories/tips/</guid>
       <description></description>
     </item>
     <item>
@@ -319,13 +347,6 @@
       <link>http://localhost:1313/categories/book-recommendations/</link>
       <pubDate>Thu, 06 Jun 2024 17:07:53 +1300</pubDate>
       <guid>http://localhost:1313/categories/book-recommendations/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Conference</title>
-      <link>http://localhost:1313/categories/conference/</link>
-      <pubDate>Fri, 24 May 2024 17:01:51 +1300</pubDate>
-      <guid>http://localhost:1313/categories/conference/</guid>
       <description></description>
     </item>
     <item>

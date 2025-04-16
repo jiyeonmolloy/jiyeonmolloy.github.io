@@ -3,7 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-04-06T16:16:34+12:00</lastmod>
+    <lastmod>2025-04-16T20:46:16+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/cloud/</loc>
+    <lastmod>2025-04-16T20:46:16+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/conference/</loc>
+    <lastmod>2025-04-16T20:46:16+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/google/</loc>
+    <lastmod>2025-04-16T20:46:16+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/google-cloud-next/</loc>
+    <lastmod>2025-04-16T20:46:16+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-04-16T20:46:16+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-04-16T20:46:16+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/software-engineers/</loc>
+    <lastmod>2025-04-16T20:46:16+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tips/</loc>
+    <lastmod>2025-04-16T20:46:16+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/google-cloud-next-0/</loc>
+    <lastmod>2025-04-16T20:46:16+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/continuous-delivery/</loc>
     <lastmod>2025-04-06T16:16:34+12:00</lastmod>
@@ -17,25 +44,13 @@
     <loc>http://localhost:1313/categories/deployment/</loc>
     <lastmod>2025-04-06T16:16:34+12:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-06T16:16:34+12:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-04-06T16:16:34+12:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/release/</loc>
     <lastmod>2025-04-06T16:16:34+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/software-delivery/</loc>
     <lastmod>2025-04-06T16:16:34+12:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/software-engineers/</loc>
-    <lastmod>2025-04-06T16:16:34+12:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/tdd/</loc>
-    <lastmod>2025-04-06T16:16:34+12:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/tips/</loc>
     <lastmod>2025-04-06T16:16:34+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/trunk-based-development/</loc>
@@ -181,9 +196,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/2024/book-recommendations-2024/</loc>
     <lastmod>2024-06-06T17:07:53+13:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/conference/</loc>
-    <lastmod>2024-05-24T17:01:51+13:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/recap/</loc>
     <lastmod>2024-05-24T17:01:51+13:00</lastmod>

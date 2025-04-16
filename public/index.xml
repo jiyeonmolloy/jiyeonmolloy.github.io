@@ -11,8 +11,19 @@
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Apr 2025 16:16:34 +1200</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 20:46:16 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🌩️ What I Wish I Knew Before Attending Google Cloud Next 2025 🌩️</title>
+      <link>http://localhost:1313/posts/2025/google-cloud-next-0/</link>
+      <pubDate>Wed, 16 Apr 2025 20:46:16 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2025/google-cloud-next-0/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/google-cloud-next-25-opening.jpg&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;survival-tips-for-a-techie-adventure-in-las-vegas-&#34;&gt;Survival tips for a techie adventure in Las Vegas 🏜️💻&lt;/h2&gt;
+&lt;p&gt;Heya! ☁️ I had an amazing opportunity to attend &lt;a href=&#34;https://cloud.withgoogle.com/next/25/&#34;&gt;Google Cloud Next 2025&lt;/a&gt; in Las Vegas! 😮‍💨
+If you&amp;rsquo;re planning to attend a similar conference in the future, here are some things I really wish I had known beforehand — and this is just the beginning! 🎉
+I’ll be sharing more blog posts soon with deeper dives into Google Cloud Next 2025 🚀😎&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Demystifying Modern Software Delivery: Trunk-Based Development, CI/CD, and Releases 🚀👨🏻‍🚀</title>
       <link>http://localhost:1313/posts/2025/modern-software-delivery/</link>
