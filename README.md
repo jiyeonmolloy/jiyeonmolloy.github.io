@@ -1,7 +1,7 @@
 # Welcome to Ji's Website! 🎨
 Ji's Website is [here](https://jimolloy.com/) that is built using [Hugo](https://gohugo.io/) with the [PaperMod](https://github.com/adityatelange/hugo-PaperMod/) theme.
 
-![alt text](/assets/images/ji-blog-qr.png)
+![alt text](/assets/ji-blog-qr.png)
 
 ## Local Development 💻
 - Please run `hugo --minify; hugo server` to build the website locally! 🚀
