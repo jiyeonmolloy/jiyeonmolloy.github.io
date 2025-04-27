@@ -11,8 +11,27 @@
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Apr 2025 20:46:16 +1200</lastBuildDate>
+    <lastBuildDate>Sun, 27 Apr 2025 12:34:36 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>☁ Google Cloud Next 🚀 Building a Competitive Edge with Platform Engineering: Insights from the Experts 🎯</title>
+      <link>http://localhost:1313/posts/2025/google-cloud-next-1/</link>
+      <pubDate>Sun, 27 Apr 2025 12:34:36 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2025/google-cloud-next-1/</guid>
+      <description>&lt;p&gt;Heya! 👋✨
+Today, we are diving into a summary from an expert panel discussion on Platform Engineering 🌟&lt;/p&gt;
+&lt;h3 id=&#34;-platform-engineering--developer-experience-&#34;&gt;🛠️ Platform Engineering &amp;amp; Developer Experience 💕&lt;/h3&gt;
+&lt;p&gt;One of the biggest takeaways? Platform Engineering isn&amp;rsquo;t just all about the underlying Platform — it&amp;rsquo;s also about making life better for our engineers! 🎉&lt;/p&gt;
+&lt;p&gt;Here’s how:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reducing cognitive load 🧹: Engineers can focus on building, not battling with underlying infrastructure!&lt;/li&gt;
+&lt;li&gt;Self-service portals 🛎️: Developers get what they need, fast and easy!&lt;/li&gt;
+&lt;li&gt;Abstracting complexities 🔍: Bye bye, confusing infrastructure layers!&lt;/li&gt;
+&lt;li&gt;Measuring engineer satisfaction 📏❤️: Keeping a pulse on happiness across all tools.&lt;/li&gt;
+&lt;li&gt;Closing the feedback loop 🔄: Turning feedback into real action and success!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In short, happier engineers = better products = happier customers! 🎉🙌&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🌩️ What I Wish I Knew Before Attending Google Cloud Next 2025 🌩️</title>
       <link>http://localhost:1313/posts/2025/google-cloud-next-0/</link>
