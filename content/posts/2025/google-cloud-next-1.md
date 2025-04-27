@@ -1,12 +1,14 @@
 ---
 date: '2025-04-27T12:34:36+12:00'
-draft: true
-title: '☁ Google Cloud Next 🚀 Building a Competitive Edge with Platform Engineering: Insights from the Experts 🎯'
+draft: false
+title: '☁ Google Cloud Next Series 🚀 Building a Competitive Edge with Platform Engineering: Insights from the Experts 🎯'
 categories: ["google", "cloud", "google cloud next", "conference", "tips", "platform", "software engineers"]
 ---
 
 Heya! 👋✨
 Today, we are diving into a summary from an expert panel discussion on Platform Engineering 🌟
+
+![alt text](/assets/images/eevee-and-charizard-in-engineering-expert-panel.png)
 
 ### 🛠️ Platform Engineering & Developer Experience 💕
 One of the biggest takeaways? Platform Engineering isn't just all about the underlying Platform — it's also about making life better for our engineers! 🎉
