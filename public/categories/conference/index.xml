@@ -11,8 +11,18 @@
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Apr 2025 16:31:05 +1200</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 20:17:49 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/conference/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>☁ Google Cloud Next Series ☁️🔐 Building Smarter, Safer Cloud Systems Together 🛡️💻✨</title>
+      <link>http://localhost:1313/posts/2025/google-cloud-next-3/</link>
+      <pubDate>Wed, 30 Apr 2025 20:17:49 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2025/google-cloud-next-3/</guid>
+      <description>&lt;p&gt;Hey tech fam! 👋
+Ever felt like juggling cloud security, detection engineering, and scalable policies is like herding cats? 🐱 Well, grab a cuppa ☕ and settle in, because today we’re unpacking some exciting strategies and tools to level up your cloud game — from securing Google Cloud to building composite detections and managing default service accounts. Let’s dive in! 🚀&lt;/p&gt;
+&lt;p&gt;🔍 Detection Engineering with Google SecOps
+Detection engineering isn’t just about catching threats — it’s about building a smart, scalable detection machine 🛠️. With Google SecOps, detection becomes modular, testable, and highly effective.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>☁ Google Cloud Next Series 🚀 From Planning to Production: How AI Agents Are Transforming the SDLC 🌐🚀&#34;</title>
       <link>http://localhost:1313/posts/2025/google-cloud-next-2/</link>

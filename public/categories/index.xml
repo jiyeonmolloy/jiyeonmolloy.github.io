@@ -11,27 +11,76 @@
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Apr 2025 16:31:05 +1200</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 20:17:49 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ai</title>
-      <link>http://localhost:1313/categories/ai/</link>
-      <pubDate>Sun, 27 Apr 2025 16:31:05 +1200</pubDate>
-      <guid>http://localhost:1313/categories/ai/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Cloud</title>
       <link>http://localhost:1313/categories/cloud/</link>
-      <pubDate>Sun, 27 Apr 2025 16:31:05 +1200</pubDate>
+      <pubDate>Wed, 30 Apr 2025 20:17:49 +1200</pubDate>
       <guid>http://localhost:1313/categories/cloud/</guid>
       <description></description>
     </item>
     <item>
       <title>Conference</title>
       <link>http://localhost:1313/categories/conference/</link>
-      <pubDate>Sun, 27 Apr 2025 16:31:05 +1200</pubDate>
+      <pubDate>Wed, 30 Apr 2025 20:17:49 +1200</pubDate>
       <guid>http://localhost:1313/categories/conference/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Detection</title>
+      <link>http://localhost:1313/categories/detection/</link>
+      <pubDate>Wed, 30 Apr 2025 20:17:49 +1200</pubDate>
+      <guid>http://localhost:1313/categories/detection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google</title>
+      <link>http://localhost:1313/categories/google/</link>
+      <pubDate>Wed, 30 Apr 2025 20:17:49 +1200</pubDate>
+      <guid>http://localhost:1313/categories/google/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google Cloud Next</title>
+      <link>http://localhost:1313/categories/google-cloud-next/</link>
+      <pubDate>Wed, 30 Apr 2025 20:17:49 +1200</pubDate>
+      <guid>http://localhost:1313/categories/google-cloud-next/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Secops</title>
+      <link>http://localhost:1313/categories/secops/</link>
+      <pubDate>Wed, 30 Apr 2025 20:17:49 +1200</pubDate>
+      <guid>http://localhost:1313/categories/secops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>http://localhost:1313/categories/security/</link>
+      <pubDate>Wed, 30 Apr 2025 20:17:49 +1200</pubDate>
+      <guid>http://localhost:1313/categories/security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software Engineers</title>
+      <link>http://localhost:1313/categories/software-engineers/</link>
+      <pubDate>Wed, 30 Apr 2025 20:17:49 +1200</pubDate>
+      <guid>http://localhost:1313/categories/software-engineers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips</title>
+      <link>http://localhost:1313/categories/tips/</link>
+      <pubDate>Wed, 30 Apr 2025 20:17:49 +1200</pubDate>
+      <guid>http://localhost:1313/categories/tips/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ai</title>
+      <link>http://localhost:1313/categories/ai/</link>
+      <pubDate>Sun, 27 Apr 2025 16:31:05 +1200</pubDate>
+      <guid>http://localhost:1313/categories/ai/</guid>
       <description></description>
     </item>
     <item>
@@ -42,38 +91,10 @@
       <description></description>
     </item>
     <item>
-      <title>Google</title>
-      <link>http://localhost:1313/categories/google/</link>
-      <pubDate>Sun, 27 Apr 2025 16:31:05 +1200</pubDate>
-      <guid>http://localhost:1313/categories/google/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Google Cloud Next</title>
-      <link>http://localhost:1313/categories/google-cloud-next/</link>
-      <pubDate>Sun, 27 Apr 2025 16:31:05 +1200</pubDate>
-      <guid>http://localhost:1313/categories/google-cloud-next/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Sdlc</title>
       <link>http://localhost:1313/categories/sdlc/</link>
       <pubDate>Sun, 27 Apr 2025 16:31:05 +1200</pubDate>
       <guid>http://localhost:1313/categories/sdlc/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Software Engineers</title>
-      <link>http://localhost:1313/categories/software-engineers/</link>
-      <pubDate>Sun, 27 Apr 2025 16:31:05 +1200</pubDate>
-      <guid>http://localhost:1313/categories/software-engineers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tips</title>
-      <link>http://localhost:1313/categories/tips/</link>
-      <pubDate>Sun, 27 Apr 2025 16:31:05 +1200</pubDate>
-      <guid>http://localhost:1313/categories/tips/</guid>
       <description></description>
     </item>
     <item>

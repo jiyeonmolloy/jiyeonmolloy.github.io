@@ -40,7 +40,7 @@ I wish I had taken screenshots of the maps before the day. I ended up asking for
 The keynotes and opening ceremonies are awesome, but be prepared to be in the queue for a loong time 😅.
 
 ## 🕒 7. Sessions Aren’t Next Door
-Don’t underestimate how long it takes to walk from one room to another during the connference 🏃‍♂️📍. 
+Don’t underestimate how long it takes to walk from one room to another during the conference 🏃‍♂️📍. 
 Especially if you are trying to catch back-to-back talks in different floors.
 
 ## 🤝 8. Meetups: Hit or Miss
