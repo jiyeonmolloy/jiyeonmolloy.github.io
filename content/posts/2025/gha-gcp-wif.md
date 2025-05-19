@@ -5,7 +5,7 @@ title: '🔐 No More Secrets 😎 Secure GCP Auth from GitHub Actions using Work
 categories: ["github actions", "google cloud", "workload identity federation", "tips", "security", "auth", "software engineers"]
 ---
 
-[TODO] - INSERT PIC
+![alt text](/assets/images/eevee-charizard-secure-cloud-auth.png)
 
 In the world of CI/CD, one thing we are all tired of is managing long-lived service account keys. 
 They are hard to rotate.. risky to store, and can lead to serious breaches if leaked! 😿

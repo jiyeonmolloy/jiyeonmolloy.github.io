@@ -18,10 +18,12 @@
       <link>http://localhost:1313/posts/2025/gha-gcp-wif/</link>
       <pubDate>Sun, 18 May 2025 20:55:52 +1200</pubDate>
       <guid>http://localhost:1313/posts/2025/gha-gcp-wif/</guid>
-      <description>&lt;p&gt;[TODO] - INSERT PIC&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/eevee-charizard-secure-cloud-auth.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;In the world of CI/CD, one thing we are all tired of is managing long-lived service account keys.
 They are hard to rotate.. risky to store, and can lead to serious breaches if leaked! 😿&lt;/p&gt;
-&lt;p&gt;In this post, I will be showing how to set up GitHub Actions + Google Cloud Workload Identity Federation (WIF) to enable secure, short-lived authentication — with no secrets stored anywhere. 🚫🔑&lt;/p&gt;</description>
+&lt;p&gt;In this post, I will be showing how to set up GitHub Actions + &lt;a href=&#34;https://cloud.google.com/iam/docs/workload-identity-federation&#34;&gt;Google Cloud Workload Identity Federation (WIF)&lt;/a&gt; to enable secure, short-lived authentication, with no secrets stored anywhere. 🚫🔑&lt;/p&gt;
+&lt;h3 id=&#34;-the-problem-with-static-secrets&#34;&gt;🚨 The Problem with Static Secrets&lt;/h3&gt;
+&lt;p&gt;It is still common to authenticate from GitHub Actions to GCP using service account keys stored as GitHub secrets:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
