@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Google Cloud on Ji Molloy</title>
+    <link>http://localhost:1313/categories/google-cloud/</link>
+    <description>Recent content in Google Cloud on Ji Molloy</description>
+    <image>
+      <title>Ji Molloy</title>
+      <url>http://localhost:1313/assets/images/eevee-on-computer-circle.png</url>
+      <link>http://localhost:1313/assets/images/eevee-on-computer-circle.png</link>
+    </image>
+    <generator>Hugo -- 0.144.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 May 2025 20:55:52 +1200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/google-cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🔐 No More Secrets 😎 Secure GCP Auth from GitHub Actions using Workload Identity Federation</title>
+      <link>http://localhost:1313/posts/2025/gha-gcp-wif/</link>
+      <pubDate>Sun, 18 May 2025 20:55:52 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2025/gha-gcp-wif/</guid>
+      <description>&lt;p&gt;[TODO] - INSERT PIC&lt;/p&gt;
+&lt;p&gt;In the world of CI/CD, one thing we are all tired of is managing long-lived service account keys.
+They are hard to rotate.. risky to store, and can lead to serious breaches if leaked! 😿&lt;/p&gt;
+&lt;p&gt;In this post, I will be showing how to set up GitHub Actions + Google Cloud Workload Identity Federation (WIF) to enable secure, short-lived authentication — with no secrets stored anywhere. 🚫🔑&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -18,10 +18,13 @@
       <link>http://localhost:1313/posts/2025/google-cloud-next-3/</link>
       <pubDate>Wed, 30 Apr 2025 20:17:49 +1200</pubDate>
       <guid>http://localhost:1313/posts/2025/google-cloud-next-3/</guid>
-      <description>&lt;p&gt;Hey tech fam! 👋
-Ever felt like juggling cloud security, detection engineering, and scalable policies is like herding cats? 🐱 Well, grab a cuppa ☕ and settle in, because today we’re unpacking some exciting strategies and tools to level up your cloud game — from securing Google Cloud to building composite detections and managing default service accounts. Let’s dive in! 🚀&lt;/p&gt;
-&lt;p&gt;🔍 Detection Engineering with Google SecOps
-Detection engineering isn’t just about catching threats — it’s about building a smart, scalable detection machine 🛠️. With Google SecOps, detection becomes modular, testable, and highly effective.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/eeevee-and-charizard-security-experts.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Helloo! 👋 How are you?&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s learn more about cloud security, detection engineering, and scalable policies 🐱🚀&lt;/p&gt;
+&lt;h2 id=&#34;-detection-engineering-with-google-secops&#34;&gt;🔍 Detection Engineering with Google SecOps&lt;/h2&gt;
+&lt;p&gt;Detection engineering isn’t just about catching threats — it’s about building a smart, scalable detection machine 🛠️. With &lt;a href=&#34;https://cloud.google.com/chronicle/docs/secops/secops-overview&#34;&gt;Google SecOps&lt;/a&gt;, detection becomes modular, testable, and highly effective.&lt;/p&gt;
+&lt;h3 id=&#34;-composite-rules-&#34;&gt;🧩 Composite Rules 🐐&lt;/h3&gt;
+&lt;p&gt;Rather than putting every condition into a giant, brittle detection rule, Google SecOps encourages the use of composite rules. Think of them like reusable LEGO bricks 🧱: create small, atomic rules for specific behaviours, then chain them together to form higher-order detections. This lets you mix curated rules with your own custom logic to handle complex attack patterns or environment-specific edge cases.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

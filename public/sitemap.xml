@@ -2,10 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/2025/google-cloud-next-3/</loc>
-    <lastmod>2025-04-30T20:17:49+12:00</lastmod>
+    <loc>http://localhost:1313/posts/2025/gha-gcp-wif/</loc>
+    <lastmod>2025-05-18T20:55:52+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-05-18T20:55:52+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/github-actions/</loc>
+    <lastmod>2025-05-18T20:55:52+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/google-cloud/</loc>
+    <lastmod>2025-05-18T20:55:52+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-05-18T20:55:52+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-05-18T20:55:52+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/security/</loc>
+    <lastmod>2025-05-18T20:55:52+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/software-engineers/</loc>
+    <lastmod>2025-05-18T20:55:52+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tips/</loc>
+    <lastmod>2025-05-18T20:55:52+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/workload-identity-federation/</loc>
+    <lastmod>2025-05-18T20:55:52+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/google-cloud-next-3/</loc>
     <lastmod>2025-04-30T20:17:49+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/cloud/</loc>
@@ -23,22 +50,7 @@
     <loc>http://localhost:1313/categories/google-cloud-next/</loc>
     <lastmod>2025-04-30T20:17:49+12:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-30T20:17:49+12:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-04-30T20:17:49+12:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/secops/</loc>
-    <lastmod>2025-04-30T20:17:49+12:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/security/</loc>
-    <lastmod>2025-04-30T20:17:49+12:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/software-engineers/</loc>
-    <lastmod>2025-04-30T20:17:49+12:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/tips/</loc>
     <lastmod>2025-04-30T20:17:49+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025/google-cloud-next-2/</loc>
