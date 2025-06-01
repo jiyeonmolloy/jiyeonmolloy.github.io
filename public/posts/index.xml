@@ -11,8 +11,19 @@
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 May 2025 20:55:52 +1200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 15:48:25 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🧠 Kubernetes 101: Book Recommendations, K8s Basics, and Getting Started! 🐾🐳</title>
+      <link>http://localhost:1313/posts/2025/kubernetes-101/</link>
+      <pubDate>Sun, 01 Jun 2025 15:48:25 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2025/kubernetes-101/</guid>
+      <description>&lt;p&gt;INSERT PIC HERE&lt;/p&gt;
+&lt;h2 id=&#34;-lets-start-with-a-book&#34;&gt;📚 Let&amp;rsquo;s Start With a Book!&lt;/h2&gt;
+&lt;p&gt;Before diving into YAML and containers, I highly recommend The &lt;a href=&#34;https://goodreads.com/book/show/35494978-the-kubernetes-book&#34;&gt;Kubernetes Book by Nigel Poulton&lt;/a&gt;. It’s beginner-friendly, concise, and full of real-world insights! A great read while sipping ☕ or cuddling your pup 🐕&lt;/p&gt;
+&lt;p&gt;🌍 Where Did the Word &amp;ldquo;Kubernetes&amp;rdquo; Come From?
+The word Kubernetes (pronounced koo-ber-net-ees) comes from the Greek, meaning helmsman or pilot of a ship ⛵. Fitting, since it&amp;rsquo;s all about steering your containers through cloud seas!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🔐 No More Secrets 😎 Secure GCP Auth from GitHub Actions using Workload Identity Federation</title>
       <link>http://localhost:1313/posts/2025/gha-gcp-wif/</link>

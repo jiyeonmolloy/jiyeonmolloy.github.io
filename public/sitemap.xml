@@ -2,13 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-06-01T15:48:25+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-06-01T15:48:25+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/k8s/</loc>
+    <lastmod>2025-06-01T15:48:25+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/kubernetes/</loc>
+    <lastmod>2025-06-01T15:48:25+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/nigel-poulton/</loc>
+    <lastmod>2025-06-01T15:48:25+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-06-01T15:48:25+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/probes/</loc>
+    <lastmod>2025-06-01T15:48:25+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/software-engineers/</loc>
+    <lastmod>2025-06-01T15:48:25+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tips/</loc>
+    <lastmod>2025-06-01T15:48:25+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/kubernetes-101/</loc>
+    <lastmod>2025-06-01T15:48:25+12:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/2025/gha-gcp-wif/</loc>
     <lastmod>2025-05-18T20:55:52+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/auth/</loc>
-    <lastmod>2025-05-18T20:55:52+12:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-05-18T20:55:52+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/github-actions/</loc>
@@ -17,19 +44,7 @@
     <loc>http://localhost:1313/categories/google-cloud/</loc>
     <lastmod>2025-05-18T20:55:52+12:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-18T20:55:52+12:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-05-18T20:55:52+12:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/security/</loc>
-    <lastmod>2025-05-18T20:55:52+12:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/software-engineers/</loc>
-    <lastmod>2025-05-18T20:55:52+12:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/tips/</loc>
     <lastmod>2025-05-18T20:55:52+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/workload-identity-federation/</loc>

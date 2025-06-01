@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kubernetes on Ji Molloy</title>
+    <link>http://localhost:1313/categories/kubernetes/</link>
+    <description>Recent content in Kubernetes on Ji Molloy</description>
+    <image>
+      <title>Ji Molloy</title>
+      <url>http://localhost:1313/assets/images/eevee-on-computer-circle.png</url>
+      <link>http://localhost:1313/assets/images/eevee-on-computer-circle.png</link>
+    </image>
+    <generator>Hugo -- 0.144.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jun 2025 15:48:25 +1200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🧠 Kubernetes 101: Book Recommendations, K8s Basics, and Getting Started! 🐾🐳</title>
+      <link>http://localhost:1313/posts/2025/kubernetes-101/</link>
+      <pubDate>Sun, 01 Jun 2025 15:48:25 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2025/kubernetes-101/</guid>
+      <description>&lt;p&gt;INSERT PIC HERE&lt;/p&gt;
+&lt;h2 id=&#34;-lets-start-with-a-book&#34;&gt;📚 Let&amp;rsquo;s Start With a Book!&lt;/h2&gt;
+&lt;p&gt;Before diving into YAML and containers, I highly recommend The &lt;a href=&#34;https://goodreads.com/book/show/35494978-the-kubernetes-book&#34;&gt;Kubernetes Book by Nigel Poulton&lt;/a&gt;. It’s beginner-friendly, concise, and full of real-world insights! A great read while sipping ☕ or cuddling your pup 🐕&lt;/p&gt;
+&lt;p&gt;🌍 Where Did the Word &amp;ldquo;Kubernetes&amp;rdquo; Come From?
+The word Kubernetes (pronounced koo-ber-net-ees) comes from the Greek, meaning helmsman or pilot of a ship ⛵. Fitting, since it&amp;rsquo;s all about steering your containers through cloud seas!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
