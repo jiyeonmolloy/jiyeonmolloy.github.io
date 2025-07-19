@@ -11,18 +11,40 @@
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jun 2025 15:48:25 +1200</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 21:03:28 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/tips/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>🧠 Kubernetes 101: Book Recommendations, K8s Basics, and Getting Started! 🐾🐳</title>
+      <title>🧾 kubectl apply -f 2025.yaml: Declaring My Goals</title>
+      <link>http://localhost:1313/posts/2025/my-2025-goals/</link>
+      <pubDate>Sat, 19 Jul 2025 21:03:28 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2025/my-2025-goals/</guid>
+      <description>&lt;p&gt;Placeholder for image&lt;/p&gt;
+&lt;p&gt;Helloo 2025! 🎉 This year, I’m taking a declarative approach to my career, because why not manage your goals like you manage your infrastructure? 😄&lt;/p&gt;
+&lt;p&gt;I like to visit my goals half way through the year 😉!&lt;/p&gt;
+&lt;p&gt;Here’s what my intentions for the year looks like:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;goals&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;certification&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;One per year&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;conferences&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;in_person&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;meetups&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;a few&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;speaking&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;internal&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;true&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;external&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;true&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;team&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Kubernetes Platform&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;joined&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;6 weeks ago&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;learning_style&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;CKA lab course&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;books&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;breaking things&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;blogs&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/eevee-and-charizard-speaking-at-a-conference.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🚢 Kubernetes 101: Book Recommendations, K8s Basics with Pokémon, and Getting Started! 🐾🐳</title>
       <link>http://localhost:1313/posts/2025/kubernetes-101/</link>
       <pubDate>Sun, 01 Jun 2025 15:48:25 +1200</pubDate>
       <guid>http://localhost:1313/posts/2025/kubernetes-101/</guid>
-      <description>&lt;p&gt;INSERT PIC HERE&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/eevee-and-charizard-the-kubernetes.jpg&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;-lets-start-with-a-book&#34;&gt;📚 Let&amp;rsquo;s Start With a Book!&lt;/h2&gt;
-&lt;p&gt;Before diving into YAML and containers, I highly recommend The &lt;a href=&#34;https://goodreads.com/book/show/35494978-the-kubernetes-book&#34;&gt;Kubernetes Book by Nigel Poulton&lt;/a&gt;. It’s beginner-friendly, concise, and full of real-world insights! A great read while sipping ☕ or cuddling your pup 🐕&lt;/p&gt;
-&lt;p&gt;🌍 Where Did the Word &amp;ldquo;Kubernetes&amp;rdquo; Come From?
-The word Kubernetes (pronounced koo-ber-net-ees) comes from the Greek, meaning helmsman or pilot of a ship ⛵. Fitting, since it&amp;rsquo;s all about steering your containers through cloud seas!&lt;/p&gt;</description>
+&lt;p&gt;I highly recommend The &lt;a href=&#34;https://goodreads.com/book/show/35494978-the-kubernetes-book&#34;&gt;Kubernetes Book by Nigel Poulton&lt;/a&gt;. It’s beginner-friendly, concise, and full of real world insights. It&amp;rsquo;s a great starting point when learning about Kubernetes.&lt;/p&gt;
+&lt;h2 id=&#34;-where-did-the-word-kubernetes-come-from&#34;&gt;🌍 Where Did the Word Kubernetes Come From?&lt;/h2&gt;
+&lt;p&gt;The word &lt;code&gt;Kubernetes&lt;/code&gt; (pronounced Q-ber-net-ees) comes from Greek, meaning helmsman or pilot of a ship ⛵. We often use &lt;code&gt;K8s&lt;/code&gt; as a shorthand to refer to Kubernetes! This is because there are 8 letters between &lt;code&gt;K&lt;/code&gt; and &lt;code&gt;s&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>🔐 No More Secrets 😎 Secure GCP Auth from GitHub Actions using Workload Identity Federation</title>

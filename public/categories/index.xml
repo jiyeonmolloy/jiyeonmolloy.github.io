@@ -11,20 +11,55 @@
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jun 2025 15:48:25 +1200</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 21:03:28 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025</title>
+      <link>http://localhost:1313/categories/2025/</link>
+      <pubDate>Sat, 19 Jul 2025 21:03:28 +1200</pubDate>
+      <guid>http://localhost:1313/categories/2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Goals</title>
+      <link>http://localhost:1313/categories/goals/</link>
+      <pubDate>Sat, 19 Jul 2025 21:03:28 +1200</pubDate>
+      <guid>http://localhost:1313/categories/goals/</guid>
+      <description></description>
+    </item>
     <item>
       <title>K8s</title>
       <link>http://localhost:1313/categories/k8s/</link>
-      <pubDate>Sun, 01 Jun 2025 15:48:25 +1200</pubDate>
+      <pubDate>Sat, 19 Jul 2025 21:03:28 +1200</pubDate>
       <guid>http://localhost:1313/categories/k8s/</guid>
       <description></description>
     </item>
     <item>
       <title>Kubernetes</title>
       <link>http://localhost:1313/categories/kubernetes/</link>
-      <pubDate>Sun, 01 Jun 2025 15:48:25 +1200</pubDate>
+      <pubDate>Sat, 19 Jul 2025 21:03:28 +1200</pubDate>
       <guid>http://localhost:1313/categories/kubernetes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Platform</title>
+      <link>http://localhost:1313/categories/platform/</link>
+      <pubDate>Sat, 19 Jul 2025 21:03:28 +1200</pubDate>
+      <guid>http://localhost:1313/categories/platform/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software Engineers</title>
+      <link>http://localhost:1313/categories/software-engineers/</link>
+      <pubDate>Sat, 19 Jul 2025 21:03:28 +1200</pubDate>
+      <guid>http://localhost:1313/categories/software-engineers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips</title>
+      <link>http://localhost:1313/categories/tips/</link>
+      <pubDate>Sat, 19 Jul 2025 21:03:28 +1200</pubDate>
+      <guid>http://localhost:1313/categories/tips/</guid>
       <description></description>
     </item>
     <item>
@@ -35,24 +70,17 @@
       <description></description>
     </item>
     <item>
+      <title>Pokemon</title>
+      <link>http://localhost:1313/categories/pokemon/</link>
+      <pubDate>Sun, 01 Jun 2025 15:48:25 +1200</pubDate>
+      <guid>http://localhost:1313/categories/pokemon/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Probes</title>
       <link>http://localhost:1313/categories/probes/</link>
       <pubDate>Sun, 01 Jun 2025 15:48:25 +1200</pubDate>
       <guid>http://localhost:1313/categories/probes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Software Engineers</title>
-      <link>http://localhost:1313/categories/software-engineers/</link>
-      <pubDate>Sun, 01 Jun 2025 15:48:25 +1200</pubDate>
-      <guid>http://localhost:1313/categories/software-engineers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tips</title>
-      <link>http://localhost:1313/categories/tips/</link>
-      <pubDate>Sun, 01 Jun 2025 15:48:25 +1200</pubDate>
-      <guid>http://localhost:1313/categories/tips/</guid>
       <description></description>
     </item>
     <item>
@@ -154,13 +182,6 @@
       <description></description>
     </item>
     <item>
-      <title>Platform</title>
-      <link>http://localhost:1313/categories/platform/</link>
-      <pubDate>Sun, 27 Apr 2025 12:34:36 +1200</pubDate>
-      <guid>http://localhost:1313/categories/platform/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Continuous Delivery</title>
       <link>http://localhost:1313/categories/continuous-delivery/</link>
       <pubDate>Sun, 06 Apr 2025 16:16:34 +1200</pubDate>
@@ -214,13 +235,6 @@
       <link>http://localhost:1313/categories/game/</link>
       <pubDate>Sun, 30 Mar 2025 20:19:56 +1300</pubDate>
       <guid>http://localhost:1313/categories/game/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pokemon</title>
-      <link>http://localhost:1313/categories/pokemon/</link>
-      <pubDate>Sun, 30 Mar 2025 20:19:56 +1300</pubDate>
-      <guid>http://localhost:1313/categories/pokemon/</guid>
       <description></description>
     </item>
     <item>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Platform on Ji Molloy</title>
-    <link>http://localhost:1313/categories/platform/</link>
-    <description>Recent content in Platform on Ji Molloy</description>
+    <title>Goals on Ji Molloy</title>
+    <link>http://localhost:1313/categories/goals/</link>
+    <description>Recent content in Goals on Ji Molloy</description>
     <image>
       <title>Ji Molloy</title>
       <url>http://localhost:1313/assets/images/eevee-on-computer-circle.png</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Jul 2025 21:03:28 +1200</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/platform/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/goals/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🧾 kubectl apply -f 2025.yaml: Declaring My Goals</title>
       <link>http://localhost:1313/posts/2025/my-2025-goals/</link>
@@ -34,26 +34,6 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;joined&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;6 weeks ago&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;learning_style&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;CKA lab course&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;books&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;breaking things&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;blogs&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/eevee-and-charizard-speaking-at-a-conference.png&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>☁ Google Cloud Next Series 🚀 Building a Competitive Edge with Platform Engineering: Insights from the Experts 🎯</title>
-      <link>http://localhost:1313/posts/2025/google-cloud-next-1/</link>
-      <pubDate>Sun, 27 Apr 2025 12:34:36 +1200</pubDate>
-      <guid>http://localhost:1313/posts/2025/google-cloud-next-1/</guid>
-      <description>&lt;p&gt;Heya! 👋✨
-Today, we are diving into a summary from an expert panel discussion on Platform Engineering 🌟&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/eevee-and-charizard-in-engineering-expert-panel.png&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;-platform-engineering--developer-experience-&#34;&gt;🛠️ Platform Engineering &amp;amp; Developer Experience 💕&lt;/h3&gt;
-&lt;p&gt;One of the biggest takeaways? Platform Engineering isn&amp;rsquo;t just all about the underlying Platform — it&amp;rsquo;s also about making life better for our engineers! 🎉&lt;/p&gt;
-&lt;p&gt;Here’s how:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Reducing cognitive load 🧹: Engineers can focus on building, not battling with underlying infrastructure!&lt;/li&gt;
-&lt;li&gt;Self-service portals 🛎️: Developers get what they need, fast and easy!&lt;/li&gt;
-&lt;li&gt;Abstracting complexities 🔍: Bye bye, confusing infrastructure layers!&lt;/li&gt;
-&lt;li&gt;Measuring engineer satisfaction 📏❤️: Keeping a pulse on happiness across all tools.&lt;/li&gt;
-&lt;li&gt;Closing the feedback loop 🔄: Turning feedback into real action and success!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In short, happier engineers = better products = happier customers! 🎉🙌&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
