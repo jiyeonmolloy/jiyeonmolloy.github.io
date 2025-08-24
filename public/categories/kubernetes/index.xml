@@ -14,15 +14,13 @@
     <lastBuildDate>Sat, 23 Aug 2025 20:42:22 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>🕸️ Service Mesh &#43; Kubernetes 101</title>
+      <title>🕸️ Service Mesh &#43; Kubernetes 💑</title>
       <link>http://localhost:1313/posts/2025/service-mesh-101/</link>
       <pubDate>Sat, 23 Aug 2025 20:42:22 +1200</pubDate>
       <guid>http://localhost:1313/posts/2025/service-mesh-101/</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/eevee-and-charizard-in-service-mesh.jpeg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;If you have ever worked with Kubernetes and found yourself wondering 🤔 &amp;ldquo;How do all my services talk to each other reliably, securely, and observably without writing heaps of networking logic into my application code?&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;That is exactly where a &lt;a href=&#34;https://aws.amazon.com/what-is/service-mesh/&#34;&gt;Service Mesh&lt;/a&gt; comes in. Let’s dive into what it is, how it is helpful, and why (or why not!) you might want to add one to your cluster 🚀&lt;/p&gt;
-&lt;h2 id=&#34;-what-is-a-service-mesh&#34;&gt;🌐 What is a Service Mesh?&lt;/h2&gt;
-&lt;p&gt;A service mesh is a dedicated infrastructure layer that handles service-to-service communication in a cluster.&lt;/p&gt;</description>
+&lt;p&gt;That is exactly where a &lt;a href=&#34;https://aws.amazon.com/what-is/service-mesh/&#34;&gt;service mesh&lt;/a&gt; comes in. Let’s dive into what it is, how it is helpful, and why (or why not!) you might want to add one to your cluster 🚀 Let&amp;rsquo;s goooo!&lt;/p&gt;</description>
     </item>
     <item>
       <title>🧾 kubectl apply -f 2025.yaml: Declaring My Goals</title>
