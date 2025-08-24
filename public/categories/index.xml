@@ -11,8 +11,50 @@
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Jul 2025 21:03:28 +1200</lastBuildDate>
+    <lastBuildDate>Sat, 23 Aug 2025 20:42:22 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>K8s</title>
+      <link>http://localhost:1313/categories/k8s/</link>
+      <pubDate>Sat, 23 Aug 2025 20:42:22 +1200</pubDate>
+      <guid>http://localhost:1313/categories/k8s/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kubernetes</title>
+      <link>http://localhost:1313/categories/kubernetes/</link>
+      <pubDate>Sat, 23 Aug 2025 20:42:22 +1200</pubDate>
+      <guid>http://localhost:1313/categories/kubernetes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Platform</title>
+      <link>http://localhost:1313/categories/platform/</link>
+      <pubDate>Sat, 23 Aug 2025 20:42:22 +1200</pubDate>
+      <guid>http://localhost:1313/categories/platform/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Service Mesh</title>
+      <link>http://localhost:1313/categories/service-mesh/</link>
+      <pubDate>Sat, 23 Aug 2025 20:42:22 +1200</pubDate>
+      <guid>http://localhost:1313/categories/service-mesh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software Engineers</title>
+      <link>http://localhost:1313/categories/software-engineers/</link>
+      <pubDate>Sat, 23 Aug 2025 20:42:22 +1200</pubDate>
+      <guid>http://localhost:1313/categories/software-engineers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips</title>
+      <link>http://localhost:1313/categories/tips/</link>
+      <pubDate>Sat, 23 Aug 2025 20:42:22 +1200</pubDate>
+      <guid>http://localhost:1313/categories/tips/</guid>
+      <description></description>
+    </item>
     <item>
       <title>2025</title>
       <link>http://localhost:1313/categories/2025/</link>
@@ -25,41 +67,6 @@
       <link>http://localhost:1313/categories/goals/</link>
       <pubDate>Sat, 19 Jul 2025 21:03:28 +1200</pubDate>
       <guid>http://localhost:1313/categories/goals/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>K8s</title>
-      <link>http://localhost:1313/categories/k8s/</link>
-      <pubDate>Sat, 19 Jul 2025 21:03:28 +1200</pubDate>
-      <guid>http://localhost:1313/categories/k8s/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kubernetes</title>
-      <link>http://localhost:1313/categories/kubernetes/</link>
-      <pubDate>Sat, 19 Jul 2025 21:03:28 +1200</pubDate>
-      <guid>http://localhost:1313/categories/kubernetes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Platform</title>
-      <link>http://localhost:1313/categories/platform/</link>
-      <pubDate>Sat, 19 Jul 2025 21:03:28 +1200</pubDate>
-      <guid>http://localhost:1313/categories/platform/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Software Engineers</title>
-      <link>http://localhost:1313/categories/software-engineers/</link>
-      <pubDate>Sat, 19 Jul 2025 21:03:28 +1200</pubDate>
-      <guid>http://localhost:1313/categories/software-engineers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tips</title>
-      <link>http://localhost:1313/categories/tips/</link>
-      <pubDate>Sat, 19 Jul 2025 21:03:28 +1200</pubDate>
-      <guid>http://localhost:1313/categories/tips/</guid>
       <description></description>
     </item>
     <item>
