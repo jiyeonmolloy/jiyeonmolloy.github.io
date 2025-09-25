@@ -11,8 +11,43 @@
     </image>
     <generator>Hugo -- 0.150.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Aug 2025 20:42:22 +1200</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 20:30:19 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conference</title>
+      <link>http://localhost:1313/categories/conference/</link>
+      <pubDate>Thu, 25 Sep 2025 20:30:19 +1200</pubDate>
+      <guid>http://localhost:1313/categories/conference/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Event</title>
+      <link>http://localhost:1313/categories/event/</link>
+      <pubDate>Thu, 25 Sep 2025 20:30:19 +1200</pubDate>
+      <guid>http://localhost:1313/categories/event/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software Engineers</title>
+      <link>http://localhost:1313/categories/software-engineers/</link>
+      <pubDate>Thu, 25 Sep 2025 20:30:19 +1200</pubDate>
+      <guid>http://localhost:1313/categories/software-engineers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Speaker</title>
+      <link>http://localhost:1313/categories/speaker/</link>
+      <pubDate>Thu, 25 Sep 2025 20:30:19 +1200</pubDate>
+      <guid>http://localhost:1313/categories/speaker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips</title>
+      <link>http://localhost:1313/categories/tips/</link>
+      <pubDate>Thu, 25 Sep 2025 20:30:19 +1200</pubDate>
+      <guid>http://localhost:1313/categories/tips/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Consul</title>
       <link>http://localhost:1313/categories/consul/</link>
@@ -74,20 +109,6 @@
       <link>http://localhost:1313/categories/service-mesh/</link>
       <pubDate>Sat, 23 Aug 2025 20:42:22 +1200</pubDate>
       <guid>http://localhost:1313/categories/service-mesh/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Software Engineers</title>
-      <link>http://localhost:1313/categories/software-engineers/</link>
-      <pubDate>Sat, 23 Aug 2025 20:42:22 +1200</pubDate>
-      <guid>http://localhost:1313/categories/software-engineers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tips</title>
-      <link>http://localhost:1313/categories/tips/</link>
-      <pubDate>Sat, 23 Aug 2025 20:42:22 +1200</pubDate>
-      <guid>http://localhost:1313/categories/tips/</guid>
       <description></description>
     </item>
     <item>
@@ -165,13 +186,6 @@
       <link>http://localhost:1313/categories/cloud/</link>
       <pubDate>Wed, 30 Apr 2025 20:17:49 +1200</pubDate>
       <guid>http://localhost:1313/categories/cloud/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Conference</title>
-      <link>http://localhost:1313/categories/conference/</link>
-      <pubDate>Wed, 30 Apr 2025 20:17:49 +1200</pubDate>
-      <guid>http://localhost:1313/categories/conference/</guid>
       <description></description>
     </item>
     <item>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Event on Ji Molloy</title>
+    <link>http://localhost:1313/categories/event/</link>
+    <description>Recent content in Event on Ji Molloy</description>
+    <image>
+      <title>Ji Molloy</title>
+      <url>http://localhost:1313/assets/images/eevee-on-computer-circle.png</url>
+      <link>http://localhost:1313/assets/images/eevee-on-computer-circle.png</link>
+    </image>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Sep 2025 20:30:19 +1200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/event/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🎤 Giving your first conference talk 💡✨</title>
+      <link>http://localhost:1313/posts/2025/giving-your-first-conference-talk/</link>
+      <pubDate>Thu, 25 Sep 2025 20:30:19 +1200</pubDate>
+      <guid>http://localhost:1313/posts/2025/giving-your-first-conference-talk/</guid>
+      <description>&lt;p&gt;So you’ve hit submit on that talk proposal and—surprise!—an email lands in your inbox: your talk has been accepted 🎉💌.
+First of all, congratulations! That’s a huge achievement. Now the fun (and slightly scary) part begins: preparing for your very first conference talk.&lt;/p&gt;
+&lt;p&gt;⚠️ Disclaimer: My experience was with an AWS event, so every conference may run a little differently. But I hope these tips will still help you feel more confident and ready. 💪&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
