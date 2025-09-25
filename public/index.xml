@@ -250,16 +250,6 @@ I’ll be sharing more blog posts soon with deeper dives into Google Cloud Next 
 &lt;p&gt;As part of the PaaS team at Xero, when managing core CI/CD tooling, our team frequently encounters diverse customer requests 😎. While balancing these support responsibilities with our planned sprint work, we sometimes face challenging situations, including:&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Portfolio</title>
-      <link>http://localhost:1313/portfolio/</link>
-      <pubDate>Sun, 23 Feb 2025 16:51:19 +1300</pubDate>
-      <guid>http://localhost:1313/portfolio/</guid>
-      <description>&lt;h2 id=&#34;devops-cop-&#34;&gt;DevOps CoP 🚀&lt;/h2&gt;
-&lt;p&gt;DevOps Community of Practice, organiser &lt;em&gt;&lt;strong&gt;(2021 - Present)&lt;/strong&gt;&lt;/em&gt; and speaker 🎙&lt;/p&gt;
-&lt;h2 id=&#34;xcite-&#34;&gt;XCITE ⚡&lt;/h2&gt;
-&lt;p&gt;Annual conference at Xero, organiser &lt;em&gt;&lt;strong&gt;(2023)&lt;/strong&gt;&lt;/em&gt; and speaker 🎤&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>How Team Topologies relates to League of Legends 😎</title>
       <link>http://localhost:1313/posts/2025/team-topologies-league-of-legends/</link>
       <pubDate>Fri, 14 Feb 2025 17:11:43 +1300</pubDate>
@@ -496,6 +486,19 @@ I’ll be sharing more blog posts soon with deeper dives into Google Cloud Next 
       <description>&lt;p&gt;🚀 &lt;a href=&#34;https://www.linkedin.com/in/jiyeonmolloy/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;🐇 &lt;a href=&#34;https://github.com/jiyeonmolloy&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;💌 &lt;a href=&#34;mailto:jiyeon.molloy@gmail.com&#34;&gt;E-mail&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Portfolio</title>
+      <link>http://localhost:1313/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/</guid>
+      <description>&lt;h2 id=&#34;speaker-at-aws-community-days&#34;&gt;Speaker at AWS Community Days&lt;/h2&gt;
+&lt;p&gt;Presented at &lt;a href=&#34;https://aws-community-day.nz/&#34;&gt;AWS Community Days&lt;/a&gt;, sharing insights on building a scalable GitHub Actions platform on AWS &lt;em&gt;&lt;strong&gt;(2025)&lt;/strong&gt;&lt;/em&gt; 🌼&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/github-actions-platform-on-aws-at-aws-community-days.jpg&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;devops-cop-&#34;&gt;DevOps CoP 🚀&lt;/h2&gt;
+&lt;p&gt;DevOps Community of Practice, organiser &lt;em&gt;&lt;strong&gt;(2021 - Present)&lt;/strong&gt;&lt;/em&gt; and speaker 🎙&lt;/p&gt;
+&lt;h2 id=&#34;xcite-&#34;&gt;XCITE ⚡&lt;/h2&gt;
+&lt;p&gt;Annual conference at Xero, organiser &lt;em&gt;&lt;strong&gt;(2023)&lt;/strong&gt;&lt;/em&gt; and speaker 🎤&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
