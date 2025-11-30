@@ -9,10 +9,52 @@
       <url>http://localhost:1313/assets/images/eevee-on-computer-circle.png</url>
       <link>http://localhost:1313/assets/images/eevee-on-computer-circle.png</link>
     </image>
-    <generator>Hugo -- 0.150.0</generator>
+    <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Sep 2025 20:30:19 +1200</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 15:02:43 +1100</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Branding</title>
+      <link>http://localhost:1313/categories/branding/</link>
+      <pubDate>Sun, 30 Nov 2025 15:02:43 +1100</pubDate>
+      <guid>http://localhost:1313/categories/branding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Community</title>
+      <link>http://localhost:1313/categories/community/</link>
+      <pubDate>Sun, 30 Nov 2025 15:02:43 +1100</pubDate>
+      <guid>http://localhost:1313/categories/community/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Engineering Culture</title>
+      <link>http://localhost:1313/categories/engineering-culture/</link>
+      <pubDate>Sun, 30 Nov 2025 15:02:43 +1100</pubDate>
+      <guid>http://localhost:1313/categories/engineering-culture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ideas</title>
+      <link>http://localhost:1313/categories/ideas/</link>
+      <pubDate>Sun, 30 Nov 2025 15:02:43 +1100</pubDate>
+      <guid>http://localhost:1313/categories/ideas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech Mascots</title>
+      <link>http://localhost:1313/categories/tech-mascots/</link>
+      <pubDate>Sun, 30 Nov 2025 15:02:43 +1100</pubDate>
+      <guid>http://localhost:1313/categories/tech-mascots/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech Trends</title>
+      <link>http://localhost:1313/categories/tech-trends/</link>
+      <pubDate>Sun, 30 Nov 2025 15:02:43 +1100</pubDate>
+      <guid>http://localhost:1313/categories/tech-trends/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Conference</title>
       <link>http://localhost:1313/categories/conference/</link>

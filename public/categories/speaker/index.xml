@@ -9,7 +9,7 @@
       <url>http://localhost:1313/assets/images/eevee-on-computer-circle.png</url>
       <link>http://localhost:1313/assets/images/eevee-on-computer-circle.png</link>
     </image>
-    <generator>Hugo -- 0.150.0</generator>
+    <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Sep 2025 20:30:19 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/speaker/index.xml" rel="self" type="application/rss+xml" />
@@ -18,9 +18,10 @@
       <link>http://localhost:1313/posts/2025/giving-your-first-conference-talk/</link>
       <pubDate>Thu, 25 Sep 2025 20:30:19 +1200</pubDate>
       <guid>http://localhost:1313/posts/2025/giving-your-first-conference-talk/</guid>
-      <description>&lt;p&gt;So you’ve hit submit on that talk proposal and—surprise!—an email lands in your inbox: your talk has been accepted 🎉💌.
-First of all, congratulations! That’s a huge achievement. Now the fun (and slightly scary) part begins: preparing for your very first conference talk.&lt;/p&gt;
-&lt;p&gt;⚠️ Disclaimer: My experience was with an AWS event, so every conference may run a little differently. But I hope these tips will still help you feel more confident and ready. 💪&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/eevee-giving-first-talk-at-conference.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;So you have hit &lt;code&gt;submit&lt;/code&gt; on the talk proposal and you have received an e-mail that your talk has been accepted 🎉💌!
+Congratulations! Yay! Now here are some tips on preparing for your very first conference talk. I&amp;rsquo;ll be sharing some of my personal experiences, which I hope is helpful.&lt;/p&gt;
+&lt;p&gt;😮 &lt;em&gt;&lt;strong&gt;Disclaimer: My experience was with an &lt;a href=&#34;https://aws-community-day.nz/&#34;&gt;AWS Community Days event&lt;/a&gt;, so every conference may run a little differently. But I hope these tips will still help you feel more confident and ready!&lt;/strong&gt;&lt;/em&gt; 😊&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

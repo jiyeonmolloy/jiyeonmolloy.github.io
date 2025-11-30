@@ -9,10 +9,27 @@
       <url>http://localhost:1313/assets/images/eevee-on-computer-circle.png</url>
       <link>http://localhost:1313/assets/images/eevee-on-computer-circle.png</link>
     </image>
-    <generator>Hugo -- 0.150.0</generator>
+    <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Sep 2025 20:30:19 +1200</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 15:02:43 +1100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Future of Tech Mascots 🧸</title>
+      <link>http://localhost:1313/posts/2025/future-of-tech-mascots/</link>
+      <pubDate>Sun, 30 Nov 2025 15:02:43 +1100</pubDate>
+      <guid>http://localhost:1313/posts/2025/future-of-tech-mascots/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/octocat-and-friends.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Over the past few years, I have been thinking about how *&lt;code&gt;character culture&lt;/code&gt; shapes entire industries: from idol groups to stationery aisles, from gacha machines to cafés. And recently, I was thinking of: &lt;strong&gt;why aren’t tech mascots treated like real character IP?&lt;/strong&gt; 😆💭&lt;/p&gt;
+&lt;p&gt;We already know that characters with strong story, cute design, and a sense of collectability become global icons. For example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🐼 &lt;a href=&#34;https://www.pokemon.com/us&#34;&gt;Pokemon&lt;/a&gt; where each Pokemon has a unique name, powers and personalities&lt;/li&gt;
+&lt;li&gt;🎀 &lt;a href=&#34;https://www.sanrio.com/&#34;&gt;Sanrio&lt;/a&gt; and its family of characters&lt;/li&gt;
+&lt;li&gt;🎶 &lt;a href=&#34;https://www.bt21.com/character&#34;&gt;BT21&lt;/a&gt; and how each character represents a &lt;a href=&#34;https://ibighit.com/bts/eng/profile/&#34;&gt;BTS&lt;/a&gt; member&lt;/li&gt;
+&lt;li&gt;✨ &lt;a href=&#34;https://www.chiikawaofficial.com/home/#characters&#34;&gt;Chiikawa&lt;/a&gt;, with every character having a backstory&lt;/li&gt;
+&lt;li&gt;🌐 &lt;a href=&#34;https://aespa.com/&#34;&gt;aespa&lt;/a&gt;, whose AI universe concept ties all their songs and avaters together&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So… what about tech?&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🎤 Giving your first conference talk 💡✨</title>
       <link>http://localhost:1313/posts/2025/giving-your-first-conference-talk/</link>

@@ -2,22 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/2025/giving-your-first-conference-talk/</loc>
-    <lastmod>2025-09-25T20:30:19+12:00</lastmod>
+    <loc>http://localhost:1313/categories/branding/</loc>
+    <lastmod>2025-11-30T15:02:43+11:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-11-30T15:02:43+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/community/</loc>
+    <lastmod>2025-11-30T15:02:43+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/engineering-culture/</loc>
+    <lastmod>2025-11-30T15:02:43+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/future-of-tech-mascots/</loc>
+    <lastmod>2025-11-30T15:02:43+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/ideas/</loc>
+    <lastmod>2025-11-30T15:02:43+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-11-30T15:02:43+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-11-30T15:02:43+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tech-mascots/</loc>
+    <lastmod>2025-11-30T15:02:43+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tech-trends/</loc>
+    <lastmod>2025-11-30T15:02:43+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/giving-your-first-conference-talk/</loc>
     <lastmod>2025-09-25T20:30:19+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/conference/</loc>
     <lastmod>2025-09-25T20:30:19+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/event/</loc>
-    <lastmod>2025-09-25T20:30:19+12:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-09-25T20:30:19+12:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-09-25T20:30:19+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/software-engineers/</loc>
