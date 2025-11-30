@@ -47,7 +47,7 @@ Something I didn’t expect was that organisers may contact you not only via e-m
 Check LinkedIn regularly to avoid missing important updates.
 
 ***📸 Photo tip:***
-Make sure your profile picture is high resolution. My low resolution photo could have caused a bit of confusion when a different image had to be used on the event day when viewing the order of sessions.
+Make sure your profile picture is high resolution. My low resolution photo could have caused a bit of confusion when a different image had to be used on the event day when viewing the order of sessions. To avoid future problems, I went to  [DustMoth Stography](https://dustmothstg.com/) after the conference to take proper profile photos. I highly recommend [DustMoth Stography](https://dustmothstg.com/photo/?idx=245) for professional profile photos. Their services are amazing and the team is super friendly 💕!
 
 ### 😬 On the day
 
