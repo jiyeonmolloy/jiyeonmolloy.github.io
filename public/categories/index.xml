@@ -11,8 +11,57 @@
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Nov 2025 15:02:43 +1100</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 15:38:23 +1100</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autoscaling</title>
+      <link>http://localhost:1313/categories/autoscaling/</link>
+      <pubDate>Mon, 22 Dec 2025 15:38:23 +1100</pubDate>
+      <guid>http://localhost:1313/categories/autoscaling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AWS</title>
+      <link>http://localhost:1313/categories/aws/</link>
+      <pubDate>Mon, 22 Dec 2025 15:38:23 +1100</pubDate>
+      <guid>http://localhost:1313/categories/aws/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Karpenter</title>
+      <link>http://localhost:1313/categories/karpenter/</link>
+      <pubDate>Mon, 22 Dec 2025 15:38:23 +1100</pubDate>
+      <guid>http://localhost:1313/categories/karpenter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>KEDA</title>
+      <link>http://localhost:1313/categories/keda/</link>
+      <pubDate>Mon, 22 Dec 2025 15:38:23 +1100</pubDate>
+      <guid>http://localhost:1313/categories/keda/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kubernetes</title>
+      <link>http://localhost:1313/categories/kubernetes/</link>
+      <pubDate>Mon, 22 Dec 2025 15:38:23 +1100</pubDate>
+      <guid>http://localhost:1313/categories/kubernetes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software Engineers</title>
+      <link>http://localhost:1313/categories/software-engineers/</link>
+      <pubDate>Mon, 22 Dec 2025 15:38:23 +1100</pubDate>
+      <guid>http://localhost:1313/categories/software-engineers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips</title>
+      <link>http://localhost:1313/categories/tips/</link>
+      <pubDate>Mon, 22 Dec 2025 15:38:23 +1100</pubDate>
+      <guid>http://localhost:1313/categories/tips/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Branding</title>
       <link>http://localhost:1313/categories/branding/</link>
@@ -70,24 +119,10 @@
       <description></description>
     </item>
     <item>
-      <title>Software Engineers</title>
-      <link>http://localhost:1313/categories/software-engineers/</link>
-      <pubDate>Thu, 25 Sep 2025 20:30:19 +1200</pubDate>
-      <guid>http://localhost:1313/categories/software-engineers/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Speaker</title>
       <link>http://localhost:1313/categories/speaker/</link>
       <pubDate>Thu, 25 Sep 2025 20:30:19 +1200</pubDate>
       <guid>http://localhost:1313/categories/speaker/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tips</title>
-      <link>http://localhost:1313/categories/tips/</link>
-      <pubDate>Thu, 25 Sep 2025 20:30:19 +1200</pubDate>
-      <guid>http://localhost:1313/categories/tips/</guid>
       <description></description>
     </item>
     <item>
@@ -109,13 +144,6 @@
       <link>http://localhost:1313/categories/k8s/</link>
       <pubDate>Sat, 23 Aug 2025 20:42:22 +1200</pubDate>
       <guid>http://localhost:1313/categories/k8s/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kubernetes</title>
-      <link>http://localhost:1313/categories/kubernetes/</link>
-      <pubDate>Sat, 23 Aug 2025 20:42:22 +1200</pubDate>
-      <guid>http://localhost:1313/categories/kubernetes/</guid>
       <description></description>
     </item>
     <item>
@@ -571,13 +599,6 @@
       <link>http://localhost:1313/categories/serverless/</link>
       <pubDate>Fri, 24 May 2024 17:01:51 +1300</pubDate>
       <guid>http://localhost:1313/categories/serverless/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Aws</title>
-      <link>http://localhost:1313/categories/aws/</link>
-      <pubDate>Thu, 25 Aug 2022 17:04:04 +1300</pubDate>
-      <guid>http://localhost:1313/categories/aws/</guid>
       <description></description>
     </item>
   </channel>

@@ -11,8 +11,17 @@
     </image>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Sep 2025 20:30:19 +1200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 15:38:23 +1100</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/software-engineers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🚀 Scaling smarter on Kubernetes: A beginner friendly look at KEDA &amp; Karpenter ✨</title>
+      <link>http://localhost:1313/posts/2025/keda-karpenter-101/</link>
+      <pubDate>Mon, 22 Dec 2025 15:38:23 +1100</pubDate>
+      <guid>http://localhost:1313/posts/2025/keda-karpenter-101/</guid>
+      <description>&lt;p&gt;Helloo!&lt;/p&gt;
+&lt;p&gt;If you have ever run apps on Kubernetes, you will know that scaling is one of the most powerful features it gives you. But once you go beyond simple CPU-based autoscaling, things can definitely get a bit trickier.&lt;/p&gt;
+&lt;p&gt;That is where &lt;a href=&#34;https://keda.sh/&#34;&gt;KEDA&lt;/a&gt; and &lt;a href=&#34;https://karpenter.sh/&#34;&gt;Karpenter&lt;/a&gt; come in! Two really awesome open-source tools that bring smarter, faster, and more cost-friendly scaling to your clusters. In this post, we will take a beginner friendly tour of what they do, how they work, and why teams (including ours!) love them 💛&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🎤 Giving your first conference talk 💡✨</title>
       <link>http://localhost:1313/posts/2025/giving-your-first-conference-talk/</link>
