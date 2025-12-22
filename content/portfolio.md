@@ -11,4 +11,4 @@ Presented at [AWS Community Days](https://aws-community-day.nz/), sharing insigh
 DevOps Community of Practice, organiser ***(2021 - Present)*** and speaker 🎙
 
 ## XCITE ⚡
-Annual conference at Xero, organiser ***(2023)*** and speaker 🎤
+Annual conference at Xero, organiser ***(2023)*** and speaker ***(2021 and 2026)*** 🎤
