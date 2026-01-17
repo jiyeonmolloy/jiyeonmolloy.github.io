@@ -36,7 +36,7 @@ In this setup, all of these "isolated selves" are running on the same "hardware"
 
 ### 1. Why Severance Is Less Like Containers 🛑
 
-![alt text](/assets/images/containers-vs-virtual-machine.jpg)
+![alt text](/assets/images/containers-vs-virtual-machine.png)
 
 When we think of containers in the tech world, it’s important to note that they are much more lightweight and flexible than virtual machines. Containers share a single operating system and kernel, while still providing isolated environments for applications. This means that containers can interact with each other much more freely and share resources.
 
