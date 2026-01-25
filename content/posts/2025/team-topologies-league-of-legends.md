@@ -47,7 +47,7 @@ Much like stream-aligned teams, both the ADC and Mid-lane players are responsibl
 
 ## Enabling Teams: Support
 
-![alt text](/assets/images/seraphine.jpg#center)
+![alt text](/assets/images/yuumi.png#center)
 
 The Support role in LoL is similar to the Enabling Team in Team Topologies. The Support’s job is to enable the ADC (or other teammates) to perform at their best. They provide vision, crowd control, and utility, all while protecting and helping to guide the team.
 
